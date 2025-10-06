@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario de Investigación Científica</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Cuestionario de Investigación Científica</h1>
+
+        <!-- Setup Screen -->
+        <div class="setup-screen active">
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">
+                Selecciona la cantidad de preguntas con las que deseas practicar:
+            </p>
+            <div class="setup-options">
+                <button class="option-btn" onclick="startQuiz(10)">10</button>
+                <button class="option-btn" onclick="startQuiz(20)">20</button>
+                <button class="option-btn" onclick="startQuiz(30)">30</button>
+                <button class="option-btn" onclick="startQuiz(50)">50</button>
+            </div>
+            <p style="text-align: center; color: #666; margin-bottom: 1px; margin-top: 20px;">
+                "Gaona Teacher"
+            </p>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div class="quiz-screen">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+
+            <div class="question-card">
+                <div class="question-number" id="questionNumber"></div>
+                <div class="question-text" id="questionText"></div>
+                <div class="options" id="optionsContainer"></div>
+                <div class="feedback" id="feedback"></div>
+                <div class="reference" id="reference"></div>
+            </div>
+
+            <div class="nav-buttons">
+                <button class="btn" onclick="previousQuestion()" id="prevBtn">← Anterior</button>
+                <button class="btn btn-exit" onclick="exitQuiz()">🚪 Salir</button>
+                <button class="btn" onclick="nextQuestion()" id="nextBtn" disabled>Siguiente →</button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div class="results-screen">
+            <h2 style="text-align: center; color: #667eea; margin-bottom: 30px;">🎉 ¡Cuestionario Completado!</h2>
+            
+            <div class="stats" id="statsContainer"></div>
+            
+            <div class="score-message" id="scoreMessage"></div>
+
+            <div style="text-align: center;">
+                <button class="btn" onclick="restartQuiz()">Nuevo Cuestionario</button>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

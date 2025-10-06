@@ -1,0 +1,631 @@
+{
+    "cuestionario": {
+    "titulo": "Cuestionario de Investigación Científica",
+    "secciones": [
+        {
+            "nombre": "Planteamiento del Problema",
+            "rango_preguntas": "1-10",
+            "preguntas": [
+                {
+                    "numero": 1,
+                    "pregunta": "¿Qué define un problema según el documento de planteamiento del problema?",
+                    "opciones": {
+                        "A": "Una solución inmediata",
+                        "B": "Una dificultad, una disfunción o una falta de algo",
+                        "C": "Un objetivo general",
+                        "D": "Una limitación metodológica"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 4 del documento sesion1Planteamientodelproblema: \"Una dificultad, una disfunción, una falta de algo\""
+                },
+                {
+                    "numero": 2,
+                    "pregunta": "¿Cuál es el objetivo principal de la Unidad I según el documento de planteamiento del problema?",
+                    "opciones": {
+                        "A": "Conocer la importancia del problema de investigación, características, identificación y redacción",
+                        "B": "Explicar limitaciones metodológicas",
+                        "C": "Definir objetivos específicos",
+                        "D": "Justificar vacíos científicos"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 2: \"Al finalizar la Unidad I, los estudiantes conocerán la importancia del problema de investigación, características, identificación y redacción\""
+                },
+                {
+                    "numero": 3,
+                    "pregunta": "¿Qué se desarrolla en la Sesión 1 según el documento?",
+                    "opciones": {
+                        "A": "Tipos de limitaciones",
+                        "B": "Las etapas del planteamiento del problema",
+                        "C": "Recomendaciones para objetivos",
+                        "D": "Justificación racional"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 3: \"Desarrollar las etapas del planteamiento del problema\""
+                },
+                {
+                    "numero": 4,
+                    "pregunta": "¿Cuál es el rol del problema en una investigación según el contexto del documento?",
+                    "opciones": {
+                        "A": "Es un obstáculo irrelevante",
+                        "B": "Es la base para identificar disfunciones o faltas",
+                        "C": "Solo se relaciona con recursos económicos",
+                        "D": "Define los verbos de acción"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 4: Enfocado en definir el problema como dificultad o falta"
+                },
+                {
+                    "numero": 5,
+                    "pregunta": "¿Qué código de investigador se menciona en el documento de planteamiento?",
+                    "opciones": {
+                        "A": "P0034833",
+                        "B": "CONCYTEC-1",
+                        "C": "Yuri-2020",
+                        "D": "Unidad-I"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 1 y 2: \"Código N.º P0034833\""
+                },
+                {
+                    "numero": 6,
+                    "pregunta": "¿Cuál es el enfoque principal de la Unidad Didáctica I en el documento?",
+                    "opciones": {
+                        "A": "Limitaciones culturales",
+                        "B": "El problema de investigación y su importancia",
+                        "C": "Datos auto-informados",
+                        "D": "Efectos longitudinales"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 2: \"El problema de investigación\""
+                },
+                {
+                    "numero": 7,
+                    "pregunta": "¿Qué se indica como meta al finalizar la Unidad I?",
+                    "opciones": {
+                        "A": "Memorizar tipos de datos",
+                        "B": "Conocer importancia, características, identificación y redacción del problema",
+                        "C": "Explicar justificación según Bernal",
+                        "D": "Listar obstáculos económicos"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 2: Detallado en el objetivo de la unidad"
+                },
+                {
+                    "numero": 8,
+                    "pregunta": "¿Qué representa el problema en términos de disfunción según el documento?",
+                    "opciones": {
+                        "A": "Un vacío científico",
+                        "B": "Una falta de algo que genera dificultad",
+                        "C": "Un objetivo medible",
+                        "D": "Una restricción metodológica"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 4: \"Una disfunción, una falta de algo\""
+                },
+                {
+                    "numero": 9,
+                    "pregunta": "¿Quién es el autor principal mencionado en todos los documentos?",
+                    "opciones": {
+                        "A": "Ávila (2001)",
+                        "B": "Mtro. Yuri SÁNCHEZ SOLIS",
+                        "C": "Bernal (2010)",
+                        "D": "Sabaj y Landea (2012)"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Presente en página 1 de todos los documentos"
+                },
+                {
+                    "numero": 10,
+                    "pregunta": "¿Qué se enfatiza en la Sesión 1 del planteamiento?",
+                    "opciones": {
+                        "A": "Verbos para objetivos",
+                        "B": "Etapas para plantear el problema",
+                        "C": "Tipos de limitaciones",
+                        "D": "Motivos para justificar"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 3: \"Planteamiento del Problema\""
+                }
+            ]
+        },
+        {
+            "nombre": "Objetivos de la Investigación",
+            "rango_preguntas": "11-25",
+            "preguntas": [
+                {
+                    "numero": 11,
+                    "pregunta": "¿Qué son los objetivos según Bernal (2010) en el documento?",
+                    "opciones": {
+                        "A": "Propósitos del estudio que orientan el trabajo",
+                        "B": "Obstáculos metodológicos",
+                        "C": "Vacíos científicos",
+                        "D": "Limitaciones culturales"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"Los objetivos son los propósitos del estudio...\""
+                },
+                {
+                    "numero": 12,
+                    "pregunta": "¿De qué proviene el término \"objetivo\" según el documento?",
+                    "opciones": {
+                        "A": "Latín Medieval objectivus",
+                        "B": "Español justificus",
+                        "C": "Griego problema",
+                        "D": "Francés limitation"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 5: \"El término objetivo proviene del Latín Medieval objectivus\""
+                },
+                {
+                    "numero": 13,
+                    "pregunta": "¿Qué enuncian los objetivos según José Huertas (1983)?",
+                    "opciones": {
+                        "A": "El qué, el cómo y el por qué",
+                        "B": "Solo el qué",
+                        "C": "Limitaciones y tipos",
+                        "D": "Justificaciones racionales"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 5: \"Los objetivos enuncien el qué, el cómo, y el por qué\""
+                },
+                {
+                    "numero": 14,
+                    "pregunta": "¿Qué característica deben tener los objetivos para evitar desviaciones?",
+                    "opciones": {
+                        "A": "Ser claros y precisos",
+                        "B": "Ser ambiguos",
+                        "C": "Ignorar congruencia",
+                        "D": "No ser medibles"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"Deben ser claros y precisos para evitar confusiones o desviaciones\""
+                },
+                {
+                    "numero": 15,
+                    "pregunta": "¿Pueden modificarse los objetivos durante la investigación?",
+                    "opciones": {
+                        "A": "No, son inmutables",
+                        "B": "Sí, en algunos casos",
+                        "C": "Solo si hay limitaciones económicas",
+                        "D": "Siempre deben cambiarse"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 4: \"Esto no implica que los objetivos no puedan modificarse...\""
+                },
+                {
+                    "numero": 16,
+                    "pregunta": "¿Qué deben ser los objetivos según sus características?",
+                    "opciones": {
+                        "A": "Medibles y observables",
+                        "B": "Abstractos e inalcanzables",
+                        "C": "Solo generales",
+                        "D": "Sin relación con necesidades"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 11: \"Deben ser medibles y observables\""
+                },
+                {
+                    "numero": 17,
+                    "pregunta": "¿Qué tipo de objetivos se refieren a resultados amplios?",
+                    "opciones": {
+                        "A": "Específicos",
+                        "B": "Generales",
+                        "C": "Longitudinales",
+                        "D": "Culturales"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 12: \"El objetivo general se refiere a resultados amplios\""
+                },
+                {
+                    "numero": 18,
+                    "pregunta": "¿Qué representan los objetivos específicos?",
+                    "opciones": {
+                        "A": "Situaciones particulares que forman parte del general",
+                        "B": "Obstáculos principales",
+                        "C": "Justificaciones parciales",
+                        "D": "Limitaciones de datos"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 12: \"Los objetivos específicos a situaciones particulares...\""
+                },
+                {
+                    "numero": 19,
+                    "pregunta": "¿Qué igualdad se menciona respecto a los objetivos?",
+                    "opciones": {
+                        "A": "Suma de específicos = general",
+                        "B": "General > específicos",
+                        "C": "Específicos independientes",
+                        "D": "Ninguna relación"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 18: \"La suma de objetivos específicos = objetivo general\""
+                },
+                {
+                    "numero": 20,
+                    "pregunta": "¿Cómo deben empezar los enunciados de objetivos?",
+                    "opciones": {
+                        "A": "Con un verbo",
+                        "B": "Con un sustantivo",
+                        "C": "Con una preposición",
+                        "D": "Con un adjetivo"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 9: \"Un enunciado siempre empieza con un verbo\""
+                },
+                {
+                    "numero": 21,
+                    "pregunta": "¿Qué se recomienda para la redacción de objetivos?",
+                    "opciones": {
+                        "A": "Verbo + contenido + para qué, por qué",
+                        "B": "Solo verbo",
+                        "C": "Contenido sin acción",
+                        "D": "En primera persona"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 22: \"Verbo + contenido + para qué, por qué...\""
+                },
+                {
+                    "numero": 22,
+                    "pregunta": "¿En qué persona deben redactarse los objetivos?",
+                    "opciones": {
+                        "A": "Primera persona",
+                        "B": "Tercera persona o impersonal",
+                        "C": "Segunda persona",
+                        "D": "Plural exclusiva"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 21: \"Deben ser redactados en tercera persona o en forma impersonal\""
+                },
+                {
+                    "numero": 23,
+                    "pregunta": "¿De qué se derivan los objetivos según sus características?",
+                    "opciones": {
+                        "A": "De necesidades o problemas",
+                        "B": "De limitaciones culturales",
+                        "C": "De datos auto-informados",
+                        "D": "De efectos longitudinales"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 10: \"Se derivan de la detección de las necesidades o problemas\""
+                },
+                {
+                    "numero": 24,
+                    "pregunta": "¿Qué deben comprender los objetivos?",
+                    "opciones": {
+                        "A": "Resultados concretos",
+                        "B": "Abstracciones vagas",
+                        "C": "Solo alcances imposibles",
+                        "D": "Sin observabilidad"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 11: \"Comprende resultados concretos\""
+                },
+                {
+                    "numero": 25,
+                    "pregunta": "¿Qué es el objetivo en términos de logro?",
+                    "opciones": {
+                        "A": "Un dato simple",
+                        "B": "Un logro verificable",
+                        "C": "Una limitación",
+                        "D": "Un vacío"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 8: \"Un objetivo que llega a ser un logro\""
+                }
+            ]
+        },
+        {
+            "nombre": "Justificación de la Investigación",
+            "rango_preguntas": "26-35",
+            "preguntas": [
+                {
+                    "numero": 26,
+                    "pregunta": "¿Qué significa justificar según el Diccionario de la Real Academia Española (2020)?",
+                    "opciones": {
+                        "A": "Indicar la causa, motivo o razón que justifica algún hecho",
+                        "B": "Definir un problema",
+                        "C": "Listar limitaciones",
+                        "D": "Enunciar objetivos"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"De acuerdo con el Diccionario... indicar la causa, motivo o razón...\""
+                },
+                {
+                    "numero": 27,
+                    "pregunta": "¿Cómo define Sabaj y Landea (2012) la justificación?",
+                    "opciones": {
+                        "A": "Una operación racional para fundamentar actos, creencias y conocimientos",
+                        "B": "Un obstáculo metodológico",
+                        "C": "Un objetivo específico",
+                        "D": "Una limitación de acceso"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"En palabras de Sabaj y Landea (2012)...\""
+                },
+                {
+                    "numero": 28,
+                    "pregunta": "¿Qué atiende la justificación en el campo de la ciencia según Bernal (2010)?",
+                    "opciones": {
+                        "A": "Resolución de un problema o vacío científico",
+                        "B": "Tamaño de muestra",
+                        "C": "Efectos longitudinales",
+                        "D": "Datos auto-informados"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"La justificación en el campo de la ciencia atiende a la resolución...\""
+                },
+                {
+                    "numero": 29,
+                    "pregunta": "¿Qué debe cubrir la justificación?",
+                    "opciones": {
+                        "A": "Un vacío científico total o parcialmente",
+                        "B": "Solo problemas económicos",
+                        "C": "Limitaciones culturales",
+                        "D": "Objetivos no medibles"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"Algún vacío científico que deba cubrirse...\""
+                },
+                {
+                    "numero": 30,
+                    "pregunta": "¿Qué requiere la justificación según Bernal?",
+                    "opciones": {
+                        "A": "Argumentación contundente",
+                        "B": "Ambigüedad",
+                        "C": "Ignorar vacíos",
+                        "D": "Solo descripciones"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"Amerite con argumentación contundente su desarrollo\""
+                },
+                {
+                    "numero": 31,
+                    "pregunta": "¿Qué es la justificación en términos racionales?",
+                    "opciones": {
+                        "A": "Fundamentar actos y conocimientos",
+                        "B": "Listar tipos de datos",
+                        "C": "Definir verbos",
+                        "D": "Explicar obstáculos"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"Una operación racional...\""
+                },
+                {
+                    "numero": 32,
+                    "pregunta": "¿Qué busca el investigador en la justificación?",
+                    "opciones": {
+                        "A": "Fundamentar sus actos, creencias y conocimientos",
+                        "B": "Evitar discusiones de limitaciones",
+                        "C": "Modificar objetivos constantemente",
+                        "D": "Ignorar problemas"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: Sabaj y Landea"
+                },
+                {
+                    "numero": 33,
+                    "pregunta": "¿Qué amerita el desarrollo de una justificación?",
+                    "opciones": {
+                        "A": "Argumentación para cubrir vacíos",
+                        "B": "Solo listados",
+                        "C": "Imágenes",
+                        "D": "Códigos"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: Bernal (2010)"
+                },
+                {
+                    "numero": 34,
+                    "pregunta": "¿Qué fuente se cita para la definición de justificar?",
+                    "opciones": {
+                        "A": "Diccionario de la Real Academia Española (2020)",
+                        "B": "Ávila (2001)",
+                        "C": "José Huertas (1983)",
+                        "D": "CONCYTEC"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4"
+                },
+                {
+                    "numero": 35,
+                    "pregunta": "¿Qué es esencial en la justificación científica?",
+                    "opciones": {
+                        "A": "Resolver problemas con argumentación",
+                        "B": "Listar perjuicios culturales",
+                        "C": "Definir tamaños de muestra",
+                        "D": "Enunciar efectos longitudinales"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: Bernal"
+                }
+            ]
+        },
+        {
+            "nombre": "Limitaciones de una Investigación",
+            "rango_preguntas": "36-50",
+            "preguntas": [
+                {
+                    "numero": 36,
+                    "pregunta": "¿Qué son las limitaciones según Ávila (2001)?",
+                    "opciones": {
+                        "A": "Dejar de estudiar un aspecto por alguna razón",
+                        "B": "Objetivos generales",
+                        "C": "Justificaciones racionales",
+                        "D": "Problemas resueltos"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"Una limitación consiste en que se deja de estudiar un aspecto...\""
+                },
+                {
+                    "numero": 37,
+                    "pregunta": "¿De dónde surgen las limitaciones según el documento?",
+                    "opciones": {
+                        "A": "Restricciones de metodología o diseño",
+                        "B": "Objetivos específicos",
+                        "C": "Vacíos científicos",
+                        "D": "Verbos de acción"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"Pueden surgir debido a las restricciones de la metodología...\""
+                },
+                {
+                    "numero": 38,
+                    "pregunta": "¿Por qué prefieren los investigadores no hablar de limitaciones?",
+                    "opciones": {
+                        "A": "Creen que devaluarán su trabajo",
+                        "B": "Son irrelevantes",
+                        "C": "Aumentan la justificación",
+                        "D": "Mejoran los objetivos"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 4: \"Prefieren no hablar de las limitaciones... porque creen que devaluarán su trabajo\""
+                },
+                {
+                    "numero": 39,
+                    "pregunta": "¿Qué es fundamental mostrar respecto a las limitaciones?",
+                    "opciones": {
+                        "A": "Su impacto en análisis y conclusiones",
+                        "B": "Solo su existencia",
+                        "C": "Ignorarlas",
+                        "D": "Modificarlas siempre"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 5: \"Explica cómo las limitaciones... pueden tener un impacto potencial en el análisis y las conclusiones\""
+                },
+                {
+                    "numero": 40,
+                    "pregunta": "¿Qué afectan las limitaciones en la interpretación?",
+                    "opciones": {
+                        "A": "Características del diseño o metodología",
+                        "B": "Solo recursos económicos",
+                        "C": "Objetivos generales",
+                        "D": "Justificaciones parciales"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 5: \"Aquellas características del diseño o metodología que afectan la interpretación...\""
+                },
+                {
+                    "numero": 41,
+                    "pregunta": "¿Qué tipo de limitaciones incluye \"tamaño de la muestra\"?",
+                    "opciones": {
+                        "A": "Metodológicas",
+                        "B": "Atribuibles al investigador",
+                        "C": "Culturales",
+                        "D": "Idiomáticas"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 6: \"Tipos de limitaciones: Metodológicas - Tamaño de la muestra\""
+                },
+                {
+                    "numero": 42,
+                    "pregunta": "¿Qué ejemplo de limitación atribuible al investigador se menciona?",
+                    "opciones": {
+                        "A": "Acceso",
+                        "B": "Falta de estudios previos",
+                        "C": "Datos auto-informados",
+                        "D": "Min_replies"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 6: \"Atribuibles al investigador - Acceso\""
+                },
+                {
+                    "numero": 43,
+                    "pregunta": "¿Qué pregunta relacionada con limitaciones se plantea sobre recursos?",
+                    "opciones": {
+                        "A": "¿Tienen los recursos económicos suficientes?",
+                        "B": "¿Qué verbo usar?",
+                        "C": "¿Cuál es el vacío?",
+                        "D": "¿Cómo justificar?"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 8: \"Las limitaciones... ¿Tienen los recursos económicos suficientes?\""
+                },
+                {
+                    "numero": 44,
+                    "pregunta": "¿Qué impacto tienen las limitaciones en los hallazgos?",
+                    "opciones": {
+                        "A": "Restricciones a la generalización y utilidad",
+                        "B": "Ninguno",
+                        "C": "Solo en objetivos",
+                        "D": "En justificación racional"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 5: \"Relacionadas con posibles restricciones a la generalización, a la utilidad...\""
+                },
+                {
+                    "numero": 45,
+                    "pregunta": "¿Qué tipo de limitación es \"falta de datos confiables\"?",
+                    "opciones": {
+                        "A": "Metodológica",
+                        "B": "Longitudinal",
+                        "C": "Cultural",
+                        "D": "Idioma"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 6: \"Falta de datos confiables\""
+                },
+                {
+                    "numero": 46,
+                    "pregunta": "¿Qué se debe reconocer sobre las limitaciones?",
+                    "opciones": {
+                        "A": "Su impacto potencial",
+                        "B": "Ignorar su existencia",
+                        "C": "Solo en revistas",
+                        "D": "Sin explicación"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 5: \"Reconocer que es consciente de estas limitaciones y del impacto...\""
+                },
+                {
+                    "numero": 47,
+                    "pregunta": "¿Qué ejemplo de obstáculo se menciona en limitaciones?",
+                    "opciones": {
+                        "A": "¿Tiene el apoyo necesario?",
+                        "B": "¿Qué contenido?",
+                        "C": "¿Por qué justificar?",
+                        "D": "¿Cuál problema?"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 8: \"¿Tiene el apoyo necesario?\""
+                },
+                {
+                    "numero": 48,
+                    "pregunta": "¿Qué tipo de limitación es \"perjuicios culturales\"?",
+                    "opciones": {
+                        "A": "Atribuibles al investigador",
+                        "B": "Metodológica",
+                        "C": "De datos",
+                        "D": "De estudios previos"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 6: \"Perjuicios culturales\""
+                },
+                {
+                    "numero": 49,
+                    "pregunta": "¿Qué son las limitaciones en términos de obstáculos?",
+                    "opciones": {
+                        "A": "Los que encuentran los investigadores para realizar su estudio",
+                        "B": "Solo metodológicas",
+                        "C": "Objetivos no alcanzados",
+                        "D": "Justificaciones fallidas"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 8: \"Las limitaciones son los obstáculos que encuentran los investigadores...\""
+                },
+                {
+                    "numero": 50,
+                    "pregunta": "¿Qué pregunta sobre tiempo se relaciona con limitaciones?",
+                    "opciones": {
+                        "A": "¿Tienen la disponibilidad de tiempo suficiente?",
+                        "B": "¿Qué verbo?",
+                        "C": "¿Para qué?",
+                        "D": "¿Cuál motivo?"
+                    },
+                    "respuesta_correcta": "A",
+                    "referencia": "Página 8: \"¿Tienen la disponibilidad de tiempo suficiente?\""
+                }
+            ]
+        }
+    ]
+}
+}
