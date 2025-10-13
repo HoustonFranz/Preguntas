@@ -1,639 +1,636 @@
 {
     "cuestionario": {
-        "titulo": "Cuestionario: Delimitación y Justificación de Problemas de Investigación en Ciencias Sociales",
-        "secciones": [
+      "titulo": "Cuestionario de Alto Nivel: Metodología para Elaborar una Investigación Científica en Administración de Negocios",
+      "instrucciones": "Este cuestionario evalúa la comprensión profunda de los conceptos metodológicos fundamentales para la investigación científica en el área de Administración de Negocios. Lea cuidadosamente cada pregunta y seleccione la respuesta más precisa según el documento de referencia.",
+      "secciones": [
+        {
+          "nombre": "I. Conceptos Fundamentales de Investigación Científica",
+          "rango_preguntas": "1-10",
+          "preguntas": [
             {
-                "nombre": "Fundamentos de la Justificación Investigativa",
-                "rango_preguntas": "1-10",
-                "preguntas": [
-                    {
-                        "numero": 1,
-                        "pregunta": "Según el autor, la justificación en un diseño de investigación debe lograr:",
-                        "opciones": {
-                            "A": "Priorizar únicamente la relevancia social del problema",
-                            "B": "Descartar las motivaciones personales del investigador",
-                            "C": "Fundamentar la elección del tema de manera objetiva",
-                            "D": "Evitar cualquier forma de abordaje crítico"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 3: 'la justificación es el espacio oportuno para dar argumentación convincente a tal selección'"
-                    },
-                    {
-                        "numero": 2,
-                        "pregunta": "Para el autor, un 'problema social' se diagnostica cuando:",
-                        "opciones": {
-                            "A": "Los individuos actúan de manera aislada",
-                            "B": "Existe un vacío de conocimiento científico",
-                            "C": "Se identifica una falta de rigor metodológico",
-                            "D": "La sociedad no cumple con las expectativas culturales"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 3: 'cuando una cultura tiene ciertas expectativas de cómo se debe comportar la sociedad y cuando estas no se cumplen, se diagnostica un problema'"
-                    },
-                    {
-                        "numero": 3,
-                        "pregunta": "El autor advierte que un abordaje radicalizado en la investigación puede llevar a:",
-                        "opciones": {
-                            "A": "La completa objetividad científica",
-                            "B": "Una vocación de denuncia social con extremos viscerales",
-                            "C": "La eliminación de todo conflicto social",
-                            "D": "La priorización de aspectos éticos sobre los empíricos"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 3: 'en abordajes radicalizados el trabajo podrá tomar una vocación de denuncia social, con extremos incluso viscerales'"
-                    },
-                    {
-                        "numero": 4,
-                        "pregunta": "Según el texto, la alternativa a los abordajes conservadores o radicalizados es mantener un abordaje:",
-                        "opciones": {
-                            "A": "Descriptivo",
-                            "B": "Funcionalista",
-                            "C": "Crítico",
-                            "D": "Cuantitativo"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 3: 'La alternativa es mantener un abordaje crítico'"
-                    },
-                    {
-                        "numero": 5,
-                        "pregunta": "El autor señala que el impacto de la investigación en ciencias sociales es:",
-                        "opciones": {
-                            "A": "Exclusivamente teórico",
-                            "B": "Absoluto y definitivo",
-                            "C": "Inmediato y redentor",
-                            "D": "Parcial y tentativo"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 3: 'su impacto es parcial y tentativo, ineludiblemente afectado por su contexto de recepción'"
-                    },
-                    {
-                        "numero": 6,
-                        "pregunta": "Para el autor, el conocimiento obtenido de una ciencia social:",
-                        "opciones": {
-                            "A": "Está destinado a redimir a la sociedad",
-                            "B": "Debe imponerse sobre otros saberes",
-                            "C": "Puede presionar críticamente, aunque sea mediante la modesta labor científica",
-                            "D": "Es ajeno a los conflictos sociales"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 3: 'pero sí puede presionar críticamente, aun cuando sea a través de la modesta labor científica'"
-                    },
-                    {
-                        "numero": 7,
-                        "pregunta": "La diferencia fundamental entre un 'problema científico social' y un 'problema social' es que el primero:",
-                        "opciones": {
-                            "A": "Ignora los contextos históricos y culturales",
-                            "B": "Denuncia las discrepancias entre la sociedad y las expectativas colectivas",
-                            "C": "Se enfoca exclusivamente en aspectos éticos",
-                            "D": "Interroga lo social para averiguar por qué se comporta de tal manera"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 4: 'en el primer caso se entiende problema como tarea de investigación, se interroga lo social para averiguar por qué se comporta de tal manera'"
-                    },
-                    {
-                        "numero": 8,
-                        "pregunta": "La justificación de una investigación, según el autor, debe resaltar:",
-                        "opciones": {
-                            "A": "Tanto la relevancia social como el aporte al estado de conocimiento de la disciplina",
-                            "B": "Solo la gravedad del malestar social",
-                            "C": "Exclusivamente las innovaciones metodológicas",
-                            "D": "La ausencia de dilemas éticos"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 4: 'la justificación no está completa si se argumenta solo a favor de la relevancia social, también se debe resaltar la investigación misma'"
-                    },
-                    {
-                        "numero": 9,
-                        "pregunta": "El autor utiliza el concepto 'ignorancia conocida' para referirse a:",
-                        "opciones": {
-                            "A": "La preferencia por fuentes de información no académicas",
-                            "B": "La presunción de un tema agotado y clausurado",
-                            "C": "La falta total de conocimiento sobre un tema",
-                            "D": "La identificación precisa de lo que aún no se ha interrogado, basándose en antecedentes"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 5: 'confeccionar una 'ignorancia conocida', orientar la búsqueda de información para respaldar la relevancia del trabajo'"
-                    },
-                    {
-                        "numero": 10,
-                        "pregunta": "Según el autor, durante la revisión documental se debe evitar:",
-                        "opciones": {
-                            "A": "La contrastación de información en su idioma original",
-                            "B": "El uso de cualquier fuente audiovisual",
-                            "C": "La consulta de bases de datos primarias",
-                            "D": "Sitios web con dominio 'com' y fuentes anónimas"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 6: 'Se recomienda evitar sitios del dominio 'com'' y 'evitar fuentes que no estén respaldas por una institución o autoría'"
-                    }
-                ]
+              "numero": 1,
+              "pregunta": "Según Samaja (2007), ¿cuáles son las tres condiciones que debe considerar la investigación científica?",
+              "opciones": {
+                "A": "Un producto basado en teorías y hechos; un método que implica validación y descubrimiento; y condiciones de realización institucionales y técnicas.",
+                "B": "Un producto basado en hipótesis y datos; un método que implica experimentación y control; y condiciones de realización empíricas y estadísticas.",
+                "C": "Un producto basado en teorías y datos; un método que implica inducción y deducción; y condiciones de realización metodológicas y técnicas.",
+                "D": "Un producto basado en hechos y evidencias; un método que implica observación y análisis; y condiciones de realización experimentales y prácticas."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Por tanto, la investigación científica es un proceso que considera, según Samaja (2007), tres condiciones: i) un producto (objeto), basado en teorías y hechos; ii) un método (conjunto de acciones), que implica una validación y un descubrimiento, y iii) condiciones de realización, tanto institucionales como técnicas. (p. 3)"
             },
-
             {
-                "nombre": "Antecedentes y Estado de la Cuestión",
-                "rango_preguntas": "11-20",
-                "preguntas": [
-                    {
-                        "numero": 11,
-                        "pregunta": "Los antecedentes que ponen énfasis en la información disponible sobre las unidades de análisis se denominan:",
-                        "opciones": {
-                            "A": "Antecedentes empíricos",
-                            "B": "Antecedentes históricos",
-                            "C": "Antecedentes investigativos",
-                            "D": "Antecedentes metodológicos"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 7: 'Los antecedentes empíricos ponen énfasis a toda la información disponible sobre las unidades de análisis'"
-                    },
-                    {
-                        "numero": 12,
-                        "pregunta": "Los antecedentes que incluyen reseñas cronológicas de un acontecimiento se clasifican como:",
-                        "opciones": {
-                            "A": "Antecedentes conceptuales",
-                            "B": "Antecedentes empíricos",
-                            "C": "Antecedentes investigativos",
-                            "D": "Antecedentes históricos"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 7: 'Los antecedentes históricos... Se pueden incluir reseñas cronológicas de un acontecimiento'"
-                    },
-                    {
-                        "numero": 13,
-                        "pregunta": "El tipo de antecedente que se orienta a ponerse al corriente sobre cómo se ha investigado un tema se denomina:",
-                        "opciones": {
-                            "A": "Antecedentes empíricos",
-                            "B": "Antecedentes investigativos",
-                            "C": "Antecedentes históricos",
-                            "D": "Antecedentes metodológicos"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 7: 'Los antecedentes investigativos se orientan a ponerse al corriente sobre la manera en que el tema se ha venido investigando'"
-                    },
-                    {
-                        "numero": 14,
-                        "pregunta": "La delimitación que detalla el lugar donde se realiza la investigación se conoce como:",
-                        "opciones": {
-                            "A": "Delimitación espacial",
-                            "B": "Delimitación temporal",
-                            "C": "Delimitación poblacional",
-                            "D": "Delimitación conceptual"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 7: 'la delimitación espacial, en la cual se detalla el lugar'"
-                    },
-                    {
-                        "numero": 15,
-                        "pregunta": "La delimitación que señala la extensión de tiempo que cubre el estudio es la:",
-                        "opciones": {
-                            "A": "Delimitación conceptual",
-                            "B": "Delimitación espacial",
-                            "C": "Delimitación poblacional",
-                            "D": "Delimitación temporal"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 7: 'la delimitación temporal, la cual señala la extensión de tiempo que cubre el estudio'"
-                    },
-                    {
-                        "numero": 16,
-                        "pregunta": "La delimitación que precisa el perfil demográfico de las personas informantes es la:",
-                        "opciones": {
-                            "A": "Delimitación poblacional",
-                            "B": "Delimitación espacial",
-                            "C": "Delimitación temporal",
-                            "D": "Delimitación conceptual"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 7: 'la delimitación poblacional, según el caso, cuando se trabaja con personas informantes, se debe precisar su perfil demográfico'"
-                    },
-                    {
-                        "numero": 17,
-                        "pregunta": "Según el autor, la delimitación conceptual evita:",
-                        "opciones": {
-                            "A": "Interrogarlo todo a nivel empírico sobre el contexto predefinido",
-                            "B": "La articulación con el contexto",
-                            "C": "La formulación de preguntas de investigación",
-                            "D": "La utilización de teorías"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 7: 'la delimitación conceptual evitará querer interrogarlo todo a nivel empírico sobre el contexto predefinido'"
-                    },
-                    {
-                        "numero": 18,
-                        "pregunta": "El autor señala que la pregunta de investigación logra:",
-                        "opciones": {
-                            "A": "Sustituir la revisión de antecedentes",
-                            "B": "Resolver todas las delimitaciones de manera definitiva",
-                            "C": "Eliminar la necesidad de objetivos específicos",
-                            "D": "Jerarquizar los problemas y señalar el aspecto relacional a problematizar"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 8: 'logrando una jerarquía de problemas... señalar ese aspecto relacional a partir del cual se problematizará el tema elegido'"
-                    },
-                    {
-                        "numero": 19,
-                        "pregunta": "El objetivo general de una investigación, según el texto, debe:",
-                        "opciones": {
-                            "A": "Omitir toda referencia al trabajo de campo",
-                            "B": "Ser idéntico a la pregunta de investigación",
-                            "C": "Reformular la pregunta de investigación como el propósito central del estudio",
-                            "D": "Priorizar solo los aspectos metodológicos"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 8: 'el objetivo prosigue la delimitación y reformula la pregunta de investigación en la forma del propósito central del estudio'"
-                    },
-                    {
-                        "numero": 20,
-                        "pregunta": "La relación entre el objetivo general y los específicos consiste en que los específicos:",
-                        "opciones": {
-                            "A": "Desagregan la tarea propuesta en el objetivo general",
-                            "B": "Repiten el objetivo general con otras palabras",
-                            "C": "Son independientes del objetivo general",
-                            "D": "Tienen prioridad sobre el objetivo general"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 8: 'lo fundamental está en lograr desagregar lo general, es decir, cómo se puede subdividir la tarea propuesta en el objetivo general'"
-                    }
-                ]
+              "numero": 2,
+              "pregunta": "De acuerdo con Kerlinger & Lee (2008), ¿cuál de las siguientes NO es una característica que debe reunir el proceso de investigación científica?",
+              "opciones": {
+                "A": "Que sea sistemática y controlada, siguiendo un orden que proporcione confianza en los resultados.",
+                "B": "Empírica, posible de demostración por medio de una prueba externa y sujeta a revisión de pares.",
+                "C": "Amoral, pública y crítica, sin juzgar resultados como buenos o malos.",
+                "D": "Que sea subjetiva y adaptable, permitiendo la interpretación personal del investigador."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "Además este proceso debe reunir una serie de características particulares que le otorgan el rigor científico, las cuales son: que sea sistemática y controlada, que el proceso siga un orden tal que proporcione confianza en los resultados obtenidos; empírica, es decir, debe ser posible de demostración por medio de una prueba externa y sujeta a la revisión de pares y, finalmente, amoral, pública y crítica. (p. 3)"
             },
-
             {
-                "nombre": "Redacción y Comunicación Científica",
-                "rango_preguntas": "21-30",
-                "preguntas": [
-                    {
-                        "numero": 21,
-                        "pregunta": "Según el autor, la introducción de un diseño de investigación debería ser:",
-                        "opciones": {
-                            "A": "La primera parte redactada",
-                            "B": "La última parte redactada",
-                            "C": "Omisible en la mayoría de los casos",
-                            "D": "Un resumen de los hallazgos"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 9: 'la sugerencia no es cambiarla de orden, sino simplemente que sea la última parte redactada del diseño'"
-                    },
-                    {
-                        "numero": 22,
-                        "pregunta": "El autor advierte que un texto científicamente valioso no debe:",
-                        "opciones": {
-                            "A": "Utilizar terminología especializada bajo ninguna circunstancia",
-                            "B": "Traicionar la densidad explicativa que requiere un objeto de investigación científica",
-                            "C": "Ser accesible para todo tipo de público",
-                            "D": "Evitar la complejidad en su redacción"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 9: 'sin traicionar la densidad explicativa que requiere un objeto de investigación científico'"
-                    },
-                    {
-                        "numero": 23,
-                        "pregunta": "El autor cita a Bauman (2003) para señalar que escribir en ciencias sociales supone:",
-                        "opciones": {
-                            "A": "Un sentido de poiesis, es decir, descubrir y crear",
-                            "B": "Un proceso meramente descriptivo y lineal",
-                            "C": "La evitación de cualquier terminología técnica",
-                            "D": "La priorización del lenguaje coloquial"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 9: 'escribir en ciencias sociales supone descubrir y crear, hay un sentido de poiesis (Bauman, 2003)'"
-                    },
-                    {
-                        "numero": 24,
-                        "pregunta": "Según el autor, una ciencia social crítica es:",
-                        "opciones": {
-                            "A": "Incómoda, armada de un aparato teórico y empírico",
-                            "B": "Siempre aceptada por todos los sectores sociales",
-                            "C": "Exclusivamente descriptiva",
-                            "D": "Ajena al debate público"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 10: 'La ciencia social cuando es crítica, es incómoda, armada de un aparato teórico y empírico'"
-                    },
-                    {
-                        "numero": 25,
-                        "pregunta": "El autor concluye que no hay temas fáciles en ciencias sociales, solo:",
-                        "opciones": {
-                            "A": "Problemas sociales sin relevancia científica",
-                            "B": "Temas carentes de complejidad inherente",
-                            "C": "Modos simplificados o escuetos de abordaje",
-                            "D": "Enfoques radicalizados o conservadores"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 10: 'No hay temas fáciles, solo quizá modos simplificados o escuetos de abordaje'"
-                    },
-                    {
-                        "numero": 26,
-                        "pregunta": "Para el autor, la justificación debe señalar cómo el diseño atiende un problema:",
-                        "opciones": {
-                            "A": "Tanto social como científico de manera viable",
-                            "B": "Exclusivamente científico, ignorando lo social",
-                            "C": "Solo social, sin considerar la viabilidad",
-                            "D": "Ético, por encima de lo empírico"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 5: 'la justificación puede señalar... cómo el diseño atiende un problema tanto social como científico de manera viable'"
-                    },
-                    {
-                        "numero": 27,
-                        "pregunta": "Los potenciales aportes científicos de una investigación pueden ser:",
-                        "opciones": {
-                            "A": "Solo teóricos o metodológicos",
-                            "B": "Empíricos, metodológicos o teóricos",
-                            "C": "Exclusivamente empíricos",
-                            "D": "Culturales, políticos o económicos"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 5: 'los potenciales aportes científicos pueden ser empíricos, metodológicos o teóricos'"
-                    },
-                    {
-                        "numero": 28,
-                        "pregunta": "El autor afirma que la perspectiva crítica de la investigación puede indagar sobre:",
-                        "opciones": {
-                            "A": "Exclusivamente relaciones armónicas",
-                            "B": "Solo conflictos sociales graves y dañinos",
-                            "C": "Avances en formas de organización social con efectos beneficiosos",
-                            "D": "Aspectos ajenos a la contradicción social"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 4: 'incluso se puede indagar sobre avances o novedades en formas de organización social con efectos beneficiosos para sus integrantes'"
-                    },
-                    {
-                        "numero": 29,
-                        "pregunta": "Según el texto, la revisión documental debe desarrollar herramientas para:",
-                        "opciones": {
-                            "A": "Priorizar siempre las noticias de periódico",
-                            "B": "Eliminar el uso de fuentes físicas",
-                            "C": "Cernir la información obtenida en la web",
-                            "D": "Evitar la consulta de bases de datos primarias"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 6: 'la revisión documental también debe desarrollar herramientas para cernir la información obtenida en la web'"
-                    },
-                    {
-                        "numero": 30,
-                        "pregunta": "El autor recomienda que, de ser posible, se deben rastrear:",
-                        "opciones": {
-                            "A": "Las fuentes primeras",
-                            "B": "Solo las fuentes secundarias",
-                            "C": "Exclusivamente noticias de actualidad",
-                            "D": "Fuentes anónimas para mayor objetividad"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 6: 'En la medida de lo posible se deben rastrear las fuentes primeras'"
-                    }
-                ]
+              "numero": 3,
+              "pregunta": "¿Qué define Gutiérrez (2006) como método en general?",
+              "opciones": {
+                "A": "El camino o procedimiento sistemático para conseguir un fin propuesto.",
+                "B": "El conjunto de técnicas específicas para resolver problemas prácticos.",
+                "C": "El camino o procedimiento viable para conseguir un fin propuesto.",
+                "D": "El conjunto de pasos metodológicos para generar conocimiento científico."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Gutiérrez (2006) define al método en general como el camino o procedimiento viable para conseguir un fin propuesto, es decir, una serie de pasos sistematizados que coadyuvan al logro de ciertos objetivos. (p. 3)"
             },
-
             {
-                "nombre": "Articulación y Coherencia Metodológica",
-                "rango_preguntas": "31-40",
-                "preguntas": [
-                    {
-                        "numero": 31,
-                        "pregunta": "La delimitación conceptual permite:",
-                        "opciones": {
-                            "A": "Priorizar solo la dimensión temporal",
-                            "B": "Aislar el problema de su entorno social",
-                            "C": "Evitar la formulación de objetivos",
-                            "D": "Articular la investigación con su contexto"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 7: 'toda delimitación requiere ser simultáneamente una articulación con su contexto (Zemelman, 1992)'"
-                    },
-                    {
-                        "numero": 32,
-                        "pregunta": "El autor menciona que la pregunta de investigación debe poder responderse mediante:",
-                        "opciones": {
-                            "A": "Contrastación empírica y sustento teórico",
-                            "B": "Solo la revisión bibliográfica",
-                            "C": "La mera elucubración teórica",
-                            "D": "La intuición del investigador"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 8: 'forjar preguntas que puedan responderse mediante contrastación empírica y sustento teórico'"
-                    },
-                    {
-                        "numero": 33,
-                        "pregunta": "En la redacción de objetivos, se debe mantener congruencia con:",
-                        "opciones": {
-                            "A": "Exclusivamente los antecedentes empíricos",
-                            "B": "Solo el título de la investigación",
-                            "C": "La delimitación conceptual",
-                            "D": "Las preferencias personales del investigador"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 8: 'mantener la congruencia con la delimitación conceptual'"
-                    },
-                    {
-                        "numero": 34,
-                        "pregunta": "El autor advierte que introducir sinónimos de uso coloquial en los objetivos específicos puede:",
-                        "opciones": {
-                            "A": "Mejorar la comprensión del público general",
-                            "B": "Distorsionar la rigurosidad del problema",
-                            "C": "Facilitar el trabajo de campo",
-                            "D": "Enriquecer el marco teórico"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 8: 'introducir un concepto en el objetivo general y luego plantear un sinónimo de uso coloquial, puede significar distorsiones en la rigurosidad del problema'"
-                    },
-                    {
-                        "numero": 35,
-                        "pregunta": "La ciencia, según el autor, requiere un momento de descripción y luego avanza hacia:",
-                        "opciones": {
-                            "A": "La priorización de la retrodicción sobre la predicción",
-                            "B": "La repetición de los hallazgos previos",
-                            "C": "La eliminación de toda dimensión histórica",
-                            "D": "La explicación de los principales factores y la comprensión de la singularidad"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 8: 'La ciencia requiere ciertamente un momento de descripción... luego avanza mediante la insistencia hacia la explicación de los principales factores... y la comprensión de la singularidad'"
-                    },
-                    {
-                        "numero": 36,
-                        "pregunta": "El autor señala que la introducción de un documento de diseño frecuentemente ofrece:",
-                        "opciones": {
-                            "A": "Los hallazgos definitivos de la investigación",
-                            "B": "Una lista exhaustiva de referencias bibliográficas",
-                            "C": "Un resumen de contenidos y la secuencia del texto",
-                            "D": "Una crítica a los abordajes previos"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 9: 'muy frecuentemente la introducción ofrece un resumen de contenidos para saber qué se encuentra en el texto y cuál es su secuencia'"
-                    },
-                    {
-                        "numero": 37,
-                        "pregunta": "Según el texto, el anteproyecto de investigación trabaja predominantemente con:",
-                        "opciones": {
-                            "A": "La redacción de la introducción",
-                            "B": "Los errores ya cometidos",
-                            "C": "Los resultados finales",
-                            "D": "La previsión de errores"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 9: 'el anteproyecto se trabaja predominantemente con la previsión de errores'"
-                    },
-                    {
-                        "numero": 38,
-                        "pregunta": "El autor afirma que el lenguaje en ciencias sociales debe lograr:",
-                        "opciones": {
-                            "A": "Ser totalmente diáfano y coloquial",
-                            "B": "La mayor inteligibilidad posible sin traicionar la complejidad",
-                            "C": "Evitar toda terminología especializada",
-                            "D": "Ser accesible sin necesidad de formación previa"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 9: 'el propósito es lograr la mayor inteligibilidad posible, pero el lenguaje coloquial no siempre alcanza para esta meta'"
-                    },
-                    {
-                        "numero": 39,
-                        "pregunta": "El autor critica la 'criptolalia' como un uso del lenguaje que puede:",
-                        "opciones": {
-                            "A": "Facilitar la comprensión pública de la ciencia",
-                            "B": "Prestarse para infatuaciones y oscurecer el sentido científico",
-                            "C": "Mejorar la articulación entre conceptos y preguntas",
-                            "D": "Ser esencial para la comunicación interdisciplinaria"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 9: 'puede perfectamente ser torpe en términos científicos y prestarse para infatuaciones por vía de la criptolalia (Andreski, 1973)'"
-                    },
-                    {
-                        "numero": 40,
-                        "pregunta": "Escribir en ciencias sociales, según Bauman (2003), requiere:",
-                        "opciones": {
-                            "A": "Adopción de un lenguaje técnico innecesario",
-                            "B": "Inmediatez y familiaridad",
-                            "C": "Evitación de la complejidad",
-                            "D": "Toma de distancia y tiempo"
-                        },
-                        "respuesta_correcta": "D",
-                        "referencia": "Página 9: 'escribir en ciencias sociales requiere tomar distancia y tiempo (Bauman, 2003)'"
-                    }
-                ]
+              "numero": 4,
+              "pregunta": "Según Sierra (2008), ¿qué debe reunir el método además de un contenido determinado o una serie de etapas?",
+              "opciones": {
+                "A": "Una base empírica que permita la replicabilidad de los experimentos.",
+                "B": "Una base teórica que sustente las hipótesis de investigación.",
+                "C": "Una base metodológica que integre diferentes técnicas de análisis.",
+                "D": "Una base racional que le proporcione validez a los resultados que produzca."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "En palabras de Sierra (2008), el método deberá reunir no únicamente un contenido determinado o una serie de etapas sino contar con una base racional que le proporcione validez a los resultados que produzca, la cual está constituida por presupuestos filosóficos, un enfoque adoptado, principios racionales y técnicas específicas. (pp. 3-4)"
             },
-            
             {
-                "nombre": "Crítica y Responsabilidad Social de la Ciencia",
+              "numero": 5,
+              "pregunta": "¿Cómo define Tamayo (1999) la investigación científica?",
+              "opciones": {
+                "A": "Un proceso que, mediante la aplicación del método experimental, procura obtener información relevante para transformar la realidad.",
+                "B": "Un proceso que, mediante la aplicación del método científico, procura obtener información relevante y fidedigna para entender, verificar, corregir o aplicar el conocimiento.",
+                "C": "Un proceso que, mediante la aplicación del método inductivo, procura obtener información fidedigna para validar teorías existentes.",
+                "D": "Un proceso que, mediante la aplicación del método estadístico, procura obtener información relevante para generar nuevos conocimientos."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "En estos términos, Tamayo (1999) define a la investigación científica como un proceso que, mediante la aplicación del método científico, procura obtener información relevante y fidedigna para entender, verificar, corregir o aplicar el conocimiento. (p. 4)"
+            },
+            {
+              "numero": 6,
+              "pregunta": "Según Bunge (2008), ¿qué establece claramente sobre la diferencia entre método y metodología?",
+              "opciones": {
+                "A": "La metodología es el conjunto de métodos, y la investigación utiliza metodologías y no métodos individuales.",
+                "B": "La metodología es el diseño de investigación, y el método es la técnica específica de análisis.",
+                "C": "La metodología es el estudio de los métodos, y la investigación utiliza métodos y no metodologías.",
+                "D": "La metodología es la teoría del conocimiento, y el método es la aplicación práctica de esa teoría."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Bunge (2008) establece muy claramente que la metodología es el estudio de los métodos, y que la investigación utiliza métodos y no metodologías. (p. 7)"
+            },
+            {
+              "numero": 7,
+              "pregunta": "¿Qué significa etimológicamente el término 'método'?",
+              "opciones": {
+                "A": "Proviene del latín methodhus y del griego metha y odos que significan 'estudio del camino'.",
+                "B": "Proviene del latín methodhus y del griego metha y odos que significan 'camino al conocimiento'.",
+                "C": "Proviene del latín methodhus y del griego metha y odos que significan 'camino a seguir'.",
+                "D": "Proviene del latín methodhus y del griego metha y odos que significan 'camino del saber'."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "El método puede definirse atendiendo su raíz etimológica que proviene del latín metodhus y esta, a su vez, del griego metha y odos que significan 'camino a seguir'. (p. 7)"
+            },
+            {
+              "numero": 8,
+              "pregunta": "Según Torres y Navarro (2007), parafraseando a Bunge, ¿qué es el método científico?",
+              "opciones": {
+                "A": "Un conjunto de técnicas que se siguen en la generación del conocimiento empírico, validado por reglas flexibles.",
+                "B": "Un conjunto de pasos que se siguen en la generación del conocimiento objetivo, avalado por reglas rigurosas que no den lugar a dudas.",
+                "C": "Un conjunto de procedimientos que se siguen en la generación del conocimiento teórico, validado por la comunidad científica.",
+                "D": "Un conjunto de hipótesis que se siguen en la generación del conocimiento práctico, avalado por evidencias experimentales."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Torres y Navarro (2007), parafraseando a Bunge, consideran que el método científico es un conjunto de pasos que se siguen en la generación del conocimiento objetivo, avalado por una serie de reglas rigurosas que no den lugar a dudas de que ese conocimiento se pueda justificar teórica o empíricamente, es decir, que el conocimiento es verdadero. (p. 8)"
+            },
+            {
+              "numero": 9,
+              "pregunta": "¿Cuáles son los tres tipos de reglas del método según Bunge (2008)?",
+              "opciones": {
+                "A": "Reglas para formular hipótesis; reglas para diseñar experimentos; y reglas para analizar resultados.",
+                "B": "Reglas para encontrar hechos; reglas para evaluar el valor de verdad de las preposiciones; y metarreglas para evaluar la eficiencia de las reglas.",
+                "C": "Reglas para recolectar datos; reglas para procesar información; y reglas para presentar conclusiones.",
+                "D": "Reglas para establecer teorías; reglas para validar modelos; y reglas para generalizar hallazgos."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Las reglas del método pueden ser de tres tipos: i) Reglas para encontrar hechos, específicamente relacionadas con el diseño particular del instrumento de medición y el objeto medido; ii) Reglas para evaluar el valor de verdad de las preposiciones (datos e hipótesis) respecto de los hechos, y iii) Metarreglas para evaluar la eficiencia de las reglas (Bunge, 2008). (p. 8)"
+            },
+            {
+              "numero": 10,
+              "pregunta": "Según Tamayo (1999), ¿cuáles son los dos aspectos que considera el proceso de investigación científica?",
+              "opciones": {
+                "A": "Una parte teórica, que se refiere al marco conceptual, y una parte práctica, que hace alusión al trabajo de campo.",
+                "B": "Una parte cualitativa, que se refiere a la recolección de datos descriptivos, y una parte cuantitativa, que hace alusión al análisis estadístico.",
+                "C": "Una parte formal, que se refiere a la manera como se presenta el informe, y una parte del proceso, que hace alusión a los pasos del método científico.",
+                "D": "Una parte metodológica, que se refiere a los instrumentos utilizados, y una parte analítica, que hace alusión a la interpretación de resultados."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Según Tamayo (1999), este proceso considera dos aspectos: i) una parte formal, que se refiere a la manera como se presenta el informe de investigación, y ii) una parte del proceso, que hace alusión a los pasos que deben seguirse para lograr la aplicación del método científico a un problema específico. (p. 5)"
+            }
+          ]
+        },
+        {
+          "nombre": "II. Tipos y Clasificación de la Investigación",
+          "rango_preguntas": "11-20",
+          "preguntas": [
+            {
+              "numero": 11,
+              "pregunta": "Según Sierra (2008), ¿cómo se define la investigación BÁSICA por su finalidad?",
+              "opciones": {
+                "A": "La que busca conocimientos específicos para resolver problemas prácticos inmediatos.",
+                "B": "La que busca enriquecer el conocimiento teórico sin aplicación práctica inmediata.",
+                "C": "La que busca desarrollar tecnología para mejorar procesos productivos.",
+                "D": "La que busca validar hipótesis mediante experimentos controlados."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "a) Por su finalidad: i) Básica, la cual busca enriquecer el conocimiento teórico. (p. 6)"
+            },
+            {
+              "numero": 12,
+              "pregunta": "¿Qué caracteriza a la investigación TRANSVERSAL por su alcance temporal?",
+              "opciones": {
+                "A": "La investigación que permite estudiar la evolución del fenómeno en diferentes momentos.",
+                "B": "La investigación que considera múltiples períodos de observación secuenciales.",
+                "C": "La investigación que considera un momento único de observación.",
+                "D": "La investigación que analiza tendencias históricas del fenómeno estudiado."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "b) Por su alcance temporal: i) Transversal, la investigación considera un momento único. (p. 6)"
+            },
+            {
+              "numero": 13,
+              "pregunta": "Según Hernández, Fernández & Baptista (2008), ¿qué busca la investigación DESCRIPTIVA por su profundidad?",
+              "opciones": {
+                "A": "Examinar un tema poco estudiado para generar hipótesis iniciales.",
+                "B": "Establecer las causas de los eventos, sucesos o fenómenos estudiados.",
+                "C": "Especificar propiedades, características y rasgos importantes del fenómeno que se analice.",
+                "D": "Asociar variables mediante patrones predictivos para grupos específicos."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "c) Por su profundidad: [...] ii) Descriptiva, cuando busca especificar propiedades, características y rasgos importantes de cualquier fenómeno que se analice. (p. 6)"
+            },
+            {
+              "numero": 14,
+              "pregunta": "¿Qué implica la investigación con FUENTES PRIMARIAS según Sierra (2008)?",
+              "opciones": {
+                "A": "Los datos o hechos son recolectados por terceras personas para investigaciones con otros fines.",
+                "B": "Los datos o hechos son de primera mano, recolectados durante el proceso de investigación.",
+                "C": "Los datos o hechos provienen de documentos históricos y archivos especializados.",
+                "D": "Los datos o hechos combinan información primaria y secundaria simultáneamente."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "d) Por sus fuentes: i) Primarias, los datos o hechos son de primera mano, es decir, son recolectados durante el proceso de investigación. (p. 6)"
+            },
+            {
+              "numero": 15,
+              "pregunta": "Según Blaxter, Hughes & Tight (2008), ¿cómo se caracteriza la investigación CUANTITATIVA por su carácter?",
+              "opciones": {
+                "A": "Aquella en la que se busca comprender y profundizar en las interioridades de los fenómenos.",
+                "B": "Aquella en la que los datos se recolectan mediante entrevistas a profundidad.",
+                "C": "Aquella en la que los datos adoptan forma numérica para su análisis.",
+                "D": "Aquella en la que no se busca cuantificar sino interpretar significados."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "e) Por su carácter: i) Cuantitativa, aquella en la que los datos adoptan forma numérica (Blaxter, Hughes & Tight, 2008). (p. 6)"
+            },
+            {
+              "numero": 16,
+              "pregunta": "¿Qué caracteriza a la investigación EXPERIMENTAL por su naturaleza según Sierra (2008)?",
+              "opciones": {
+                "A": "Observa fenómenos producidos en laboratorios bajo condiciones controladas.",
+                "B": "Se basa exclusivamente en documentos y fuentes bibliográficas.",
+                "C": "Implica trabajar con hechos de experiencia directa en ambientes naturales.",
+                "D": "Los datos provienen únicamente de los sujetos observados mediante encuestas."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "f) Por su naturaleza: [...] iii) Experimental, observa fenómenos producidos en laboratorios. (p. 6-7)"
+            },
+            {
+              "numero": 17,
+              "pregunta": "¿Qué distingue a la investigación DE CAMPO por su marco según Sierra (2008)?",
+              "opciones": {
+                "A": "Estudia el fenómeno en un ambiente controlado y artificial de laboratorio.",
+                "B": "Estudia el fenómeno exclusivamente mediante análisis documental.",
+                "C": "Estudia el fenómeno en su ambiente natural sin manipulación de variables.",
+                "D": "Estudia el fenómeno mediante simulaciones computacionales."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "g) Por su marco: i) De campo, es decir, estudia el fenómeno en su ambiente natural. (p. 7)"
+            },
+            {
+              "numero": 18,
+              "pregunta": "Según Del Cid, Méndez & Sandoval (2007), ¿qué caracteriza a la investigación CUALITATIVA?",
+              "opciones": {
+                "A": "Busca cuantificar variables mediante mediciones precisas y análisis estadístico.",
+                "B": "No busca cuantificar sino comprender, profundizar en el entendimiento y las interioridades de los fenómenos.",
+                "C": "Utiliza exclusivamente datos numéricos para establecer patrones de comportamiento.",
+                "D": "Busca generalizar resultados a partir de muestras representativas de la población."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "e) Por su carácter: [...] ii) Cualitativa, no busca cuantificar sino comprender, profundizar en el entendimiento y las interioridades de los fenómenos (Del Cid, Méndez & Sandoval, 2007). (p. 6)"
+            },
+            {
+              "numero": 19,
+              "pregunta": "¿Qué busca la investigación EXPLORATORIA por su profundidad según Hernández et al. (2008)?",
+              "opciones": {
+                "A": "Establecer las causas de los eventos, sucesos o fenómenos que se estudian.",
+                "B": "Examinar un tema poco estudiado del cual se tienen muchas dudas.",
+                "C": "Especificar propiedades y características importantes del fenómeno analizado.",
+                "D": "Asociar variables mediante un patrón predecible para un grupo."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "c) Por su profundidad: i) Exploratoria, cuando el objetivo consiste en examinar un tema poco estudiado. (p. 6)"
+            },
+            {
+              "numero": 20,
+              "pregunta": "¿Qué caracteriza a la investigación LONGITUDINAL por su alcance temporal?",
+              "opciones": {
+                "A": "La que considera un momento único sin seguimiento temporal.",
+                "B": "La que permite estudiar la evolución del fenómeno en un momento determinado.",
+                "C": "La que analiza múltiples variables simultáneamente en un solo período.",
+                "D": "La que compara diferentes poblaciones en el mismo momento temporal."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "b) Por su alcance temporal: [...] ii) Longitudinal, la que permite estudiar la evolución del fenómeno en un momento determinado (Sierra, 2008). (p. 6)"
+            }
+          ]
+        },
+        {
+          "nombre": "III. Investigación Aplicada, Básica y Técnica",
+          "rango_preguntas": "21-30",
+          "preguntas": [
+            {
+              "numero": 21,
+              "pregunta": "Según Torres y Navarro (2007), ¿qué diferencia fundamental existe entre el investigador básico y el aplicado?",
+              "opciones": {
+                "A": "El investigador básico trabaja en problemas que le interesan por motivos cognoscitivos, mientras el aplicado estudia problemas de posible interés social.",
+                "B": "El investigador básico utiliza el método científico, mientras el aplicado utiliza métodos tecnológicos exclusivamente.",
+                "C": "El investigador básico trabaja en laboratorios controlados, mientras el aplicado trabaja en ambientes naturales.",
+                "D": "El investigador básico genera teorías abstractas, mientras el aplicado valida hipótesis experimentalmente."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Pero mientras el investigador básico trabaja en los problemas que le interesan (por motivos puramente cognoscitivos), el investigador aplicado estudia solamente problemas de posible interés social. (p. 8)"
+            },
+            {
+              "numero": 22,
+              "pregunta": "¿Cuál es la diferencia entre ciencia y técnica según Torres y Navarro (2007)?",
+              "opciones": {
+                "A": "La ciencia se propone descubrir leyes para comprender la realidad íntegra, mientras la técnica se propone controlar sectores escogidos de la realidad.",
+                "B": "La ciencia utiliza el método experimental, mientras la técnica utiliza métodos estadísticos.",
+                "C": "La ciencia genera conocimiento abstracto, mientras la técnica genera conocimiento práctico únicamente.",
+                "D": "La ciencia busca validar teorías, mientras la técnica busca refutar hipótesis."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Torres y Navarro (2007) concluyen que la diferencia entre ciencia (básica o aplicada) y técnica se puede resumir en lo siguiente: mientras la ciencia se propone descubrir leyes o llevar a cabo desarrollos tecnológicos a fin de comprender la realidad íntegra, la técnica se propone controlar ciertos sectores escogidos de la realidad. (p. 9)"
+            },
+            {
+              "numero": 23,
+              "pregunta": "¿Qué caracteriza a los problemas científicos versus los técnicos según Torres y Navarro (2007)?",
+              "opciones": {
+                "A": "Los problemas científicos son experimentales, en tanto que los técnicos son observacionales.",
+                "B": "Los problemas científicos son cuantitativos, en tanto que los técnicos son cualitativos.",
+                "C": "Los problemas científicos son puramente cognoscitivos, en tanto que los técnicos son prácticos.",
+                "D": "Los problemas científicos son teóricos, en tanto que los técnicos son empíricos."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Tanto una como otra parten de problemas, pero los problemas científicos son puramente cognoscitivos, en tanto que los técnicos son prácticos. (p. 9)"
+            },
+            {
+              "numero": 24,
+              "pregunta": "Según Bunge (2008), ¿en qué campo de la tecnología se ubica la administración?",
+              "opciones": {
+                "A": "En la biotecnología, ya que gestiona recursos humanos.",
+                "B": "En la psicotecnología, porque maneja el comportamiento organizacional.",
+                "C": "En la sociotecnología, junto con otras disciplinas sociales aplicadas.",
+                "D": "En la tecnología del software o ingeniería de conocimiento."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Cabría aclarar que para Bunge (2008) la administración no es ciencia básica, es parte de la tecnología, incluida en el campo de la sociotecnología. (p. 10)"
+            },
+            {
+              "numero": 25,
+              "pregunta": "¿Qué implica que la investigación aplicada se pueda planear a largo plazo según Torres y Navarro (2007)?",
+              "opciones": {
+                "A": "Que el investigador debe seguir estrictamente el plan inicial sin modificaciones.",
+                "B": "Que el investigador básico no puede planear su investigación a largo plazo porque debe proponer sus propios planes y cambiarlos cuando lo crea necesario.",
+                "C": "Que la investigación aplicada requiere mayor tiempo de ejecución que la básica.",
+                "D": "Que el investigador aplicado tiene más recursos financieros para desarrollar proyectos extensos."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "De aquí que mientras la investigación aplicada se puede planear a largo plazo, la básica no se puede: el investigador básico debe proponer él mismo sus planes de investigación y debe quedar en libertad de cambiarlos cuando lo crea necesario (Torres & Navarro, 2007). (p. 8)"
+            },
+            {
+              "numero": 26,
+              "pregunta": "¿Cuál es el producto final de la Investigación Aplicada (o Técnica) según la Tabla 1?",
+              "opciones": {
+                "A": "Conocimiento científico y desarrollo tecnológico.",
+                "B": "Solución de problemas prácticos mediante el diseño de dispositivos técnicos y planes de acción con valor práctico.",
+                "C": "Teorías validadas mediante el método científico.",
+                "D": "Desarrollo de nuevas metodologías de investigación."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Tabla 1: Tipo de Aplicada (o Técnica) [...] Producto final: Solución de problemas prácticos (controlar ciertos sectores escogidos de la realidad, mediante el diseño de dispositivos técnicos y la elaboración de planes o cursos de acción que tengan algún valor práctico para algún grupo social). (p. 9)"
+            },
+            {
+              "numero": 27,
+              "pregunta": "Según el documento, ¿qué método utilizan tanto la investigación básica como la aplicada?",
+              "opciones": {
+                "A": "El método experimental para validar hipótesis en laboratorio.",
+                "B": "El método estadístico para analizar datos cuantitativos.",
+                "C": "El método científico para obtener nuevos conocimientos.",
+                "D": "El método tecnológico para resolver problemas prácticos."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "En esta categorización se puede decir que tanto la investigación básica como la aplicada utilizan el método científico para obtener nuevos conocimientos. (p. 8)"
+            },
+            {
+              "numero": 28,
+              "pregunta": "¿A qué se refieren los 'sistemas controlables' en el contexto de la técnica aplicada a la administración?",
+              "opciones": {
+                "A": "Sistemas teóricos que explican el comportamiento organizacional.",
+                "B": "Sistemas como inversión o financiamiento, motivación o capacitación, dirección o aprendizaje.",
+                "C": "Sistemas de información gerencial y bases de datos administrativas.",
+                "D": "Sistemas de control de calidad y auditoría interna."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Si se aplican al terreno de la administración (por ejemplo), se puede expresar que los datos, hipótesis y teorías empleados en la técnica se toman de la ciencia para ser empleados en la solución de problemas prácticos propios de la administración, bien sea en sistemas controlables, tales como inversión o financiamiento, motivación o capacitación, dirección o aprendizaje, producción o ventas, almacenamiento o trasporte. (p. 10)"
+            },
+            {
+              "numero": 29,
+              "pregunta": "¿Qué son los 'sistemas compuestos por hombres y artefactos' en el contexto administrativo?",
+              "opciones": {
+                "A": "Sistemas automatizados que no requieren intervención humana.",
+                "B": "Sistemas como comunicadores y medios de comunicación, bolsas de valores y sistemas electrónicos, empresarios y fábricas.",
+                "C": "Sistemas de producción que integran maquinaria industrial únicamente.",
+                "D": "Sistemas de gestión del conocimiento basados en inteligencia artificial."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "O bien, en sistemas compuestos también por hombres y artefactos, tales como comunicadores y medios de comunicación, bolsas de valores y sistemas electrónicos, soldados y armamento, sacerdotes y templos, empresarios y fábricas o proveedores y créditos. (p. 10)"
+            },
+            {
+              "numero": 30,
+              "pregunta": "¿Cuáles son los campos de la tecnología mencionados por Bunge (2008)?",
+              "opciones": {
+                "A": "Tecnología física, química, biológica, psicológica y social.",
+                "B": "Tecnología de hardware (fisiotecnología), quimiotecnología, biotecnología, psicotecnología y tecnología del software.",
+                "C": "Tecnología de información, telecomunicaciones, manufactura, servicios y educación.",
+                "D": "Tecnología básica, aplicada, experimental, teórica y práctica."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Los otros campos de la tecnología son: tecnología de hardware (fisiotecnología), quimiotecnología, biotecnología, psicotecnología y tecnología del software o ingeniería de conocimiento. (p. 10)"
+            }
+          ]
+        },
+        {
+          "nombre": "IV. Métodos de Investigación y Clasificación",
+          "rango_preguntas": "31-40",
+          "preguntas": [
+            {
+              "numero": 31,
+              "pregunta": "Según Sierra (2008), ¿cuáles son los dos tipos de métodos de investigación?",
+              "opciones": {
+                "A": "Métodos cualitativos (actividades interpretativas) y métodos cuantitativos (actividades de medición).",
+                "B": "Métodos teóricos (construcción de modelos) y métodos prácticos (aplicación de técnicas).",
+                "C": "Métodos de pensamiento (actividades humanas de carácter interno) y métodos de acción (actividades humanas de carácter externo).",
+                "D": "Métodos inductivos (de lo particular a lo general) y métodos deductivos (de lo general a lo particular)."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "Sierra (2008) establece que los métodos de investigación pueden ser de dos tipos: aquellos que constituyen actividades humanas de carácter interno, llamados métodos de pensamiento, [...] y por el otro lado aquellos que constituyen actividades humanas de carácter externo, llamados métodos de acción. (p. 10)"
+                },
+                {
+                "numero": 32,
+                "pregunta": "¿Qué son los métodos de pensamiento según Del Cid, Méndez & Sandoval (2007)?",
+                "opciones": {
+                "A": "Son técnicas de análisis estadístico para procesar datos cuantitativos.",
+                "B": "Son en realidad procesos lógicos, la forma que utiliza la razón para relacionar datos.",
+                "C": "Son estrategias metodológicas para diseñar instrumentos de investigación.",
+                "D": "Son procedimientos sistemáticos para validar hipótesis de investigación."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "Aquellos que constituyen actividades humanas de carácter interno, llamados métodos de pensamiento, que en palabras de Del Cid, Méndez y Sandoval (2007) son en realidad procesos lógicos, es decir, la forma que utiliza la razón para relacionar datos. (p. 10)"
+                },
+                {
+                "numero": 33,
+                "pregunta": "¿Qué incluyen los métodos de acción según Sierra (2008)?",
+                "opciones": {
+                "A": "Exclusivamente métodos cualitativos de análisis de contenido.",
+                "B": "Aquellos que buscan transformar la realidad (métodos de trabajo o producción) y los que buscan conocerla (métodos del conocimiento de la realidad).",
+                "C": "Únicamente métodos experimentales para el control de variables.",
+                "D": "Solamente técnicas de recolección de datos mediante encuestas."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "Y por el otro lado aquellos que constituyen actividades humanas de carácter externo, llamados métodos de acción, que a su vez pueden ser aquellos que buscan transformar la realidad (métodos de trabajo o producción) y los que buscan conocerla (métodos del conocimiento de la realidad). (p. 10)"
+                },
+                {
+                "numero": 34,
+                "pregunta": "¿Cuáles son ejemplos de métodos de pensamiento mencionados en el documento?",
+                "opciones": {
+                "A": "Experimental, estadístico, muestreo y aproximaciones sucesivas.",
+                "B": "Abstracción, deducción, inducción, análisis, síntesis, definición, clasificación y comparación.",
+                "C": "Programación lineal, método simplex, método gráfico y PERT.",
+                "D": "Benchmarking, justo a tiempo, TQM y mejora continua."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "2. De pensamiento: a) Abstracción, b) Deducción, c) Inducción, d) Análisis, e) Síntesis, f) Definición, g) Clasificación, h) Comparación. (p. 11)"
+                },
+                {
+                "numero": 35,
+                "pregunta": "¿Qué métodos se incluyen en la categoría 'De tipo general'?",
+                "opciones": {
+                "A": "Método analítico, sintético, inductivo y deductivo.",
+                "B": "Método experimental, método de muestreo al azar, método estadístico en general y método de aproximaciones sucesivas.",
+                "C": "Método científico, método tecnológico, método hipotético-deductivo y método sistémico.",
+                "D": "Método cualitativo, método cuantitativo, método mixto y método triangulado."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "1. De tipo general: a) Método experimental, b) Método de muestreo al azar, c) Método estadístico en general (estadística descriptiva, correlacional, inferencial, probabilidad), d) Método de aproximaciones sucesivas. (pp. 10-11)"
+                },
+                {
+                "numero": 36,
+                "pregunta": "¿Cuáles son técnicas de pronósticos mencionadas en los métodos de trabajo y producción?",
+                "opciones": {
+                "A": "Matriz FODA, matriz BCG y matriz MPEC.",
+                "B": "Gráfica de Gantt, PERT y CPM.",
+                "C": "Técnicas cualitativas (escenarios, técnicas Delphi) y técnicas cuantitativas (series de tiempo, regresión).",
+                "D": "MRP I, MRP II y ERP."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "• Pronósticos: - Técnicas cualitativas (escenarios, técnicas Delphi…) - Técnicas cuantitativas (series de tiempo, regresión…). (p. 12)"
+                },
+                {
+                "numero": 37,
+                "pregunta": "¿Qué métodos se mencionan en la categoría de Administración estratégica?",
+                "opciones": {
+                "A": "Benchmarking, justo a tiempo, TQM y mejora continua.",
+                "B": "Programación lineal, método simplex, método de transporte y árboles de decisión.",
+                "C": "Matriz FODA, matriz de posición estratégica y evaluación de acción (PEyEA), matriz BCG y matriz MPEC.",
+                "D": "MRP I, MRP II, ERP y distribución física para operaciones (Layout)."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "• Administración estratégica: - Matriz de fortalezas-debilidades, amenazas-oportunidades (FODA) - Matriz de posición estratégica y evaluación de acción (PEyEA) - Matriz del Boston Consulting Group (BCG) - Matriz de Planeación Estratégica Cuantitativa (MPEC). (pp. 12-13)"
+                },
+                {
+                "numero": 38,
+                "pregunta": "¿Qué técnicas se incluyen en la Administración de la calidad total?",
+                "opciones": {
+                "A": "Matriz FODA, matriz BCG, matriz PEyEA y matriz MPEC.",
+                "B": "Programación lineal, método simplex, método gráfico y método de transporte.",
+                "C": "Benchmarking, justo a tiempo, Total Quality Management (TQM) y mejora continua.",
+                "D": "Gráfica de Gantt, PERT, CPM y método de ruta crítica."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "• Administración de la calidad total: - Benchmarking - Justo a tiempo - Total Quality Management (TQM) - Mejora continua. (p. 13)"
+                },
+                {
+                "numero": 39,
+                "pregunta": "¿Qué métodos se mencionan para la toma de decisiones bajo condiciones de certidumbre y riesgo?",
+                "opciones": {
+                "A": "Decisiones con base en probabilidades, matriz de utilidad y árboles de decisión.",
+                "B": "Técnicas cualitativas como escenarios y técnicas Delphi.",
+                "C": "Programación lineal, método gráfico para dos variables, método simplex y método de transporte.",
+                "D": "Series de tiempo, análisis de regresión y modelos econométricos."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "• Toma de decisiones bajo condiciones de certidumbre y riesgo: - Programación lineal - Método gráfico para dos variables - Método simplex - Método de transporte. (p. 12)"
+                },
+                {
+                "numero": 40,
+                "pregunta": "Según el documento, ¿qué determina la utilización de los métodos específicos en una investigación?",
+                "opciones": {
+                "A": "La disponibilidad de recursos financieros y humanos del investigador.",
+                "B": "Las preferencias metodológicas del comité evaluador.",
+                "C": "El problema específico que se trate de resolver y si es suficiente uno o se requiere combinar varios.",
+                "D": "El tiempo disponible para completar la investigación."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "En resumen, el método científico integra un conjunto de métodos específicos. Todos estos métodos forman parte del método central que guía la investigación y su utilización depende del problema específico que se trate de resolver (Torres & Navarro, 2007; Ziman, 1986), [...] En algunos casos, la utilización de uno de estos métodos será suficiente, pero en otros casos se requerirá combinar dos o más de una manera creativa. (p. 14)"
+                }
+                ]
+                },
+                {
+                "nombre": "V. Caso Práctico: Investigación Doctoral sobre Competitividad",
                 "rango_preguntas": "41-50",
                 "preguntas": [
-                    {
-                        "numero": 41,
-                        "pregunta": "El autor sostiene que una sociedad enferma es aquella que:",
-                        "opciones": {
-                            "A": "Prioriza la ciencia sobre otras formas de saber",
-                            "B": "Investiga en exceso sus problemas",
-                            "C": "No se cuestiona a sí misma",
-                            "D": "Resuelve todos sus conflictos mediante la investigación"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 10: 'una sociedad enferma es la que no se cuestiona'"
-                    },
-                    {
-                        "numero": 42,
-                        "pregunta": "Según el texto, la ciencia es un proyecto que plantea:",
-                        "opciones": {
-                            "A": "El cierre del debate público",
-                            "B": "La apertura del conocimiento",
-                            "C": "La restricción del acceso a la información",
-                            "D": "La priorización de intereses conservadores"
-                        },
-                        "respuesta_correcta": "B",
-                        "referencia": "Página 10: 'La ciencia es un proyecto que entre otras cosas plantea la apertura del conocimiento'"
-                    },
-                    {
-                        "numero": 43,
-                        "pregunta": "El autor menciona que la utilidad de las ciencias sociales puede resultar:",
-                        "opciones": {
-                            "A": "Exclusivamente teórica y abstracta",
-                            "B": "Siempre positiva y transformadora",
-                            "C": "Paradójica, sino ambivalente",
-                            "D": "Nula en contextos de conflicto"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 10: 'la utilidad de las ciencias sociales puede resultar eventualmente paradójica, sino ambivalente'"
-                    },
-                    {
-                        "numero": 44,
-                        "pregunta": "Para el autor, la articulación en una propuesta de investigación se refiere a:",
-                        "opciones": {
-                            "A": "La congruencia entre los distintos segmentos del diseño",
-                            "B": "La separación clara entre objetivos y preguntas",
-                            "C": "La priorización de la metodología sobre la teoría",
-                            "D": "La eliminación de las delimitaciones temporales"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 8: 'El esfuerzo de articulación se encarga además de procurar congruencia entre los distintos segmentos de una propuesta de investigación'"
-                    },
-                    {
-                        "numero": 45,
-                        "pregunta": "El autor afirma que la delimitación poblacional puede aplicarse también al trabajar con:",
-                        "opciones": {
-                            "A": "Exclusivamente fuentes documentales",
-                            "B": "Solo individuos aislados",
-                            "C": "Organizaciones",
-                            "D": "Datos históricos"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 7: 'Esto también se puede aplicar cuando se trabaja con organizaciones'"
-                    },
-                    {
-                        "numero": 46,
-                        "pregunta": "Según el texto, la revisión de antecedentes investigativos permite prever:",
-                        "opciones": {
-                            "A": "La aceptación del artículo en revistas científicas",
-                            "B": "Los resultados definitivos de la investigación",
-                            "C": "Las dinámicas que se presentarán en el trabajo de campo",
-                            "D": "La ausencia total de errores metodológicos"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 7: 'pueden ofrecer alguna previsión de las dinámicas que se presentarán en el trabajo de campo'"
-                    },
-                    {
-                        "numero": 47,
-                        "pregunta": "El autor señala que la justificación no está completa si solo se argumenta a favor de:",
-                        "opciones": {
-                            "A": "La actualización de datos",
-                            "B": "La innovación metodológica",
-                            "C": "La relevancia social",
-                            "D": "La exploración de un nuevo tema"
-                        },
-                        "respuesta_correcta": "C",
-                        "referencia": "Página 4: 'la justificación no está completa si se argumenta solo a favor de la relevancia social'"
-                    },
-                    {
-                        "numero": 48,
-                        "pregunta": "Para el autor, el concepto de 'problema' en un problema científico social se asocia con:",
-                        "opciones": {
-                            "A": "Un emprendimiento investigativo",
-                            "B": "Una carencia o conflicto social",
-                            "C": "Una denuncia de las expectativas colectivas",
-                            "D": "Un capricho intelectual"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 4: 'en el primer caso se entiende problema como tarea de investigación'"
-                    },
-                    {
-                        "numero": 49,
-                        "pregunta": "El autor menciona que la ciencia social crítica requiere profundizar cada cierto tiempo en:",
-                        "opciones": {
-                            "A": "La exposición de resultados",
-                            "B": "La descripción superficial de los fenómenos",
-                            "C": "La evitación de la confrontación de hallazgos",
-                            "D": "La restricción del debate a ámbitos académicos"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 10: 'esto requiere profundizar cada cierto tiempo en la exposición de resultados'"
-                    },
-                    {
-                        "numero": 50,
-                        "pregunta": "Según el autor, el esfuerzo de articulación puede verse expresado en la transparencia entre:",
-                        "opciones": {
-                            "A": "Los objetivos y la pregunta de investigación",
-                            "B": "El título y la introducción",
-                            "C": "Los antecedentes y la metodología",
-                            "D": "La justificación y las delimitaciones"
-                        },
-                        "respuesta_correcta": "A",
-                        "referencia": "Página 8: 'puede verse expresado en la transparencia entre los objetivos y la pregunta de investigación'"
-                    }
+                {
+                "numero": 41,
+                "pregunta": "¿Cuál es el título de la investigación doctoral utilizada como ejemplo en el documento?",
+                "opciones": {
+                "A": "Modelo de competitividad para empresas del sector agrícola de San Andrés Totoltepec.",
+                "B": "Estrategias de competitividad para pequeños productores en Tlalpan.",
+                "C": "Modelo de competitividad para productores del sector floricultor de San Andrés Totoltepec, Tlalpan.",
+                "D": "Análisis de factores de competitividad en el sector floricultor mexicano."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "Con base en lo expuesto, a continuación se desarrolla el proceso, caracterización y elección de los métodos que forman parte de la investigación doctoral 'Modelo de competitividad para productores del sector floricultor de San Andrés Totoltepec, Tlalpan'. (p. 14)"
+                },
+                {
+                "numero": 42,
+                "pregunta": "Según Rojas (1999), ¿cómo deben ser las normas generales del proceso de investigación científica?",
+                "opciones": {
+                "A": "Rígidas e inflexibles para garantizar la objetividad científica.",
+                "B": "Adaptadas por cada investigador según los requerimientos del objeto de estudio y las limitaciones que se presenten.",
+                "C": "Estandarizadas internacionalmente para permitir la comparación de resultados.",
+                "D": "Determinadas exclusivamente por el comité de ética de investigación."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "El proceso de la investigación científica debe atender normas generales, las cuales son adaptadas por cada investigador según los requerimientos de su objeto de estudio y las limitaciones que se presenten al momento de realizar su trabajo (Rojas, 1999). (p. 14)"
+                },
+                {
+                "numero": 43,
+                "pregunta": "¿Cuáles son las dos fases en las que se desarrolla la investigación doctoral presentada como ejemplo?",
+                "opciones": {
+                "A": "Fase teórica (revisión bibliográfica) y fase práctica (aplicación de resultados).",
+                "B": "Fase exploratoria (identificación del problema) y fase confirmatoria (validación de hipótesis).",
+                "C": "Fase 1: Estrategia metodológica y Fase 2: Trabajo empírico.",
+                "D": "Fase cualitativa (entrevistas) y fase cuantitativa (encuestas)."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "La investigación se desarrolla en dos fases; la primera comprende la estrategia metodológica que considera el contexto del problema, su planteamiento, la elaboración del marco teórico y la caracterización y diseño de la investigación; la segunda fase consiste en el trabajo empírico. (p. 14)"
+                },
+                {
+                "numero": 44,
+                "pregunta": "¿Por qué la investigación doctoral del ejemplo es clasificada como aplicada según su finalidad?",
+                "opciones": {
+                "A": "Porque utiliza únicamente métodos cuantitativos de análisis estadístico.",
+                "B": "Porque el problema se elige con un objetivo final definido y busca la resolución de problemas prácticos inmediatos.",
+                "C": "Porque se desarrolla en un ambiente controlado de laboratorio.",
+                "D": "Porque su duración es menor a un año y busca resultados rápidos."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "Según su finalidad, esta investigación es aplicada ya que, de acuerdo con Bunge (2008), se caracteriza porque el problema que se va a estudiar se elige siempre con un objetivo final definido, y por estar vinculada con el desarrollo tiene como propósito primordial la resolución de problemas prácticos inmediatos. (pp. 15-16)"
+                },
+                {
+                "numero": 45,
+                "pregunta": "¿Por qué es clasificada como investigación correlacional por su alcance?",
+                "opciones": {
+                "A": "Porque examina un tema poco estudiado en el sector floricultor.",
+                "B": "Porque establece las causas directas del bajo rendimiento productivo.",
+                "C": "Porque busca conocer cómo se comporta una variable conociendo el comportamiento de otra variable relacionada.",
+                "D": "Porque describe únicamente las características de los productores de flores."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "Por su alcance es una investigación correlacional, pues busca conocer cómo se comporta una variable o concepto conociendo el comportamiento de otra variable relacionada; en este caso, la incidencia en la competitividad de una serie de factores internos. (p. 16)"
+                },
+                {
+                "numero": 46,
+                "pregunta": "¿Cuándo se aplicó la encuesta en la investigación doctoral del ejemplo?",
+                "opciones": {
+                "A": "Durante todo el año 2011 para observar la evolución temporal.",
+                "B": "En los meses de julio y agosto de 2011, constituyendo un corte transversal.",
+                "C": "En múltiples períodos entre 2010 y 2012 para análisis longitudinal.",
+                "D": "En enero de 2011 como estudio piloto inicial."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "Según su dimensión temporal es de corte transversal, ya que se realiza en un solo lapso de tiempo (Hernández, et ál. 2008; Sierra, 2008; Méndez, 2006; Torres & Navarro, 2007) que comprenderá la aplicación de la encuesta en los meses de julio y agosto de 2011. (p. 16)"
+                },
+                {
+                "numero": 47,
+                "pregunta": "Según Hernández et al. (2008), ¿qué caracteriza al enfoque cualitativo de investigación?",
+                "opciones": {
+                "A": "Utiliza la recolección de datos con medición numérica para establecer patrones de comportamiento.",
+                "B": "Utiliza la recolección de datos sin medición numérica para describir o afinar preguntas de investigación.",
+                "C": "Se basa exclusivamente en análisis estadístico para probar teorías.",
+                "D": "Busca generalizar resultados a partir de muestras probabilísticas."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "i) El enfoque cualitativo, que de acuerdo con Hernández et ál. (2008) utiliza la recolección de datos sin medición numérica para describir o afinar preguntas de investigación, se orienta a profundizar en casos específicos y no a generalizar. (p. 16)"
+                },
+                {
+                "numero": 48,
+                "pregunta": "¿Por qué es conveniente realizar investigaciones exploratorias cualitativas en las etapas iniciales según Malhotta y Grover (1998)?",
+                "opciones": {
+                "A": "Para reducir los costos de la investigación y acelerar el proceso.",
+                "B": "Para permitir generar hipótesis que se contrastarán en etapas más avanzadas con métodos cuantitativos.",
+                "C": "Para cumplir con los requisitos éticos de las instituciones académicas.",
+                "D": "Para evitar el uso de métodos estadísticos complejos."
+                },
+                "respuesta_correcta": "B",
+                "referencia": "Esta investigación inicia con un enfoque cualitativo, que posteriormente se orienta hacia un enfoque cuantitativo, ya que de acuerdo con Malhotta y Grover (1998), en las etapas iniciales es conveniente realizar investigaciones exploratorias o descriptivas de tipo cualitativo que permitan generar hipótesis que se contrastarán en las etapas más avanzadas de la investigación, con base en métodos cuantitativo. (p. 17)"
+                },
+                {
+                "numero": 49,
+                "pregunta": "¿Cuántas entrevistas en profundidad se realizaron en la fase cualitativa de la investigación doctoral del ejemplo?",
+                "opciones": {
+                "A": "5 entrevistas a expertos en competitividad empresarial.",
+                "B": "15 entrevistas a productores y comercializadores de flores.",
+                "C": "10 entrevistas en profundidad a productores de flores de la región.",
+                "D": "20 entrevistas semiestructuradas a actores clave del sector."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "Considerando lo anterior, esta investigación se realizó en dos fases (ver figura 45): i) La primera fase con un enfoque cualitativo (que consistió en la realización de 10 entrevistas en profundidad a productores de flores de la región). (p. 17-18)"
+                },
+                {
+                "numero": 50,
+                "pregunta": "¿Cuál es el método formal que debe utilizarse en una investigación aplicada que busca generar desarrollo tecnológico según Bunge (2008)?",
+                "opciones": {
+                "A": "El método científico con sus pasos clásicos de observación, hipótesis y experimentación.",
+                "B": "El método hipotético-deductivo para validar teorías existentes.",
+                "C": "El método tecnológico que incluye etapas como elección del campo, planteamiento del problema práctico y propuesta de mejora.",
+                "D": "El método estadístico multivariable para análisis de datos cuantitativos."
+                },
+                "respuesta_correcta": "C",
+                "referencia": "Considerando que por su finalidad esta es una investigación aplicada que busca generar un desarrollo tecnológico, el método formal que se debe utilizar es el método tecnológico que consta de las siguientes etapas (Bunge, 2008): 1. Elección del campo [...] 6. Presentación del informe y propuesta de mejora. (pp. 18-19)"
+                }
                 ]
             }
         ]
