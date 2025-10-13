@@ -8,10 +8,24 @@
 </head>
 <body>
     <div class="container">
-        <h1>📚 Cuestionario de Investigación Científica</h1>
+        <h1>📚 Cuestionario de Investigación Científica - LECTURA 3</h1>
+
+        <!-- Quiz Selection Screen (Nueva pantalla) -->
+        <div class="quiz-selection-screen active">
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">
+                Selecciona el cuestionario que deseas practicar:
+            </p>
+            <div id="quizListContainer" class="quiz-list"></div>
+            <p style="text-align: center; color: #666; margin-top: 30px; font-size: 14px;">
+                "Gaona Teacher"
+            </p>
+        </div>
 
         <!-- Setup Screen -->
-        <div class="setup-screen active">
+        <div class="setup-screen">
+            <p style="text-align: center; color: #667eea; font-weight: 600; margin-bottom: 10px;">
+                Cuestionario seleccionado: <span id="selectedQuizTitle" style="color: #764ba2;"></span>
+            </p>
             <p style="text-align: center; color: #666; margin-bottom: 20px;">
                 Selecciona la cantidad de preguntas con las que deseas practicar:
             </p>
@@ -21,9 +35,9 @@
                 <button class="option-btn" onclick="startQuiz(30)">30</button>
                 <button class="option-btn" onclick="startQuiz(50)">50</button>
             </div>
-            <p style="text-align: center; color: #666; margin-bottom: 1px; margin-top: 20px;">
-                "Gaona Teacher"
-            </p>
+            <div style="text-align: center; margin-top: 20px;">
+                <button class="btn-back" onclick="backToQuizSelection()">← Cambiar Cuestionario</button>
+            </div>
         </div>
 
         <!-- Quiz Screen -->

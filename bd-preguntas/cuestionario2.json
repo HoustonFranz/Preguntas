@@ -1,0 +1,641 @@
+{
+    "cuestionario": {
+        "titulo": "Cuestionario: Delimitación y Justificación de Problemas de Investigación en Ciencias Sociales",
+        "secciones": [
+            {
+                "nombre": "Fundamentos de la Justificación Investigativa",
+                "rango_preguntas": "1-10",
+                "preguntas": [
+                    {
+                        "numero": 1,
+                        "pregunta": "Según el autor, la justificación en un diseño de investigación debe lograr:",
+                        "opciones": {
+                            "A": "Priorizar únicamente la relevancia social del problema",
+                            "B": "Descartar las motivaciones personales del investigador",
+                            "C": "Fundamentar la elección del tema de manera objetiva",
+                            "D": "Evitar cualquier forma de abordaje crítico"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 3: 'la justificación es el espacio oportuno para dar argumentación convincente a tal selección'"
+                    },
+                    {
+                        "numero": 2,
+                        "pregunta": "Para el autor, un 'problema social' se diagnostica cuando:",
+                        "opciones": {
+                            "A": "Los individuos actúan de manera aislada",
+                            "B": "Existe un vacío de conocimiento científico",
+                            "C": "Se identifica una falta de rigor metodológico",
+                            "D": "La sociedad no cumple con las expectativas culturales"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 3: 'cuando una cultura tiene ciertas expectativas de cómo se debe comportar la sociedad y cuando estas no se cumplen, se diagnostica un problema'"
+                    },
+                    {
+                        "numero": 3,
+                        "pregunta": "El autor advierte que un abordaje radicalizado en la investigación puede llevar a:",
+                        "opciones": {
+                            "A": "La completa objetividad científica",
+                            "B": "Una vocación de denuncia social con extremos viscerales",
+                            "C": "La eliminación de todo conflicto social",
+                            "D": "La priorización de aspectos éticos sobre los empíricos"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 3: 'en abordajes radicalizados el trabajo podrá tomar una vocación de denuncia social, con extremos incluso viscerales'"
+                    },
+                    {
+                        "numero": 4,
+                        "pregunta": "Según el texto, la alternativa a los abordajes conservadores o radicalizados es mantener un abordaje:",
+                        "opciones": {
+                            "A": "Descriptivo",
+                            "B": "Funcionalista",
+                            "C": "Crítico",
+                            "D": "Cuantitativo"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 3: 'La alternativa es mantener un abordaje crítico'"
+                    },
+                    {
+                        "numero": 5,
+                        "pregunta": "El autor señala que el impacto de la investigación en ciencias sociales es:",
+                        "opciones": {
+                            "A": "Exclusivamente teórico",
+                            "B": "Absoluto y definitivo",
+                            "C": "Inmediato y redentor",
+                            "D": "Parcial y tentativo"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 3: 'su impacto es parcial y tentativo, ineludiblemente afectado por su contexto de recepción'"
+                    },
+                    {
+                        "numero": 6,
+                        "pregunta": "Para el autor, el conocimiento obtenido de una ciencia social:",
+                        "opciones": {
+                            "A": "Está destinado a redimir a la sociedad",
+                            "B": "Debe imponerse sobre otros saberes",
+                            "C": "Puede presionar críticamente, aunque sea mediante la modesta labor científica",
+                            "D": "Es ajeno a los conflictos sociales"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 3: 'pero sí puede presionar críticamente, aun cuando sea a través de la modesta labor científica'"
+                    },
+                    {
+                        "numero": 7,
+                        "pregunta": "La diferencia fundamental entre un 'problema científico social' y un 'problema social' es que el primero:",
+                        "opciones": {
+                            "A": "Ignora los contextos históricos y culturales",
+                            "B": "Denuncia las discrepancias entre la sociedad y las expectativas colectivas",
+                            "C": "Se enfoca exclusivamente en aspectos éticos",
+                            "D": "Interroga lo social para averiguar por qué se comporta de tal manera"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 4: 'en el primer caso se entiende problema como tarea de investigación, se interroga lo social para averiguar por qué se comporta de tal manera'"
+                    },
+                    {
+                        "numero": 8,
+                        "pregunta": "La justificación de una investigación, según el autor, debe resaltar:",
+                        "opciones": {
+                            "A": "Tanto la relevancia social como el aporte al estado de conocimiento de la disciplina",
+                            "B": "Solo la gravedad del malestar social",
+                            "C": "Exclusivamente las innovaciones metodológicas",
+                            "D": "La ausencia de dilemas éticos"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 4: 'la justificación no está completa si se argumenta solo a favor de la relevancia social, también se debe resaltar la investigación misma'"
+                    },
+                    {
+                        "numero": 9,
+                        "pregunta": "El autor utiliza el concepto 'ignorancia conocida' para referirse a:",
+                        "opciones": {
+                            "A": "La preferencia por fuentes de información no académicas",
+                            "B": "La presunción de un tema agotado y clausurado",
+                            "C": "La falta total de conocimiento sobre un tema",
+                            "D": "La identificación precisa de lo que aún no se ha interrogado, basándose en antecedentes"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 5: 'confeccionar una 'ignorancia conocida', orientar la búsqueda de información para respaldar la relevancia del trabajo'"
+                    },
+                    {
+                        "numero": 10,
+                        "pregunta": "Según el autor, durante la revisión documental se debe evitar:",
+                        "opciones": {
+                            "A": "La contrastación de información en su idioma original",
+                            "B": "El uso de cualquier fuente audiovisual",
+                            "C": "La consulta de bases de datos primarias",
+                            "D": "Sitios web con dominio 'com' y fuentes anónimas"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 6: 'Se recomienda evitar sitios del dominio 'com'' y 'evitar fuentes que no estén respaldas por una institución o autoría'"
+                    }
+                ]
+            },
+
+            {
+                "nombre": "Antecedentes y Estado de la Cuestión",
+                "rango_preguntas": "11-20",
+                "preguntas": [
+                    {
+                        "numero": 11,
+                        "pregunta": "Los antecedentes que ponen énfasis en la información disponible sobre las unidades de análisis se denominan:",
+                        "opciones": {
+                            "A": "Antecedentes empíricos",
+                            "B": "Antecedentes históricos",
+                            "C": "Antecedentes investigativos",
+                            "D": "Antecedentes metodológicos"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 7: 'Los antecedentes empíricos ponen énfasis a toda la información disponible sobre las unidades de análisis'"
+                    },
+                    {
+                        "numero": 12,
+                        "pregunta": "Los antecedentes que incluyen reseñas cronológicas de un acontecimiento se clasifican como:",
+                        "opciones": {
+                            "A": "Antecedentes conceptuales",
+                            "B": "Antecedentes empíricos",
+                            "C": "Antecedentes investigativos",
+                            "D": "Antecedentes históricos"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 7: 'Los antecedentes históricos... Se pueden incluir reseñas cronológicas de un acontecimiento'"
+                    },
+                    {
+                        "numero": 13,
+                        "pregunta": "El tipo de antecedente que se orienta a ponerse al corriente sobre cómo se ha investigado un tema se denomina:",
+                        "opciones": {
+                            "A": "Antecedentes empíricos",
+                            "B": "Antecedentes investigativos",
+                            "C": "Antecedentes históricos",
+                            "D": "Antecedentes metodológicos"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 7: 'Los antecedentes investigativos se orientan a ponerse al corriente sobre la manera en que el tema se ha venido investigando'"
+                    },
+                    {
+                        "numero": 14,
+                        "pregunta": "La delimitación que detalla el lugar donde se realiza la investigación se conoce como:",
+                        "opciones": {
+                            "A": "Delimitación espacial",
+                            "B": "Delimitación temporal",
+                            "C": "Delimitación poblacional",
+                            "D": "Delimitación conceptual"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 7: 'la delimitación espacial, en la cual se detalla el lugar'"
+                    },
+                    {
+                        "numero": 15,
+                        "pregunta": "La delimitación que señala la extensión de tiempo que cubre el estudio es la:",
+                        "opciones": {
+                            "A": "Delimitación conceptual",
+                            "B": "Delimitación espacial",
+                            "C": "Delimitación poblacional",
+                            "D": "Delimitación temporal"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 7: 'la delimitación temporal, la cual señala la extensión de tiempo que cubre el estudio'"
+                    },
+                    {
+                        "numero": 16,
+                        "pregunta": "La delimitación que precisa el perfil demográfico de las personas informantes es la:",
+                        "opciones": {
+                            "A": "Delimitación poblacional",
+                            "B": "Delimitación espacial",
+                            "C": "Delimitación temporal",
+                            "D": "Delimitación conceptual"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 7: 'la delimitación poblacional, según el caso, cuando se trabaja con personas informantes, se debe precisar su perfil demográfico'"
+                    },
+                    {
+                        "numero": 17,
+                        "pregunta": "Según el autor, la delimitación conceptual evita:",
+                        "opciones": {
+                            "A": "Interrogarlo todo a nivel empírico sobre el contexto predefinido",
+                            "B": "La articulación con el contexto",
+                            "C": "La formulación de preguntas de investigación",
+                            "D": "La utilización de teorías"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 7: 'la delimitación conceptual evitará querer interrogarlo todo a nivel empírico sobre el contexto predefinido'"
+                    },
+                    {
+                        "numero": 18,
+                        "pregunta": "El autor señala que la pregunta de investigación logra:",
+                        "opciones": {
+                            "A": "Sustituir la revisión de antecedentes",
+                            "B": "Resolver todas las delimitaciones de manera definitiva",
+                            "C": "Eliminar la necesidad de objetivos específicos",
+                            "D": "Jerarquizar los problemas y señalar el aspecto relacional a problematizar"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 8: 'logrando una jerarquía de problemas... señalar ese aspecto relacional a partir del cual se problematizará el tema elegido'"
+                    },
+                    {
+                        "numero": 19,
+                        "pregunta": "El objetivo general de una investigación, según el texto, debe:",
+                        "opciones": {
+                            "A": "Omitir toda referencia al trabajo de campo",
+                            "B": "Ser idéntico a la pregunta de investigación",
+                            "C": "Reformular la pregunta de investigación como el propósito central del estudio",
+                            "D": "Priorizar solo los aspectos metodológicos"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 8: 'el objetivo prosigue la delimitación y reformula la pregunta de investigación en la forma del propósito central del estudio'"
+                    },
+                    {
+                        "numero": 20,
+                        "pregunta": "La relación entre el objetivo general y los específicos consiste en que los específicos:",
+                        "opciones": {
+                            "A": "Desagregan la tarea propuesta en el objetivo general",
+                            "B": "Repiten el objetivo general con otras palabras",
+                            "C": "Son independientes del objetivo general",
+                            "D": "Tienen prioridad sobre el objetivo general"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 8: 'lo fundamental está en lograr desagregar lo general, es decir, cómo se puede subdividir la tarea propuesta en el objetivo general'"
+                    }
+                ]
+            },
+
+            {
+                "nombre": "Redacción y Comunicación Científica",
+                "rango_preguntas": "21-30",
+                "preguntas": [
+                    {
+                        "numero": 21,
+                        "pregunta": "Según el autor, la introducción de un diseño de investigación debería ser:",
+                        "opciones": {
+                            "A": "La primera parte redactada",
+                            "B": "La última parte redactada",
+                            "C": "Omisible en la mayoría de los casos",
+                            "D": "Un resumen de los hallazgos"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 9: 'la sugerencia no es cambiarla de orden, sino simplemente que sea la última parte redactada del diseño'"
+                    },
+                    {
+                        "numero": 22,
+                        "pregunta": "El autor advierte que un texto científicamente valioso no debe:",
+                        "opciones": {
+                            "A": "Utilizar terminología especializada bajo ninguna circunstancia",
+                            "B": "Traicionar la densidad explicativa que requiere un objeto de investigación científica",
+                            "C": "Ser accesible para todo tipo de público",
+                            "D": "Evitar la complejidad en su redacción"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 9: 'sin traicionar la densidad explicativa que requiere un objeto de investigación científico'"
+                    },
+                    {
+                        "numero": 23,
+                        "pregunta": "El autor cita a Bauman (2003) para señalar que escribir en ciencias sociales supone:",
+                        "opciones": {
+                            "A": "Un sentido de poiesis, es decir, descubrir y crear",
+                            "B": "Un proceso meramente descriptivo y lineal",
+                            "C": "La evitación de cualquier terminología técnica",
+                            "D": "La priorización del lenguaje coloquial"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 9: 'escribir en ciencias sociales supone descubrir y crear, hay un sentido de poiesis (Bauman, 2003)'"
+                    },
+                    {
+                        "numero": 24,
+                        "pregunta": "Según el autor, una ciencia social crítica es:",
+                        "opciones": {
+                            "A": "Incómoda, armada de un aparato teórico y empírico",
+                            "B": "Siempre aceptada por todos los sectores sociales",
+                            "C": "Exclusivamente descriptiva",
+                            "D": "Ajena al debate público"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 10: 'La ciencia social cuando es crítica, es incómoda, armada de un aparato teórico y empírico'"
+                    },
+                    {
+                        "numero": 25,
+                        "pregunta": "El autor concluye que no hay temas fáciles en ciencias sociales, solo:",
+                        "opciones": {
+                            "A": "Problemas sociales sin relevancia científica",
+                            "B": "Temas carentes de complejidad inherente",
+                            "C": "Modos simplificados o escuetos de abordaje",
+                            "D": "Enfoques radicalizados o conservadores"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 10: 'No hay temas fáciles, solo quizá modos simplificados o escuetos de abordaje'"
+                    },
+                    {
+                        "numero": 26,
+                        "pregunta": "Para el autor, la justificación debe señalar cómo el diseño atiende un problema:",
+                        "opciones": {
+                            "A": "Tanto social como científico de manera viable",
+                            "B": "Exclusivamente científico, ignorando lo social",
+                            "C": "Solo social, sin considerar la viabilidad",
+                            "D": "Ético, por encima de lo empírico"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 5: 'la justificación puede señalar... cómo el diseño atiende un problema tanto social como científico de manera viable'"
+                    },
+                    {
+                        "numero": 27,
+                        "pregunta": "Los potenciales aportes científicos de una investigación pueden ser:",
+                        "opciones": {
+                            "A": "Solo teóricos o metodológicos",
+                            "B": "Empíricos, metodológicos o teóricos",
+                            "C": "Exclusivamente empíricos",
+                            "D": "Culturales, políticos o económicos"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 5: 'los potenciales aportes científicos pueden ser empíricos, metodológicos o teóricos'"
+                    },
+                    {
+                        "numero": 28,
+                        "pregunta": "El autor afirma que la perspectiva crítica de la investigación puede indagar sobre:",
+                        "opciones": {
+                            "A": "Exclusivamente relaciones armónicas",
+                            "B": "Solo conflictos sociales graves y dañinos",
+                            "C": "Avances en formas de organización social con efectos beneficiosos",
+                            "D": "Aspectos ajenos a la contradicción social"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 4: 'incluso se puede indagar sobre avances o novedades en formas de organización social con efectos beneficiosos para sus integrantes'"
+                    },
+                    {
+                        "numero": 29,
+                        "pregunta": "Según el texto, la revisión documental debe desarrollar herramientas para:",
+                        "opciones": {
+                            "A": "Priorizar siempre las noticias de periódico",
+                            "B": "Eliminar el uso de fuentes físicas",
+                            "C": "Cernir la información obtenida en la web",
+                            "D": "Evitar la consulta de bases de datos primarias"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 6: 'la revisión documental también debe desarrollar herramientas para cernir la información obtenida en la web'"
+                    },
+                    {
+                        "numero": 30,
+                        "pregunta": "El autor recomienda que, de ser posible, se deben rastrear:",
+                        "opciones": {
+                            "A": "Las fuentes primeras",
+                            "B": "Solo las fuentes secundarias",
+                            "C": "Exclusivamente noticias de actualidad",
+                            "D": "Fuentes anónimas para mayor objetividad"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 6: 'En la medida de lo posible se deben rastrear las fuentes primeras'"
+                    }
+                ]
+            },
+
+            {
+                "nombre": "Articulación y Coherencia Metodológica",
+                "rango_preguntas": "31-40",
+                "preguntas": [
+                    {
+                        "numero": 31,
+                        "pregunta": "La delimitación conceptual permite:",
+                        "opciones": {
+                            "A": "Priorizar solo la dimensión temporal",
+                            "B": "Aislar el problema de su entorno social",
+                            "C": "Evitar la formulación de objetivos",
+                            "D": "Articular la investigación con su contexto"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 7: 'toda delimitación requiere ser simultáneamente una articulación con su contexto (Zemelman, 1992)'"
+                    },
+                    {
+                        "numero": 32,
+                        "pregunta": "El autor menciona que la pregunta de investigación debe poder responderse mediante:",
+                        "opciones": {
+                            "A": "Contrastación empírica y sustento teórico",
+                            "B": "Solo la revisión bibliográfica",
+                            "C": "La mera elucubración teórica",
+                            "D": "La intuición del investigador"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 8: 'forjar preguntas que puedan responderse mediante contrastación empírica y sustento teórico'"
+                    },
+                    {
+                        "numero": 33,
+                        "pregunta": "En la redacción de objetivos, se debe mantener congruencia con:",
+                        "opciones": {
+                            "A": "Exclusivamente los antecedentes empíricos",
+                            "B": "Solo el título de la investigación",
+                            "C": "La delimitación conceptual",
+                            "D": "Las preferencias personales del investigador"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 8: 'mantener la congruencia con la delimitación conceptual'"
+                    },
+                    {
+                        "numero": 34,
+                        "pregunta": "El autor advierte que introducir sinónimos de uso coloquial en los objetivos específicos puede:",
+                        "opciones": {
+                            "A": "Mejorar la comprensión del público general",
+                            "B": "Distorsionar la rigurosidad del problema",
+                            "C": "Facilitar el trabajo de campo",
+                            "D": "Enriquecer el marco teórico"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 8: 'introducir un concepto en el objetivo general y luego plantear un sinónimo de uso coloquial, puede significar distorsiones en la rigurosidad del problema'"
+                    },
+                    {
+                        "numero": 35,
+                        "pregunta": "La ciencia, según el autor, requiere un momento de descripción y luego avanza hacia:",
+                        "opciones": {
+                            "A": "La priorización de la retrodicción sobre la predicción",
+                            "B": "La repetición de los hallazgos previos",
+                            "C": "La eliminación de toda dimensión histórica",
+                            "D": "La explicación de los principales factores y la comprensión de la singularidad"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 8: 'La ciencia requiere ciertamente un momento de descripción... luego avanza mediante la insistencia hacia la explicación de los principales factores... y la comprensión de la singularidad'"
+                    },
+                    {
+                        "numero": 36,
+                        "pregunta": "El autor señala que la introducción de un documento de diseño frecuentemente ofrece:",
+                        "opciones": {
+                            "A": "Los hallazgos definitivos de la investigación",
+                            "B": "Una lista exhaustiva de referencias bibliográficas",
+                            "C": "Un resumen de contenidos y la secuencia del texto",
+                            "D": "Una crítica a los abordajes previos"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 9: 'muy frecuentemente la introducción ofrece un resumen de contenidos para saber qué se encuentra en el texto y cuál es su secuencia'"
+                    },
+                    {
+                        "numero": 37,
+                        "pregunta": "Según el texto, el anteproyecto de investigación trabaja predominantemente con:",
+                        "opciones": {
+                            "A": "La redacción de la introducción",
+                            "B": "Los errores ya cometidos",
+                            "C": "Los resultados finales",
+                            "D": "La previsión de errores"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 9: 'el anteproyecto se trabaja predominantemente con la previsión de errores'"
+                    },
+                    {
+                        "numero": 38,
+                        "pregunta": "El autor afirma que el lenguaje en ciencias sociales debe lograr:",
+                        "opciones": {
+                            "A": "Ser totalmente diáfano y coloquial",
+                            "B": "La mayor inteligibilidad posible sin traicionar la complejidad",
+                            "C": "Evitar toda terminología especializada",
+                            "D": "Ser accesible sin necesidad de formación previa"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 9: 'el propósito es lograr la mayor inteligibilidad posible, pero el lenguaje coloquial no siempre alcanza para esta meta'"
+                    },
+                    {
+                        "numero": 39,
+                        "pregunta": "El autor critica la 'criptolalia' como un uso del lenguaje que puede:",
+                        "opciones": {
+                            "A": "Facilitar la comprensión pública de la ciencia",
+                            "B": "Prestarse para infatuaciones y oscurecer el sentido científico",
+                            "C": "Mejorar la articulación entre conceptos y preguntas",
+                            "D": "Ser esencial para la comunicación interdisciplinaria"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 9: 'puede perfectamente ser torpe en términos científicos y prestarse para infatuaciones por vía de la criptolalia (Andreski, 1973)'"
+                    },
+                    {
+                        "numero": 40,
+                        "pregunta": "Escribir en ciencias sociales, según Bauman (2003), requiere:",
+                        "opciones": {
+                            "A": "Adopción de un lenguaje técnico innecesario",
+                            "B": "Inmediatez y familiaridad",
+                            "C": "Evitación de la complejidad",
+                            "D": "Toma de distancia y tiempo"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 9: 'escribir en ciencias sociales requiere tomar distancia y tiempo (Bauman, 2003)'"
+                    }
+                ]
+            },
+            
+            {
+                "nombre": "Crítica y Responsabilidad Social de la Ciencia",
+                "rango_preguntas": "41-50",
+                "preguntas": [
+                    {
+                        "numero": 41,
+                        "pregunta": "El autor sostiene que una sociedad enferma es aquella que:",
+                        "opciones": {
+                            "A": "Prioriza la ciencia sobre otras formas de saber",
+                            "B": "Investiga en exceso sus problemas",
+                            "C": "No se cuestiona a sí misma",
+                            "D": "Resuelve todos sus conflictos mediante la investigación"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 10: 'una sociedad enferma es la que no se cuestiona'"
+                    },
+                    {
+                        "numero": 42,
+                        "pregunta": "Según el texto, la ciencia es un proyecto que plantea:",
+                        "opciones": {
+                            "A": "El cierre del debate público",
+                            "B": "La apertura del conocimiento",
+                            "C": "La restricción del acceso a la información",
+                            "D": "La priorización de intereses conservadores"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 10: 'La ciencia es un proyecto que entre otras cosas plantea la apertura del conocimiento'"
+                    },
+                    {
+                        "numero": 43,
+                        "pregunta": "El autor menciona que la utilidad de las ciencias sociales puede resultar:",
+                        "opciones": {
+                            "A": "Exclusivamente teórica y abstracta",
+                            "B": "Siempre positiva y transformadora",
+                            "C": "Paradójica, sino ambivalente",
+                            "D": "Nula en contextos de conflicto"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 10: 'la utilidad de las ciencias sociales puede resultar eventualmente paradójica, sino ambivalente'"
+                    },
+                    {
+                        "numero": 44,
+                        "pregunta": "Para el autor, la articulación en una propuesta de investigación se refiere a:",
+                        "opciones": {
+                            "A": "La congruencia entre los distintos segmentos del diseño",
+                            "B": "La separación clara entre objetivos y preguntas",
+                            "C": "La priorización de la metodología sobre la teoría",
+                            "D": "La eliminación de las delimitaciones temporales"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 8: 'El esfuerzo de articulación se encarga además de procurar congruencia entre los distintos segmentos de una propuesta de investigación'"
+                    },
+                    {
+                        "numero": 45,
+                        "pregunta": "El autor afirma que la delimitación poblacional puede aplicarse también al trabajar con:",
+                        "opciones": {
+                            "A": "Exclusivamente fuentes documentales",
+                            "B": "Solo individuos aislados",
+                            "C": "Organizaciones",
+                            "D": "Datos históricos"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 7: 'Esto también se puede aplicar cuando se trabaja con organizaciones'"
+                    },
+                    {
+                        "numero": 46,
+                        "pregunta": "Según el texto, la revisión de antecedentes investigativos permite prever:",
+                        "opciones": {
+                            "A": "La aceptación del artículo en revistas científicas",
+                            "B": "Los resultados definitivos de la investigación",
+                            "C": "Las dinámicas que se presentarán en el trabajo de campo",
+                            "D": "La ausencia total de errores metodológicos"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 7: 'pueden ofrecer alguna previsión de las dinámicas que se presentarán en el trabajo de campo'"
+                    },
+                    {
+                        "numero": 47,
+                        "pregunta": "El autor señala que la justificación no está completa si solo se argumenta a favor de:",
+                        "opciones": {
+                            "A": "La actualización de datos",
+                            "B": "La innovación metodológica",
+                            "C": "La relevancia social",
+                            "D": "La exploración de un nuevo tema"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 4: 'la justificación no está completa si se argumenta solo a favor de la relevancia social'"
+                    },
+                    {
+                        "numero": 48,
+                        "pregunta": "Para el autor, el concepto de 'problema' en un problema científico social se asocia con:",
+                        "opciones": {
+                            "A": "Un emprendimiento investigativo",
+                            "B": "Una carencia o conflicto social",
+                            "C": "Una denuncia de las expectativas colectivas",
+                            "D": "Un capricho intelectual"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 4: 'en el primer caso se entiende problema como tarea de investigación'"
+                    },
+                    {
+                        "numero": 49,
+                        "pregunta": "El autor menciona que la ciencia social crítica requiere profundizar cada cierto tiempo en:",
+                        "opciones": {
+                            "A": "La exposición de resultados",
+                            "B": "La descripción superficial de los fenómenos",
+                            "C": "La evitación de la confrontación de hallazgos",
+                            "D": "La restricción del debate a ámbitos académicos"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 10: 'esto requiere profundizar cada cierto tiempo en la exposición de resultados'"
+                    },
+                    {
+                        "numero": 50,
+                        "pregunta": "Según el autor, el esfuerzo de articulación puede verse expresado en la transparencia entre:",
+                        "opciones": {
+                            "A": "Los objetivos y la pregunta de investigación",
+                            "B": "El título y la introducción",
+                            "C": "Los antecedentes y la metodología",
+                            "D": "La justificación y las delimitaciones"
+                        },
+                        "respuesta_correcta": "A",
+                        "referencia": "Página 8: 'puede verse expresado en la transparencia entre los objetivos y la pregunta de investigación'"
+                    }
+                ]
+            }
+        ]
+    }
+}

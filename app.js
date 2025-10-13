@@ -1,20 +1,113 @@
-// Cargar datos del JSON
-fetch('preguntas.json')
-    .then(response => response.json())
-    .then(data => {
-        quizData = data;
-    })
-    .catch(error => {
-        console.error('Error cargando preguntas:', error);
-        alert('Error al cargar las preguntas.');
-});
-
+// Variables globales
+let quizData = null;
 let currentQuiz = [];
 let currentQuestionIndex = 0;
 let userAnswers = [];
 let totalQuestions = 0;
+let selectedQuizFile = null;
+let availableQuizzes = [];
+
+// Función para cargar la lista de cuestionarios disponibles desde el índice
+async function loadQuizList() {
+    const container = document.getElementById('quizListContainer');
+    container.innerHTML = '<p style="text-align: center; color: #666;">Cargando cuestionarios disponibles...</p>';
+    
+    try {
+        // Intentar cargar el archivo index.json
+        const response = await fetch('bd-preguntas/index.json');
+        
+        if (!response.ok) {
+            throw new Error('No se encontró el archivo index.json');
+        }
+        
+        const data = await response.json();
+        availableQuizzes = data.cuestionarios || [];
+        
+        if (availableQuizzes.length === 0) {
+            container.innerHTML = '<p style="text-align: center; color: #999; font-size: 18px; padding: 40px;">📭 No hay cuestionarios disponibles</p>';
+            return;
+        }
+        
+        // Mostrar los cuestionarios
+        container.innerHTML = '';
+        
+        for (const filename of availableQuizzes) {
+            const quizCard = document.createElement('div');
+            quizCard.className = 'quiz-card';
+            
+            // Extraer nombre sin extensión y convertir guiones en espacios
+            const displayName = filename
+                .replace('.json', '')
+                .replace(/-/g, ' ')
+                .replace(/\b\w/g, l => l.toUpperCase());
+            
+            quizCard.innerHTML = `
+                <h3>📋 ${filename}</h3>
+                <p style="color: #888; font-size: 13px; margin-top: 5px;">${displayName}</p>
+                <button class="btn" onclick="selectQuiz('bd-preguntas/${filename}', '${filename}')">Seleccionar</button>
+            `;
+            container.appendChild(quizCard);
+        }
+        
+    } catch (error) {
+        console.error('Error cargando índice de cuestionarios:', error);
+        container.innerHTML = `
+            <div style="text-align: center; padding: 40px;">
+                <p style="color: #dc3545; font-size: 18px; margin-bottom: 15px;">❌ Error al cargar cuestionarios</p>
+                <button class="btn" onclick="loadQuizList()" style="margin-top: 20px;">🔄 Reintentar</button>
+            </div>
+        `;
+    }
+}
+
+// Función para seleccionar un cuestionario
+async function selectQuiz(filepath, filename) {
+    selectedQuizFile = filepath;
+    
+    // Mostrar indicador de carga
+    const container = document.getElementById('quizListContainer');
+    container.innerHTML = `<p style="text-align: center; color: #666;">Cargando <strong>${filename}</strong>...</p>`;
+    
+    try {
+        const response = await fetch(filepath);
+        
+        if (!response.ok) {
+            throw new Error(`No se pudo cargar el archivo: ${filename}`);
+        }
+        
+        const data = await response.json();
+        quizData = data;
+        
+        // Mostrar pantalla de configuración de cantidad de preguntas
+        document.querySelector('.quiz-selection-screen').classList.remove('active');
+        document.querySelector('.setup-screen').classList.add('active');
+        
+        // Actualizar título con el nombre del cuestionario
+        const quizTitle = document.getElementById('selectedQuizTitle');
+        if (quizTitle) {
+            quizTitle.textContent = filename;
+        }
+        
+    } catch (error) {
+        console.error('Error cargando cuestionario:', error);
+        alert(`❌ Error al cargar el cuestionario "${filename}"`);
+        loadQuizList(); // Recargar la lista
+    }
+}
+
+// Función para volver a la selección de cuestionarios
+function backToQuizSelection() {
+    document.querySelector('.setup-screen').classList.remove('active');
+    document.querySelector('.quiz-selection-screen').classList.add('active');
+    quizData = null;
+    selectedQuizFile = null;
+    loadQuizList();
+}
 
 function getAllQuestions() {
+    if (!quizData || !quizData.cuestionario || !quizData.cuestionario.secciones) {
+        return [];
+    }
     let allQuestions = [];
     quizData.cuestionario.secciones.forEach(seccion => {
         allQuestions = allQuestions.concat(seccion.preguntas);
@@ -33,6 +126,17 @@ function shuffleArray(array) {
 
 function startQuiz(numQuestions) {
     const allQuestions = getAllQuestions();
+    
+    if (allQuestions.length === 0) {
+        alert('No hay preguntas disponibles. Por favor, intente con otro cuestionario');
+        return;
+    }
+    
+    if (numQuestions > allQuestions.length) {
+        alert(`Solo hay ${allQuestions.length} preguntas disponibles. Se usarán todas.`);
+        numQuestions = allQuestions.length;
+    }
+    
     const shuffled = shuffleArray(allQuestions);
     currentQuiz = shuffled.slice(0, numQuestions);
     totalQuestions = numQuestions;
@@ -185,7 +289,7 @@ function showResults() {
     if (percentage >= 90) {
         message = '¡Excelente trabajo! 🌟 Dominas el tema.';
     } else if (percentage >= 70) {
-        message = '¡Muy bien! 👏 Buen conocimiento del tema.';
+        message = '¡Muy bien! 👍 Buen conocimiento del tema.';
     } else if (percentage >= 50) {
         message = '¡Buen intento! 📚 Sigue estudiando.';
     } else {
@@ -197,20 +301,31 @@ function showResults() {
 
 function restartQuiz() {
     document.querySelector('.results-screen').classList.remove('active');
-    document.querySelector('.setup-screen').classList.add('active');
+    document.querySelector('.quiz-selection-screen').classList.add('active');
     currentQuiz = [];
     currentQuestionIndex = 0;
     userAnswers = [];
     totalQuestions = 0;
+    quizData = null;
+    selectedQuizFile = null;
+    loadQuizList();
 }
 
 function exitQuiz() {
     if (confirm('¿Estás seguro de que deseas salir? Se perderá tu progreso actual.')) {
         document.querySelector('.quiz-screen').classList.remove('active');
-        document.querySelector('.setup-screen').classList.add('active');
+        document.querySelector('.quiz-selection-screen').classList.add('active');
         currentQuiz = [];
         currentQuestionIndex = 0;
         userAnswers = [];
         totalQuestions = 0;
+        quizData = null;
+        selectedQuizFile = null;
+        loadQuizList();
     }
 }
+
+// Cargar la lista de cuestionarios al iniciar
+window.addEventListener('DOMContentLoaded', () => {
+    loadQuizList();
+});

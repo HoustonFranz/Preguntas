@@ -1,0 +1,693 @@
+{
+    "cuestionario": {
+        "titulo": "Cuestionario N°1: Delimitación y Justificación de Problemas de Investigación en Ciencias Sociales",
+        "secciones": [
+            {
+                "nombre": "Fundamentos de la Justificación Investigativa",
+                "rango_preguntas": "1-10",
+                "preguntas": [
+                    {
+                        "numero": 1,
+                        "pregunta": "Según el autor, la justificación en un diseño de investigación debe lograr:",
+                        "opciones": {
+                            "A": "Priorizar únicamente la relevancia social del problema",
+                            "B": "Descartar las motivaciones personales del investigador",
+                            "C": "Fundamentar la elección del tema de manera objetiva",
+                            "D": "Evitar cualquier forma de abordaje crítico",
+                            "E": "Eliminar todo componente subjetivo del proceso investigativo"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 186: 'la justificación es el espacio oportuno para dar argumentación convincente a tal selección, lo cual se puede lograr por varias vías'"
+                    },
+                    {
+                        "numero": 2,
+                        "pregunta": "Para el autor, un 'problema social' se diagnostica cuando:",
+                        "opciones": {
+                            "A": "Los individuos actúan de manera aislada",
+                            "B": "Existe un vacío de conocimiento científico",
+                            "C": "Se identifica una falta de rigor metodológico",
+                            "D": "La sociedad no cumple con las expectativas culturales",
+                            "E": "Se detectan problemas en la metodología científica"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 186: 'cuando una cultura tiene ciertas expectativas de cómo se debe comportar la sociedad y cuando estas no se cumplen, se diagnostica un problema'"
+                    },
+                    {
+                        "numero": 3,
+                        "pregunta": "El autor advierte que un abordaje radicalizado en la investigación puede llevar a:",
+                        "opciones": {
+                            "A": "La completa objetividad científica",
+                            "B": "Una vocación de denuncia social con extremos viscerales",
+                            "C": "La eliminación de todo conflicto social",
+                            "D": "La priorización de aspectos éticos sobre los empíricos",
+                            "E": "Una perspectiva conservadora balanceada"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 186: 'en abordajes radicalizados el trabajo podrá tomar una vocación de denuncia social, con extremos incluso viscerales'"
+                    },
+                    {
+                        "numero": 4,
+                        "pregunta": "Según Horkheimer (2000), las concepciones de individuos científicos están:",
+                        "opciones": {
+                            "A": "Libres de cualquier influencia externa",
+                            "B": "Condicionadas por factores históricos y sociales",
+                            "C": "Determinadas únicamente por el método científico",
+                            "D": "Independientes del contexto cultural",
+                            "E": "Basadas exclusivamente en la objetividad pura"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 186: 'las concepciones de individuos científicos están condicionadas por factores históricos y sociales (Horkheimer, 2000)'"
+                    },
+                    {
+                        "numero": 5,
+                        "pregunta": "El autor sostiene que el reduccionismo de lo social a su dimensión ética se evita mediante:",
+                        "opciones": {
+                            "A": "La eliminación completa de la denuncia social",
+                            "B": "El planteamiento de un problema de investigación que interrogue científicamente",
+                            "C": "La predicación sobre necesidades apremiantes",
+                            "D": "La adopción de orientaciones conservadoras",
+                            "E": "El uso exclusivo de métodos cuantitativos"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 186: 'no se interroga científicamente lo social, sino que se predica al respecto de las necesidades que le apremian... evitando el reduccionismo de lo social a su dimensión ética'"
+                    },
+                    {
+                        "numero": 6,
+                        "pregunta": "El autor menciona que el conocimiento de las ciencias sociales puede favorecer procesos de transformación social cuando:",
+                        "opciones": {
+                            "A": "Se mantiene en círculos académicos exclusivos",
+                            "B": "Se convierte en un saber público",
+                            "C": "Permanece como conocimiento especializado",
+                            "D": "Se limita a la elite intelectual",
+                            "E": "Se restringe a publicaciones científicas"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 186: 'El conocimiento que se logre puede favorecer el acompañamiento de procesos de transformación social, en tanto sea un saber público'"
+                    },
+                    {
+                        "numero": 7,
+                        "pregunta": "Según el documento, el discurso científico debe entenderse como:",
+                        "opciones": {
+                            "A": "Una actividad puramente teórica sin consecuencias",
+                            "B": "Una forma de acción social con efectos varios",
+                            "C": "Un ejercicio neutral sin implicaciones prácticas",
+                            "D": "Una herramienta exclusiva de control social",
+                            "E": "Un mecanismo de reproducción del orden establecido"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 186-187: 'Se debe recordar que el discurso es también una forma de acción social y como tal puede tener efectos varios'"
+                    },
+                    {
+                        "numero": 8,
+                        "pregunta": "El autor afirma que se debe renunciar radicalmente a:",
+                        "opciones": {
+                            "A": "Toda forma de investigación cualitativa",
+                            "B": "Los métodos de investigación participativa",
+                            "C": "Toda forma de ciencia conservadora",
+                            "D": "Las técnicas de análisis estadístico",
+                            "E": "Los enfoques interdisciplinarios"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 187: 'de manera radical se debe renunciar a toda forma de ciencia conservadora'"
+                    },
+                    {
+                        "numero": 9,
+                        "pregunta": "Según Elias (2002), citado en el documento, los abordajes científicos de los problemas sociales son:",
+                        "opciones": {
+                            "A": "Cada vez más simples y directos",
+                            "B": "Progresivamente aislados del contexto",
+                            "C": "Crecientemente intrincados",
+                            "D": "Paulatinamente más objetivos",
+                            "E": "Gradualmente menos complejos"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 187: 'las circunstancias históricas, culturales, políticas y económicas inciden de manera decisiva... por eso los abordajes científicos de estos problemas son crecientemente intrincados (Elias, 2002)'"
+                    },
+                    {
+                        "numero": 10,
+                        "pregunta": "El involucramiento político del gremio científico, según el autor, se manifiesta como:",
+                        "opciones": {
+                            "A": "Una prohibición absoluta",
+                            "B": "Una posibilidad y en ocasiones una necesidad",
+                            "C": "Un impedimento para la objetividad",
+                            "D": "Una contradicción con el método científico",
+                            "E": "Una desviación de los principios académicos"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 187: 'su involucramiento político no solo se manifiesta como una posibilidad, sino también en ocasiones como una necesidad'"
+                    }
+                ]
+            },
+
+            {
+                "nombre": "Antecedentes y Estado de la Cuestión",
+                "rango_preguntas": "11-20",
+                "preguntas":[
+                    {
+                        "numero": 11,
+                        "pregunta": "Según Adorno (2008), la ciencia podría generar comprensiones capaces de:",
+                        "opciones": {
+                            "A": "Reproducir el orden social existente",
+                            "B": "Mantener las estructuras de poder vigentes",
+                            "C": "Superar la alienación social",
+                            "D": "Conservar las tradiciones culturales",
+                            "E": "Preservar el statu quo"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 187: 'la ciencia no está destinada a reproducir un orden social, por el contrario, podría generar comprensiones capaces de superar la alienación social (Adorno, 2008)'"
+                    },
+                    {
+                        "numero": 12,
+                        "pregunta": "El problema científico social se diferencia del problema social en que el primero:",
+                        "opciones": {
+                            "A": "Denuncia las formas en que la sociedad discrepa",
+                            "B": "Se entiende como tarea de investigación que interroga lo social",
+                            "C": "Identifica carencias en el sistema educativo",
+                            "D": "Señala expectativas colectivas no cumplidas",
+                            "E": "Evidencia conflictos entre grupos sociales"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 187: 'en el primer caso se entiende problema como tarea de investigación, se interroga lo social para averiguar por qué se comporta de tal manera'"
+                    },
+                    {
+                        "numero": 13,
+                        "pregunta": "La justificación en un diseño de investigación está completa cuando argumenta:",
+                        "opciones": {
+                            "A": "Solo a favor de la relevancia social",
+                            "B": "Exclusivamente sobre la metodología propuesta",
+                            "C": "Únicamente sobre los recursos disponibles",
+                            "D": "Tanto la relevancia social como el aporte al estado de conocimiento de la disciplina",
+                            "E": "Solamente sobre la viabilidad económica del proyecto"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 187: 'la justificación no está completa si se argumenta solo a favor de la relevancia social, también se debe resaltar la investigación misma, es decir, cómo aporta al estado de conocimiento de la disciplina sobre el tema elegido'"
+                    },
+                    {
+                        "numero": 14,
+                        "pregunta": "Según el autor, la perspectiva crítica de la investigación puede interrogar:",
+                        "opciones": {
+                            "A": "Únicamente conflictos o daños sociales evidentes",
+                            "B": "Solo relaciones armónicas verificadas empíricamente",
+                            "C": "Exclusivamente avances en la organización social",
+                            "D": "También aquellas relaciones que se presumen falsamente armónicas",
+                            "E": "Solamente problemas previamente identificados"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 187: 'La perspectiva crítica de la investigación, por ejemplo, puede investigar sobre conflictos o daños sociales, también puede interrogar aquellas relaciones que se presumen falsamente armónicas'"
+                    },
+                    {
+                        "numero": 15,
+                        "pregunta": "Los potenciales aportes científicos pueden ser de tipo:",
+                        "opciones": {
+                            "A": "Únicamente empíricos",
+                            "B": "Solamente metodológicos",
+                            "C": "Exclusivamente teóricos",
+                            "D": "Empíricos, metodológicos o teóricos",
+                            "E": "Solo prácticos y aplicados"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 188: 'los potenciales aportes científicos pueden ser empíricos, metodológicos o teóricos'"
+                    },
+                    {
+                        "numero": 16,
+                        "pregunta": "El autor señala que los dilemas éticos en la investigación:",
+                        "opciones": {
+                            "A": "Deben resolverse completamente antes de iniciar",
+                            "B": "Se justifican por su ausencia total",
+                            "C": "Son incorporados como parte de la problematización científica",
+                            "D": "Se eliminan mediante la metodología adecuada",
+                            "E": "Se evitan con un diseño correcto"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 188: 'En la investigación no se justifica un tema por su ausencia de dilemas éticos o porque se los resuelva, sino porque estos son incorporados como parte de la problematización científica'"
+                    },
+                    {
+                        "numero": 17,
+                        "pregunta": "El error de suponer un vacío de conocimiento en un tema se debe usualmente a:",
+                        "opciones": {
+                            "A": "La novedad absoluta del tema",
+                            "B": "La inexistencia de investigaciones previas",
+                            "C": "La falta de insistencia en la localización de fuentes de información",
+                            "D": "La ausencia de datos empíricos disponibles",
+                            "E": "La carencia de teorías aplicables"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 188: 'cuando se señala la urgencia de una investigación por el vacío de conocimiento, usualmente es más por falta de insistencia en la localización de fuentes de información'"
+                    },
+                    {
+                        "numero": 18,
+                        "pregunta": "El concepto de 'ignorancia conocida' se refiere a:",
+                        "opciones": {
+                            "A": "La total ausencia de información sobre un tema",
+                            "B": "Confeccionar una búsqueda orientada que respalde la relevancia del trabajo propuesto",
+                            "C": "El desconocimiento completo del investigador",
+                            "D": "La carencia de estudios previos en el área",
+                            "E": "La limitación metodológica de la investigación"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 188: 'confeccionar una \"ignorancia conocida\", orientar la búsqueda de información para respaldar la relevancia del trabajo que se propone realizar'"
+                    },
+                    {
+                        "numero": 19,
+                        "pregunta": "Los trabajos de investigación pueden divergir o converger según:",
+                        "opciones": {
+                            "A": "Solo sus aproximaciones teóricas",
+                            "B": "Únicamente sus propuestas metodológicas",
+                            "C": "Exclusivamente sus hallazgos empíricos",
+                            "D": "Sus aproximaciones teóricas, propuestas metodológicas o hallazgos empíricos",
+                            "E": "Solamente el contexto histórico de su publicación"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 188: 'Se debe prestar atención a cómo los trabajos pueden divergir o converger según sus aproximaciones teóricas, sus propuestas metodológicas o por sus hallazgos empíricos'"
+                    },
+                    {
+                        "numero": 20,
+                        "pregunta": "El avance en las ciencias, según el autor, es:",
+                        "opciones": {
+                            "A": "Una colección sucesiva de descubrimientos individuales",
+                            "B": "Un esfuerzo colectivo",
+                            "C": "El resultado de genios aislados",
+                            "D": "Una acumulación de datos empíricos",
+                            "E": "Un proceso de innovaciones personales"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 188: 'Es un recordatorio de que el avance en las ciencias es un esfuerzo colectivo y no una colección sucesiva de descubrimientos individuales'"
+                    }
+                ]
+            },
+
+            {
+                "nombre": "Redacción y Comunicación Científica",
+                "rango_preguntas": "21-30",
+                "preguntas": [
+                    {
+                    "numero": 21,
+                    "pregunta": "Se recomienda evitar sitios del dominio \".com\" porque:",
+                    "opciones": {
+                        "A": "Son de baja calidad técnica",
+                        "B": "Tienen orientación comercial y no son fuentes académicas",
+                        "C": "Contienen información desactualizada",
+                        "D": "No son accesibles para investigadores",
+                        "E": "Están restringidos geográficamente"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 189: 'Se recomienda evitar sitios del dominio \".com\", lo cual significa que se trata de páginas con orientación comercial, por lo tanto, no sería una fuente académica, educativa, o científica'"
+                },
+                {
+                    "numero": 22,
+                    "pregunta": "Los antecedentes empíricos ponen énfasis en:",
+                    "opciones": {
+                        "A": "La trayectoria histórica del problema",
+                        "B": "Las técnicas de investigación utilizadas",
+                        "C": "Toda la información disponible sobre las unidades de análisis",
+                        "D": "Los marcos teóricos aplicables",
+                        "E": "Las metodologías previas empleadas"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 189: 'Los antecedentes empíricos ponen énfasis a toda la información disponible sobre las unidades de análisis para el trabajo de campo'"
+                },
+                {
+                    "numero": 23,
+                    "pregunta": "Los antecedentes históricos suponen elaborar:",
+                    "opciones": {
+                        "A": "Toda la historia de la humanidad relacionada con el tema",
+                        "B": "Los principales hitos de la coyuntura histórica del tema",
+                        "C": "Una cronología exhaustiva de todos los eventos",
+                        "D": "Un recuento completo de antecedentes temporales",
+                        "E": "La historia total del problema social"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 189-190: 'No se trata de elaborar todo lo que antecede en el tiempo a un problema social, sino los principales hitos de la coyuntura histórica en que se inscribe el tema de investigación'"
+                },
+                {
+                    "numero": 24,
+                    "pregunta": "Los antecedentes investigativos se orientan a:",
+                    "opciones": {
+                        "A": "Describir las características demográficas de la población",
+                        "B": "Ponerse al corriente sobre la manera en que el tema se ha venido investigando",
+                        "C": "Identificar únicamente datos estadísticos disponibles",
+                        "D": "Recopilar información testimonial de los sujetos",
+                        "E": "Establecer únicamente la cronología de eventos"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 190: 'Los antecedentes investigativos se orientan a ponerse al corriente sobre la manera en que el tema se ha venido investigando'"
+                },
+                {
+                    "numero": 25,
+                    "pregunta": "La delimitación espacial en una investigación detalla:",
+                    "opciones": {
+                        "A": "Solo el tiempo que durará el estudio",
+                        "B": "Únicamente las características de los informantes",
+                        "C": "El lugar, ya sea global, regional, nacional o local",
+                        "D": "Exclusivamente los aspectos teóricos del problema",
+                        "E": "Solamente los objetivos de la investigación"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 190: 'la delimitación espacial, en la cual se detalla el lugar, ya se trate de una investigación global, regional, nacional o local'"
+                },
+                {
+                    "numero": 26,
+                    "pregunta": "La delimitación temporal señala:",
+                    "opciones": {
+                        "A": "El momento histórico de publicación de la investigación",
+                        "B": "La extensión de tiempo que cubre el estudio",
+                        "C": "La duración de la carrera académica del investigador",
+                        "D": "El período de formación del equipo investigador",
+                        "E": "El tiempo de vigencia de las teorías aplicadas"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 190: 'la delimitación temporal, la cual señala la extensión de tiempo que cubre el estudio, sea de meses o incluso años'"
+                },
+                {
+                    "numero": 27,
+                    "pregunta": "La delimitación poblacional, cuando se trabaja con personas informantes, debe precisar:",
+                    "opciones": {
+                        "A": "Solo la edad de los participantes",
+                        "B": "Únicamente el nivel educativo",
+                        "C": "Exclusivamente el género de los sujetos",
+                        "D": "Su perfil demográfico completo",
+                        "E": "Solamente la nacionalidad"
+                    },
+                    "respuesta_correcta": "D",
+                    "referencia": "Página 190: 'cuando se trabaja con personas informantes, se debe precisar su perfil demográfico, es decir, a las características referidas al sexo, edad, etnia, estrato ocupacional, situación económica, nivel de escolaridad, zona de residencia, nacionalidad, entre otras'"
+                },
+                {
+                    "numero": 28,
+                    "pregunta": "Según Zemelman (1992), toda delimitación requiere ser simultáneamente:",
+                    "opciones": {
+                        "A": "Una separación total de su contexto",
+                        "B": "Una articulación con su contexto",
+                        "C": "Una abstracción conceptual pura",
+                        "D": "Una definición aislada del entorno",
+                        "E": "Una fragmentación metodológica"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 190: 'toda delimitación requiere ser simultáneamente una articulación con su contexto (Zemelman, 1992)'"
+                },
+                {
+                    "numero": 29,
+                    "pregunta": "La pregunta de investigación logra señalar:",
+                    "opciones": {
+                        "A": "Todos los aspectos posibles de lo social",
+                        "B": "El aspecto relacional a partir del cual se problematizará el tema",
+                        "C": "La totalidad de facetas del fenómeno estudiado",
+                        "D": "Cada dimensión empírica del problema",
+                        "E": "Todas las variables del estudio"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 191: 'la pregunta de investigación logra señalar ese aspecto relacional a partir del cual se problematizará el tema elegido'"
+                },
+                {
+                    "numero": 30,
+                    "pregunta": "El objetivo general se puede desagregar en objetivos específicos de tal manera que estos últimos:",
+                    "opciones": {
+                        "A": "Contradigan parcialmente lo planteado en el general",
+                        "B": "Sean completamente independientes entre sí",
+                        "C": "Logren una secuencia, se mantengan coherentes e insistan en el carácter relacional",
+                        "D": "Eliminen la necesidad del objetivo general",
+                        "E": "Reemplacen totalmente la pregunta de investigación"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 191: 'los objetivos específicos logren una secuencia, se mantengan coherentes e insistan en cómo se entiende el carácter relacional de lo social en el diseño'"
+                }
+                ]
+            },    
+
+            {
+                "nombre": "Articulación y Coherencia Metodológica",
+                "rango_preguntas": "31-40",
+                "preguntas": [
+                {
+                    "numero": 31,
+                    "pregunta": "Introducir un concepto en el objetivo general y luego plantear un sinónimo de uso coloquial puede significar:",
+                    "opciones": {
+                        "A": "Mayor claridad en la comunicación",
+                        "B": "Mejor comprensión del problema",
+                        "C": "Distorsiones en la rigurosidad del problema",
+                        "D": "Facilidad para el análisis empírico",
+                        "E": "Simplificación metodológica necesaria"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 191: 'introducir un concepto en el objetivo general y luego plantear un sinónimo de uso coloquial, puede significar distorsiones en la rigurosidad del problema'"
+                },
+                {
+                    "numero": 32,
+                    "pregunta": "La ciencia requiere un momento de descripción y luego avanza mediante:",
+                    "opciones": {
+                        "A": "La acumulación de más datos descriptivos",
+                        "B": "La recolección exhaustiva de información",
+                        "C": "La insistencia hacia la explicación de los principales factores",
+                        "D": "La elaboración de nuevas descripciones",
+                        "E": "La multiplicación de observaciones empíricas"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 191-192: 'La ciencia requiere ciertamente un momento de descripción e incluso de retrodicción (Fernández, 1992), luego avanza mediante la insistencia hacia la explicación de los principales factores que inciden en un fenómeno'"
+                },
+                {
+                    "numero": 33,
+                    "pregunta": "La introducción de un documento de diseño debe ser:",
+                    "opciones": {
+                        "A": "La primera parte redactada del diseño",
+                        "B": "La última parte redactada del diseño",
+                        "C": "Escrita simultáneamente con los objetivos",
+                        "D": "Elaborada antes de la justificación",
+                        "E": "Desarrollada junto con la metodología"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 192: 'La introducción es siempre la sección inicial del documento de diseño, pero la sugerencia no es cambiarla de orden, sino simplemente que sea la última parte redactada del diseño'"
+                },
+                {
+                    "numero": 34,
+                    "pregunta": "Según Bauman (2003), escribir en ciencias sociales supone:",
+                    "opciones": {
+                        "A": "Solo reproducir datos objetivos",
+                        "B": "Únicamente exponer resultados empíricos",
+                        "C": "Descubrir y crear, con un sentido de poiesis",
+                        "D": "Exclusivamente seguir formatos establecidos",
+                        "E": "Solamente reportar hallazgos cuantitativos"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 192: 'escribir en ciencias sociales supone descubrir y crear, hay un sentido de poiesis (Bauman, 2003)'"
+                },
+                {
+                    "numero": 35,
+                    "pregunta": "El lenguaje coloquial en la redacción científica:",
+                    "opciones": {
+                        "A": "Siempre alcanza para lograr inteligibilidad",
+                        "B": "Es preferible en todos los casos",
+                        "C": "No siempre alcanza para lograr la inteligibilidad necesaria",
+                        "D": "Debe evitarse completamente",
+                        "E": "Garantiza mejor comprensión del texto"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 192: 'el propósito es lograr la mayor inteligibilidad posible, pero el lenguaje coloquial no siempre alcanza para esta meta'"
+                },
+                {
+                    "numero": 36,
+                    "pregunta": "Según Lefebvre (1967), el lenguaje resulta:",
+                    "opciones": {
+                        "A": "Completamente transparente y objetivo",
+                        "B": "Totalmente independiente del contexto",
+                        "C": "Socialmente posibilitado y determinado",
+                        "D": "Absolutamente neutral y universal",
+                        "E": "Enteramente libre de influencias sociales"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 192: 'el lenguaje también resulta a la vez socialmente posibilitado y determinado (Lefebvre, 1967)'"
+                },
+                {
+                    "numero": 37,
+                    "pregunta": "Un texto científico puede ser torpe en términos científicos cuando:",
+                    "opciones": {
+                        "A": "Utiliza terminología demasiado simple",
+                        "B": "Está adornado estilísticamente o es lexicalmente ampuloso sin articulación conceptual",
+                        "C": "Presenta datos empíricos abundantes",
+                        "D": "Incluye múltiples referencias bibliográficas",
+                        "E": "Usa metodologías cualitativas"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 192: 'un texto adornado estilísticamente o lexicalmente ampuloso, puede perfectamente ser torpe en términos científicos y prestarse para infatuaciones por vía de la criptolalia (Andreski, 1973)'"
+                },
+                {
+                    "numero": 38,
+                    "pregunta": "Según Bauman (2003), escribir en ciencias sociales requiere:",
+                    "opciones": {
+                        "A": "Inmediatez y familiaridad con el tema",
+                        "B": "Solo conocimiento técnico especializado",
+                        "C": "Tomar distancia y tiempo",
+                        "D": "Únicamente rigor metodológico",
+                        "E": "Solamente objetividad empírica"
+                    },
+                    "respuesta_correcta": "C",
+                    "referencia": "Página 192: 'escribir en ciencias sociales requiere tomar distancia y tiempo (Bauman, 2003)'"
+                },
+                {
+                    "numero": 39,
+                    "pregunta": "La ciencia social crítica es incómoda porque:",
+                    "opciones": {
+                        "A": "Utiliza metodologías complejas",
+                        "B": "Está armada de un aparato teórico y empírico con discurso responsable",
+                        "C": "Emplea lenguaje técnico especializado",
+                        "D": "Requiere recursos económicos abundantes",
+                        "E": "Necesita largos períodos de investigación"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 193: 'La ciencia social cuando es crítica, es incómoda, armada de un aparato teórico y empírico, con un discurso responsable'"
+                },
+                {
+                    "numero": 40,
+                    "pregunta": "Ninguna tesis verdaderamente científica puede quedar restringida a un nivel:",
+                    "opciones": {
+                        "A": "Únicamente explicativo",
+                        "B": "Meramente descriptivo",
+                        "C": "Solo interpretativo",
+                        "D": "Exclusivamente analítico",
+                        "E": "Solamente comprensivo"
+                    },
+                    "respuesta_correcta": "B",
+                    "referencia": "Página 193: 'ninguna tesis verdaderamente científica se puede quedar restringida a un nivel meramente descriptivo'"
+                }
+                ]
+            },
+
+            {
+                "nombre": "Crítica y Responsabilidad Social de la Ciencia",
+                "rango_preguntas": "41-50",
+                "preguntas": [
+                    {
+                        "numero": 41,
+                        "pregunta": "Según Bauman (1994), en relación con la ciencia y los problemas sociales:",
+                        "opciones": {
+                            "A": "Conocer es suficiente para remediar",
+                            "B": "El conocimiento garantiza la solución",
+                            "C": "Conocer no basta para remediar",
+                            "D": "La investigación resuelve automáticamente problemas",
+                            "E": "El saber científico elimina conflictos sociales"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 193: 'conocer no basta para remediar (Bauman, 1994)'"
+                    },
+                    {
+                        "numero": 42,
+                        "pregunta": "La ciencia como proyecto plantea la apertura del conocimiento, lo cual puede generar:",
+                        "opciones": {
+                            "A": "Aceptación universal inmediata",
+                            "B": "Consenso total en la sociedad",
+                            "C": "Disconformidad en sectores conservadores o favorecidos por la ignorancia cultural",
+                            "D": "Aprobación de todos los grupos sociales",
+                            "E": "Armonía entre diferentes sectores"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 193: 'La ciencia es un proyecto que entre otras cosas plantea la apertura del conocimiento, esto puede generar disconformidad en ciertos sectores de la sociedad conservadores o favorecidos por el mantenimiento de la ignorancia cultural'"
+                    },
+                    {
+                        "numero": 43,
+                        "pregunta": "El autor sostiene que las ciencias sociales pueden interrogar sobre el malestar y:",
+                        "opciones": {
+                            "A": "Sus respuestas siempre complacen a todos",
+                            "B": "Sus hallazgos son universalmente aceptados",
+                            "C": "Sus respuestas pueden llegar a molestar",
+                            "D": "Sus conclusiones generan consenso social",
+                            "E": "Sus resultados son neutrales políticamente"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 193: 'las ciencias sociales pueden interrogar sobre el malestar y sus respuestas pueden llegar a molestar'"
+                    },
+                    {
+                        "numero": 44,
+                        "pregunta": "Según el autor, no hay temas fáciles en investigación, solo:",
+                        "opciones": {
+                            "A": "Investigadores con más experiencia",
+                            "B": "Metodologías más simples disponibles",
+                            "C": "Modos simplificados o escuetos de abordaje",
+                            "D": "Teorías menos complejas aplicables",
+                            "E": "Recursos técnicos más accesibles"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 193: 'No hay temas fáciles, solo quizá modos simplificados o escuetos de abordaje'"
+                    },
+                    {
+                        "numero": 45,
+                        "pregunta": "El impacto de la investigación en ciencias sociales, según el autor, es:",
+                        "opciones": {
+                            "A": "Total y definitivo",
+                            "B": "Inmediato y completo",
+                            "C": "Absoluto y permanente",
+                            "D": "Parcial y tentativo",
+                            "E": "Universal y duradero"
+                        },
+                        "respuesta_correcta": "D",
+                        "referencia": "Página 186: 'se debe proceder con modestia sobre los beneficios de la investigación, su impacto es parcial y tentativo'"
+                    },
+                    {
+                        "numero": 46,
+                        "pregunta": "Las ciencias sociales, según el documento, no son:",
+                        "opciones": {
+                            "A": "Herramientas de análisis social",
+                            "B": "Solución inmediata de los problemas",
+                            "C": "Instrumentos de conocimiento",
+                            "D": "Medios de comprensión social",
+                            "E": "Formas de acción discursiva"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 186: 'Las ciencias sociales no son solución inmediata de los problemas'"
+                    },
+                    {
+                        "numero": 47,
+                        "pregunta": "El conocimiento científico social puede colaborar sensiblemente en:",
+                        "opciones": {
+                            "A": "Eliminar todos los conflictos sociales",
+                            "B": "Redimir a la sociedad completamente",
+                            "C": "Discernir los aspectos que aquejan a la sociedad",
+                            "D": "Solucionar definitivamente los problemas",
+                            "E": "Erradicar totalmente la injusticia"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 186: 'las ciencias no redimen a la sociedad de sus problemas, pero sí pueden colaborar sensiblemente en discernir los aspectos que le aquejan'"
+                    },
+                    {
+                        "numero": 48,
+                        "pregunta": "Si se entiende cómo los conflictos son sociales, también se podrá entender que:",
+                        "opciones": {
+                            "A": "Las alternativas son individuales",
+                            "B": "Las soluciones son científicas exclusivamente",
+                            "C": "Las alternativas son colectivas",
+                            "D": "Los remedios son gubernamentales",
+                            "E": "Las respuestas son técnicas únicamente"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 186: 'si se entiende cómo los conflictos son sociales, también se podrá entender que las alternativas son colectivas, no inventos individuales ni elaboraciones de un demiurgo-científico social'"
+                    },
+                    {
+                        "numero": 49,
+                        "pregunta": "Una mejor ciencia que presuma ser totalmente ajena a problemas sociales supone ignorar que:",
+                        "opciones": {
+                            "A": "La objetividad es el único criterio válido",
+                            "B": "El contexto incide de manera decisiva",
+                            "C": "Los métodos son universales",
+                            "D": "La neutralidad es posible",
+                            "E": "Los datos hablan por sí mismos"
+                        },
+                        "respuesta_correcta": "B",
+                        "referencia": "Página 187: 'solo desde una concepción ingenuamente conservadora de la ciencia se podría presumir que una mejor ciencia es totalmente ajena a problemas sociales, esto supondría ignorar que el contexto, es decir, las circunstancias históricas, culturales, políticas y económicas inciden de manera decisiva'"
+                    },
+                    {
+                        "numero": 50,
+                        "pregunta": "Según Aron (1989), mencionado en el documento, el conocimiento de la investigación está:",
+                        "opciones": {
+                            "A": "Libre de cualquier influencia contextual",
+                            "B": "Completamente independiente de su recepción",
+                            "C": "Ineludiblemente afectado por su contexto de recepción",
+                            "D": "Totalmente determinado por el método usado",
+                            "E": "Absolutamente controlado por el investigador"
+                        },
+                        "respuesta_correcta": "C",
+                        "referencia": "Página 186: 'su impacto es parcial y tentativo, ineludiblemente afectado por su contexto de recepción (Aron, 1989)'"
+                    }
+                ]
+
+            }
+        ]
+   
+    }
+}
