@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cuestionario de Investigación Científica</title>
+    <title>Cuestionario en Línea</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>📚 Cuestionario de Investigación Científica - LECTURA 4</h1>
+        <h1>📚 Cuestionario de Investigación Científica</h1>
 
-        <!-- Quiz Selection Screen (Nueva pantalla) -->
+        <!-- Pantalla de Selección de Cuestionarios -->
         <div class="quiz-selection-screen active">
             <p style="text-align: center; color: #666; margin-bottom: 20px;">
                 Selecciona el cuestionario que deseas practicar:
@@ -21,7 +21,7 @@
             </p>
         </div>
 
-        <!-- Setup Screen -->
+        <!-- Pantalla de Configuración -->
         <div class="setup-screen">
             <p style="text-align: center; color: #667eea; font-weight: 600; margin-bottom: 10px;">
                 Cuestionario seleccionado: <span id="selectedQuizTitle" style="color: #764ba2;"></span>
@@ -40,7 +40,7 @@
             </div>
         </div>
 
-        <!-- Quiz Screen -->
+        <!-- Pantalla del Quiz -->
         <div class="quiz-screen">
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
@@ -55,13 +55,13 @@
             </div>
 
             <div class="nav-buttons">
+                <button class="btn" onclick="nextQuestion()" id="nextBtn" disabled>Siguiente →</button>
                 <button class="btn" onclick="previousQuestion()" id="prevBtn">← Anterior</button>
                 <button class="btn btn-exit" onclick="exitQuiz()">🚪 Salir</button>
-                <button class="btn" onclick="nextQuestion()" id="nextBtn" disabled>Siguiente →</button>
             </div>
         </div>
 
-        <!-- Results Screen -->
+        <!-- Pantalla de Resultados -->
         <div class="results-screen">
             <h2 style="text-align: center; color: #667eea; margin-bottom: 30px;">🎉 ¡Cuestionario Completado!</h2>
             

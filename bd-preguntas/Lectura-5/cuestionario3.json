@@ -1,0 +1,385 @@
+{
+    "cuestionario": {
+      "titulo": "Cuestionario de Alto Nivel: Marco Teórico y Fundamentos de la Investigación Científica",
+      "secciones": [
+        {
+          "nombre": "I. Concepto y Estructura del Marco Teórico",
+          "rango_preguntas": "1-10",
+          "preguntas": [
+            {
+              "numero": 1,
+              "pregunta": "Según Daros (2002), ¿qué representa un marco en el contexto de la investigación científica?",
+              "opciones": {
+                "A": "Es el borde de un objeto que encuadra una pintura, la ubica, la contiene, le da un centro y la hace relevante.",
+                "B": "Es el límite de un objeto que encuadra una pintura, la posiciona, la contiene, le da un enfoque y la hace relevante.",
+                "C": "Es el perímetro de un objeto que enmarca una pintura, la ubica, la contiene, le da un centro y la hace importante.",
+                "D": "Es el contorno de un objeto que encuadra una pintura, la sitúa, la contiene, le da un núcleo y la hace relevante."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Un marco es el borde de un objeto, es lo que encuadra una pintura, la ubica, la contiene, le da un centro, la hace relevante (Daros, 2002). [pág. 33]"
+            },
+            {
+              "numero": 2,
+              "pregunta": "¿Qué frase contundente de Juan José Arreola se menciona como implícita en el marco teórico?",
+              "opciones": {
+                "A": "Si no lees, no sabes redactar, y si no sabes redactar, no sabes reflexionar.",
+                "B": "Si no lees, no puedes escribir, y si no puedes escribir, no puedes pensar.",
+                "C": "Si no lees, no sabes escribir, y si no sabes escribir, no sabes pensar.",
+                "D": "Si no estudias, no sabes escribir, y si no sabes escribir, no sabes pensar."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "El marco teórico lleva implícita una frase contundente de Juan José Arreola, escritor mexicano, que menciona: 'si no lees, no sabes escribir, y si no sabes escribir, no sabes pensar'. [pág. 33]"
+            },
+            {
+              "numero": 3,
+              "pregunta": "De acuerdo con el documento, ¿qué representa el marco teórico en relación con la lectura?",
+              "opciones": {
+                "A": "Es una lectura organizada de las fuentes científicas a partir de la cual se adopta una teoría que sirve como marco de referencia para la redacción de la investigación.",
+                "B": "Es una lectura ordenada de las fuentes científicas a partir de la cual se asume una teoría que sirve como marco de referencia para la redacción de la investigación.",
+                "C": "Es una lectura sistemática de las fuentes científicas a partir de la cual se asume una teoría que sirve como guía de referencia para la redacción de la investigación.",
+                "D": "Es una lectura ordenada de las fuentes académicas a partir de la cual se asume una teoría que sirve como marco de referencia para la escritura de la investigación."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "El marco teórico, por tanto, es una lectura ordenada de las fuentes científicas a partir de la cual se asume una teoría que sirve como marco de referencia para la redacción de la investigación. [pág. 33]"
+            },
+            {
+              "numero": 4,
+              "pregunta": "Según el texto, ¿cuándo comienza realmente el marco teórico en el proceso de investigación?",
+              "opciones": {
+                "A": "En el capítulo específico que señala 'marco teórico'.",
+                "B": "En el mismo momento en que se piensa el problema.",
+                "C": "Después de formular el problema de investigación.",
+                "D": "Durante la revisión de los antecedentes del estudio."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "En consecuencia, el marco teórico no solo empieza en este apartado o en el capítulo que señala 'marco teórico', sino en el mismo momento en que se piensa el problema. [pág. 33-34]"
+            },
+            {
+              "numero": 5,
+              "pregunta": "Según Carbajal (2002) y Gallegos (2018), ¿qué es una teoría?",
+              "opciones": {
+                "A": "Es un modelo o conjunto de conceptos interrelacionados, definiciones y proposiciones que tratan de articular de manera lógica, coherente y sistemática el conocimiento que se obtiene mediante un proceso de investigación científica y también a través de la experiencia.",
+                "B": "Es un patrón o conjunto de conceptos interrelacionados, definiciones y proposiciones que intentan articular de forma lógica, coherente y sistemática el conocimiento que se obtiene mediante un proceso de investigación científica y también a través de la práctica.",
+                "C": "Es un modelo o grupo de conceptos interrelacionados, definiciones y proposiciones que tratan de articular de manera lógica, coherente y metódica el conocimiento que se obtiene mediante un proceso de investigación científica y también a través de la experiencia.",
+                "D": "Es un esquema o conjunto de conceptos interrelacionados, definiciones y proposiciones que tratan de articular de manera lógica, coherente y sistemática el conocimiento que se obtiene mediante un proceso de investigación empírica y también a través de la experiencia."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Una teoría es un modelo o conjunto de conceptos interrelacionados, definiciones y proposiciones que tratan de articular de manera lógica, coherente y sistemática el conocimiento que se obtiene mediante un proceso de investigación científica y también a través de la experiencia (Carbajal, 2002 y Gallegos, 2018). [pág. 34]"
+            },
+            {
+              "numero": 6,
+              "pregunta": "¿Cuál es el origen etimológico del término 'teoría' y qué significa?",
+              "opciones": {
+                "A": "Proviene del griego 'theoreo' que significa 'observar', 'contemplar'.",
+                "B": "Proviene del griego 'theoreo' que significa 'mirar', 'observar'.",
+                "C": "Proviene del latín 'theoria' que significa 'mirar', 'observar'.",
+                "D": "Proviene del griego 'theorein' que significa 'mirar', 'contemplar'."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "El término 'teoría' tiene sus orígenes en el griego (theoreo) que significa 'mirar', observar'. [pág. 34]"
+            },
+            {
+              "numero": 7,
+              "pregunta": "Según Daros (2002), ¿qué tres condiciones es necesario repensar para la construcción de una interpretación teórica?",
+              "opciones": {
+                "A": "Existen problemas porque existen contradicciones; implica excluir las contradicciones; para excluir dichas contradicciones se inventa una idea nueva.",
+                "B": "Existen problemas porque existen discrepancias; implica eliminar las contradicciones; para eliminar dichas contradicciones se crea una idea nueva.",
+                "C": "Existen problemas porque existen incompatibilidades; implica excluir las contradicciones; para excluir dichas contradicciones se genera una idea nueva.",
+                "D": "Existen problemas porque existen contradicciones; implica resolver las contradicciones; para resolver dichas contradicciones se inventa una idea innovadora."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Daros (2002, p. 78) menciona que la teoría permite la construcción de una interpretación en la que es necesario repensar algunas condiciones como las siguientes: (a) existen problemas porque existen contradicciones [...]; (b) implica excluir las contradicciones [...]; (c) para excluir dichas contradicciones se inventa una idea nueva. [pág. 34]"
+            },
+            {
+              "numero": 8,
+              "pregunta": "¿Cuáles son los cinco criterios principales para evaluar la pertinencia de una teoría según el documento?",
+              "opciones": {
+                "A": "Capacidad de descripción, explicación y predicción; Consistencia lógica; Perspectiva (nivel de generalidad); Fructificación (heurística); Parsimonia (simplicidad, sencillez).",
+                "B": "Capacidad de análisis, explicación y proyección; Consistencia lógica; Perspectiva (nivel de abstracción); Fructificación (heurística); Parsimonia (simplicidad, claridad).",
+                "C": "Capacidad de descripción, interpretación y predicción; Coherencia lógica; Perspectiva (nivel de generalidad); Fructificación (generativa); Parsimonia (simplicidad, sencillez).",
+                "D": "Capacidad de descripción, explicación y pronóstico; Consistencia metodológica; Perspectiva (nivel de generalidad); Fructificación (heurística); Economía (simplicidad, sencillez)."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Tabla 1: Criterios para evaluar la pertinencia de una teoría: Capacidad de descripción, explicación y predicción; Consistencia lógica; Perspectiva (nivel de generalidad); Fructificación (heurística) es decir, la generación de nuevas interrogantes; Parsimonia (simplicidad, sencillez). [pág. 35]"
+            },
+            {
+              "numero": 9,
+              "pregunta": "Según Guirao (2015), ¿cuál es una de las propiedades del conocimiento científico en relación con la revisión de literatura?",
+              "opciones": {
+                "A": "Su carácter progresivo.",
+                "B": "Su carácter acumulativo.",
+                "C": "Su carácter evolutivo.",
+                "D": "Su carácter sistemático."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Según Guirao (2015) 'una de las propiedades del conocimiento científico es su carácter acumulativo' (párr. 1). [pág. 35]"
+            },
+            {
+              "numero": 10,
+              "pregunta": "De acuerdo con Daros (2002), ¿qué función cumple la adopción de una teoría en un trabajo académico bien estructurado?",
+              "opciones": {
+                "A": "Hace la función de principio de estructuración y supera lo observable.",
+                "B": "Hace la función de principio de organización y supera lo observable.",
+                "C": "Hace la función de elemento de coordinación y supera lo empírico.",
+                "D": "Hace la función de principio rector y trasciende lo observable."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Cuando un trabajo académico está bien estructurado y desarrollado, en muchos casos se debe a la adopción 'de una teoría, de una idea, expectativa, interpretación o conjetura que hace la función de principio de organización y supera lo observable' (Daros, 2002, p. 84). [pág. 35]"
+            }
+          ]
+        },
+        {
+          "nombre": "II. Antecedentes del Estudio",
+          "rango_preguntas": "11-20",
+          "preguntas": [
+            {
+              "numero": 11,
+              "pregunta": "Según Matos y Matos (2010), ¿qué se busca a través de la revisión de estudios previos y el desarrollo sobre la evolución histórica del constructo?",
+              "opciones": {
+                "A": "Los principales referentes metodológicos que sustentan la solución del problema planteado.",
+                "B": "Los principales referentes teóricos que sustentan la solución del problema planteado.",
+                "C": "Los principales referentes empíricos que fundamentan la solución del problema planteado.",
+                "D": "Los principales referentes históricos que sustentan la respuesta del problema planteado."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "A través de la revisión de estudios previos (antecedentes) y el desarrollo sobre la evolución histórica del constructo (bases teóricas) se busca los principales referentes teóricos que sustentan la solución del problema planteado (Matos y Matos, 2010). [pág. 35-36]"
+            },
+            {
+              "numero": 12,
+              "pregunta": "¿Qué son los antecedentes según el documento?",
+              "opciones": {
+                "A": "Son considerados como la información previa que describe la historia del tema y permite valorar los hechos, fenómenos, pero, principalmente, consiste en explicitar y dar a conocer resultados de estudio previos sobre la variable que se está investigando.",
+                "B": "Son considerados como la información preliminar que describe el contexto del tema y permite evaluar los hechos, fenómenos, pero, principalmente, consiste en explicitar y dar a conocer hallazgos de estudio previos sobre la variable que se está investigando.",
+                "C": "Son considerados como la información anterior que describe la historia del tema y permite interpretar los hechos, fenómenos, pero, principalmente, consiste en explicitar y dar a conocer conclusiones de estudio previos sobre la variable que se está investigando.",
+                "D": "Son considerados como la información histórica que describe el desarrollo del tema y permite valorar los hechos, fenómenos, pero, principalmente, consiste en explicitar y dar a conocer evidencias de estudio previos sobre la variable que se está investigando."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Los antecedentes son considerados como la información previa que describe la historia del tema y permite valorar los hechos, fenómenos, pero, principalmente, consiste en explicitar y dar a conocer resultados de estudio previos sobre la variable que se está investigando. [pág. 37]"
+            },
+            {
+              "numero": 13,
+              "pregunta": "Según el documento, ¿por qué las tesis son consideradas como literatura gris?",
+              "opciones": {
+                "A": "Debido a su bajo rigor científico.",
+                "B": "Debido a su limitada calidad metodológica.",
+                "C": "Debido a su limitado acceso.",
+                "D": "Debido a su escasa difusión académica."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Las tesis también deberían estar en esta sección, pero estas son consideradas como literatura gris, debido a su limitado acceso. [pág. 38]"
+            },
+            {
+              "numero": 14,
+              "pregunta": "¿Cuál es el error común al identificar los antecedentes según el texto?",
+              "opciones": {
+                "A": "La tendencia a clasificarlas en metodológicas y teóricas, o en cuantitativas, cualitativas, regionales y locales.",
+                "B": "La tendencia a clasificarlas en primarias y secundarias, o en internacionales, nacionales, regionales y locales.",
+                "C": "La tendencia a clasificarlas en generales y específicas, o en internacionales, nacionales, regionales y locales.",
+                "D": "La tendencia a categorizarlas en amplias y particulares, o en globales, nacionales, regionales y locales."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Un error común, a la hora de identificar los antecedentes, es la tendencia a clasificarlas en generales y específicas, o en internacionales, nacionales, regionales y locales. [pág. 38]"
+            },
+            {
+              "numero": 15,
+              "pregunta": "¿Cómo debe hacerse la selección de los antecedentes de acuerdo con el documento?",
+              "opciones": {
+                "A": "Debe hacerse de acuerdo con las variables (similares al estudio) y deben ser citados de manera cronológica de lo más reciente a lo más antiguo.",
+                "B": "Debe hacerse de acuerdo con las variables (similares al estudio) y deben ser citados de manera cronológica de lo más antiguo a lo más reciente.",
+                "C": "Debe hacerse de acuerdo con los objetivos (similares al estudio) y deben ser citados de manera cronológica de lo más antiguo a lo más reciente.",
+                "D": "Debe hacerse de acuerdo con las hipótesis (similares al estudio) y deben ser citados de manera temática de lo más antiguo a lo más reciente."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "La selección de los antecedentes debe hacerse de acuerdo con las variables (similares al estudio). Estos deben ser citados de manera cronológica de lo más antiguo a lo más reciente, lo que permitirá observar la evolución científica de la variable. [pág. 38]"
+            },
+            {
+              "numero": 16,
+              "pregunta": "¿Qué error se comete durante la búsqueda de información según el documento?",
+              "opciones": {
+                "A": "Muchos principiantes buscan información tal como lo han planteado en su trabajo de investigación.",
+                "B": "Muchos novatos buscan información tal como lo han diseñado en su propuesta de investigación.",
+                "C": "Muchos estudiantes buscan información tal como lo han formulado en su proyecto de investigación.",
+                "D": "Muchos investigadores buscan información tal como lo han estructurado en su plan de investigación."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Otro de los errores ocurre durante la búsqueda de información. Muchos principiantes buscan información tal como lo han planteado en su trabajo de investigación, por lo que el resultado es mínimo o nulo. [pág. 38]"
+            },
+            {
+              "numero": 17,
+              "pregunta": "Según la Tabla 2, ¿qué elementos son necesarios tomar en cuenta en la estructura de un antecedente?",
+              "opciones": {
+                "A": "Apellido paterno del autor o autores; Año de publicación; Objetivo general; Diseño utilizado; Descripción de la muestra; Descripción del instrumento; Resultado; Conclusión.",
+                "B": "Nombre completo del autor o autores; Fecha de publicación; Objetivo principal; Método utilizado; Descripción de la muestra; Descripción del instrumento; Hallazgo; Conclusión.",
+                "C": "Apellido y nombre del autor o autores; Año de publicación; Objetivo general; Enfoque utilizado; Descripción de la población; Descripción del instrumento; Resultado; Inferencia.",
+                "D": "Apellido paterno del autor o autores; Año de edición; Propósito general; Diseño utilizado; Descripción de los participantes; Descripción del instrumento; Resultado; Deducción."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Tabla 2: Estructura de un antecedente. Elementos necesarios a tomar en cuenta: Apellido paterno del autor o autores. Año de publicación de la investigación. Objetivo general de la investigación. Diseño utilizado. Descripción de la muestra [...]. Descripción del instrumento [...]. Resultado (solo el resultado general). Conclusión (solo la conclusión general del trabajo). [pág. 39]"
+            },
+            {
+              "numero": 18,
+              "pregunta": "¿Por qué según el documento es innecesario colocar el título de la investigación en los antecedentes?",
+              "opciones": {
+                "A": "Porque el manual de la APA menciona claramente que no se puede duplicar información, por lo tanto, es innecesario colocar el título en los antecedentes y repetirlo en las referencias.",
+                "B": "Porque las normas APA establecen claramente que no se debe duplicar información, por lo tanto, es innecesario colocar el título en los antecedentes y reiterarlo en las referencias.",
+                "C": "Porque el protocolo de la APA indica claramente que no se puede repetir información, por lo tanto, es innecesario colocar el título en los antecedentes y duplicarlo en las referencias.",
+                "D": "Porque las directrices de la APA especifican claramente que no se puede duplicar información, por lo tanto, es innecesario colocar el título en los antecedentes y reproducirlo en las referencias."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "En el manual de la APA se menciona claramente que no se puede duplicar información; por lo tanto, es innecesario colocar el título en los antecedentes y repetirlo en las referencias. [pág. 40]"
+            },
+            {
+              "numero": 19,
+              "pregunta": "¿Qué representa la letra 'M' en el formato IMRyD?",
+              "opciones": {
+                "A": "Metodología: Se considera cómo es que se estudió el problema y, a su vez, contiene los pasos que se siguieron, el diseño de investigación, los materiales, la población estudiada, las técnicas de recolección, los análisis de datos, los análisis estadísticos.",
+                "B": "Método: Se considera cómo es que se estudió el problema y, a su vez, contiene los pasos que se siguieron, el diseño de investigación, los materiales, la población estudiada, las técnicas de recolección, los análisis de datos, los análisis estadísticos.",
+                "C": "Muestra: Se considera cómo es que se estudió el problema y, a su vez, contiene los pasos que se siguieron, el diseño de investigación, los materiales, la población estudiada, las técnicas de recolección, los análisis de datos, los análisis estadísticos.",
+                "D": "Marco: Se considera cómo es que se estudió el problema y, a su vez, contiene los pasos que se siguieron, el diseño de investigación, los materiales, la población estudiada, las técnicas de recolección, los análisis de datos, los análisis estadísticos."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Método (M): Se considera cómo es que se estudió el problema y, a su vez, contiene los pasos que se siguieron, el diseño de investigación, los materiales, la población estudiada, las técnicas de recolección, los análisis de datos, los análisis estadísticos. [pág. 40]"
+            },
+            {
+              "numero": 20,
+              "pregunta": "Según el documento, ¿qué contiene la sección de Discusión (D) en el formato IMRyD?",
+              "opciones": {
+                "A": "Conclusiones, aspectos no resueltos, limitaciones metodológicas, necesidades de futuras de investigación, discusión con otros autores.",
+                "B": "Inferencias, aspectos no resueltos, limitaciones teóricas, recomendaciones de futuras de investigación, contraste con otros autores.",
+                "C": "Conclusiones, problemas no solucionados, limitaciones metodológicas, sugerencias de futuras de investigación, discusión con otros autores.",
+                "D": "Deducciones, aspectos no resueltos, limitaciones procedimentales, necesidades de futuras de investigación, debate con otros autores."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Discusión (D): Se considera el significado de los hallazgos de la investigación. Esta parte contiene conclusiones, aspectos no resueltos, limitaciones metodológicas, necesidades de futuras de investigación, discusión con otros autores. [pág. 40-41]"
+            }
+          ]
+        },
+        {
+          "nombre": "III. Bases Teóricas y Términos Básicos",
+          "rango_preguntas": "21-30",
+          "preguntas": [
+            {
+              "numero": 21,
+              "pregunta": "Según Matos y Matos (2010), ¿de qué se trata el desarrollo de las bases teóricas?",
+              "opciones": {
+                "A": "Se trata de sistematizar y profundizar en el desarrollo lógico que ha tenido el conocimiento científico de la variable en estudio.",
+                "B": "Se trata de organizar y profundizar en el desarrollo metodológico que ha tenido el conocimiento científico de la variable en estudio.",
+                "C": "Se trata de estructurar y analizar en el desarrollo lógico que ha tenido el conocimiento empírico de la variable en estudio.",
+                "D": "Se trata de clasificar y profundizar en el desarrollo histórico que ha tenido el conocimiento científico de la variable en estudio."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Según Matos y Matos (2010, p. 98), 'se trata de sistematizar y profundizar en el desarrollo lógico que ha tenido el conocimiento científico' de la variable en estudio. [pág. 41]"
+            },
+            {
+              "numero": 22,
+              "pregunta": "¿Qué aspecto ético implica la construcción de las bases teóricas según el documento?",
+              "opciones": {
+                "A": "Es necesario reconocer los aportes de otros autores mediante el uso de las citas y referencias y no recurrir a malas prácticas científicas o conductas éticamente inaceptables o cuestionables.",
+                "B": "Es fundamental reconocer las contribuciones de otros autores mediante el empleo de las citas y referencias y no recurrir a malas prácticas científicas o comportamientos éticamente inaceptables o cuestionables.",
+                "C": "Es imprescindible reconocer los aportes de otros investigadores mediante la utilización de las citas y referencias y no recurrir a malas prácticas científicas o conductas éticamente inadmisibles o cuestionables.",
+                "D": "Es esencial reconocer las aportaciones de otros autores mediante el uso de las citas y referencias y no recurrir a malas prácticas científicas o actitudes éticamente inaceptables o cuestionables."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "En este sentido, construir las bases teóricas del trabajo de investigación también es un aspecto ético, debido a que es necesario reconocer los aportes de otros autores mediante el uso de las citas y referencias y no recurrir a malas prácticas científicas o conductas éticamente inaceptables o cuestionables. [pág. 41]"
+            },
+            {
+              "numero": 23,
+              "pregunta": "¿Qué técnica se utiliza para identificar y listar los elementos teóricos generales del problema?",
+              "opciones": {
+                "A": "La técnica del esquema.",
+                "B": "La técnica del índice.",
+                "C": "La técnica del mapa.",
+                "D": "La técnica del diagrama."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Para que las bases teóricas del trabajo de investigación estén ordenadas y organizadas de manera adecuada, se recomienda el uso de dos técnicas: la técnica del índice (figura 6) [...]. El índice es una técnica en la que se pueden identificar y listar los elementos teóricos generales del problema. [pág. 42]"
+            },
+            {
+              "numero": 24,
+              "pregunta": "¿Qué permite la técnica del mapeo según el documento?",
+              "opciones": {
+                "A": "Permite ordenar por relevancia cada concepto y dimensión utilizando un mapa conceptual.",
+                "B": "Permite organizar por jerarquía cada concepto y dimensión utilizando un esquema conceptual.",
+                "C": "Permite ordenar por importancia cada concepto y dimensión utilizando un mapa conceptual.",
+                "D": "Permite estructurar por prioridad cada concepto y dimensión utilizando un mapa mental."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Técnica del mapeo. Esta técnica, a diferencia de la anterior, permite ordenar por importancia cada concepto y dimensión utilizando un mapa conceptual. [pág. 42-43]"
+            },
+            {
+              "numero": 25,
+              "pregunta": "¿Qué se menciona sobre la extensión del marco teórico en el documento?",
+              "opciones": {
+                "A": "Esta no tiene una determinada; no hay una regla ni norma que la señale.",
+                "B": "Esta no tiene una específica; no hay una pauta ni norma que la indique.",
+                "C": "Esta no tiene una establecida; no hay una regla ni estándar que la determine.",
+                "D": "Esta no tiene una definida; no hay un criterio ni norma que la especifique."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "En cuanto a la extensión del marco teórico, esta no tiene una determinada; no hay una regla ni norma que la señale. [pág. 43]"
+            },
+            {
+              "numero": 26,
+              "pregunta": "Según la Figura 8, ¿cómo deben estar elaboradas las bases teóricas en cuanto a redacción?",
+              "opciones": {
+                "A": "Deben ser claras, con un lenguaje sencillo y preciso, también, deben estar elaboradas en párrafos cortos para no redundar información.",
+                "B": "La redacción deben ser clara, con un lenguaje sencillo y preciso, también, deben estar elaboradas en párrafos cortos para no redundar información.",
+                "C": "Deben ser claras, con un lenguaje simple y exacto, también, deben estar elaboradas en párrafos breves para no repetir información.",
+                "D": "La redacción debe ser clara, con un lenguaje accesible y preciso, también, deben estar elaboradas en párrafos cortos para no duplicar información."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Figura 8: Consideraciones importantes sobre las bases teóricas. La redacción deben ser clara, con un lenguaje sencillo y preciso, también, deben estar elaboradas en párrafos cortos para no redundar información. [pág. 43]"
+            },
+            {
+              "numero": 27,
+              "pregunta": "¿Por qué es un error definir los términos básicos a partir de un diccionario según el documento?",
+              "opciones": {
+                "A": "Porque se pierde relación con el lenguaje, con los conceptos teóricos previos y, sobre todo, con el contexto del problema desarrollado en el apartado de las basesteóricas.",
+                "B": "Porque se pierde conexión con el lenguaje, con los conceptos teóricos anteriores y, sobre todo, con el contexto del problema desarrollado en la sección de las bases teóricas.",
+                "C": "Porque se pierde vínculo con el lenguaje, con los conceptos teóricos previos y, sobre todo, con el marco del problema desarrollado en el apartado de las bases teóricas.",
+                "D": "Porque se pierde coherencia con el lenguaje, con los conceptos teóricos precedentes y, sobre todo, con el contexto del problema desarrollado en el capítulo de las bases teóricas."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Un error frecuente al conceptualizar los términos básicos es definirlos a partir de un diccionario, con lo cual se pierde relación con el lenguaje, con los conceptos teóricos previos y, sobre todo, con el contexto del problema desarrollado en el apartado de las bases teóricas. [pág. 44]"
+            },
+            {
+              "numero": 28,
+              "pregunta": "¿Qué tipo de definiciones se necesitan para los términos básicos según el texto?",
+              "opciones": {
+                "A": "Se necesitan definiciones teóricas que estén articuladas con los conceptos básicos aplicables al tema de estudio.",
+                "B": "Se necesitan definiciones conceptuales que estén relacionadas con los conceptos básicos aplicables al tema de estudio.",
+                "C": "Se necesitan definiciones científicas que estén vinculadas con los conceptos básicos aplicables al tema de estudio.",
+                "D": "Se necesitan definiciones técnicas que estén integradas con los conceptos básicos aplicables al tema de estudio."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "La definición de estos términos necesita una propuesta técnica, que no se consigue en los diccionarios ni enciclopedias; por el contrario, se necesitan definiciones teóricas que estén articuladas con los conceptos básicos aplicables al tema de estudio. [pág. 44]"
+            },
+            {
+              "numero": 29,
+              "pregunta": "¿Cuáles son las dos estrategias que se pueden optar para identificar los términos básicos de manera eficiente?",
+              "opciones": {
+                "A": "La primera, por la teoría; la segunda, por los instrumentos de medición.",
+                "B": "La primera, por el marco teórico; la segunda, por las herramientas de medición.",
+                "C": "La primera, por los conceptos; la segunda, por los instrumentos de evaluación.",
+                "D": "La primera, por la metodología; la segunda, por los instrumentos de medición."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Para identificar los términos básicos de manera eficiente, se puede optar por dos estrategias: la primera, por la teoría, tal como se acaba de describir. [...] La segunda, por los instrumentos de medición. [pág. 44]"
+            },
+            {
+              "numero": 30,
+              "pregunta": "Según el recuadro sobre los términos básicos, ¿cómo se presentan estos en el documento?",
+              "opciones": {
+                "A": "Los términos básicos se presentan en estricto orden alfabético.",
+                "B": "Los términos básicos se presentan en riguroso orden alfabético.",
+                "C": "Los términos básicos se presentan en completo orden alfabético.",
+                "D": "Los términos básicos se presentan en absoluto orden alfabético."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Los términos básicos. Sirven para clarificar los términos utilizados en el problema, así evitar ambigüedades conceptuales, pero sin confundir con un glosario, dado que solo se definen términos involucrados en el estudio y según el contexto en el que se desarrolla el estudio. Los términos básicos se presentan en estricto orden alfabético. [pág. 44]"
+            }
+          ]
+        }
+      ]
+    }
+  }
