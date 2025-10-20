@@ -208,12 +208,12 @@
               "numero": 17,
               "pregunta": "Según la Tabla 2, ¿qué elementos son necesarios tomar en cuenta en la estructura de un antecedente?",
               "opciones": {
-                "A": "Apellido paterno del autor o autores; Año de publicación; Objetivo general; Diseño utilizado; Descripción de la muestra; Descripción del instrumento; Resultado; Conclusión.",
+                "A": "Apellido y nombre del autor o autores; Año de publicación; Objetivo general; Enfoque utilizado; Descripción de la población; Descripción del instrumento; Resultado; Inferencia.",
                 "B": "Nombre completo del autor o autores; Fecha de publicación; Objetivo principal; Método utilizado; Descripción de la muestra; Descripción del instrumento; Hallazgo; Conclusión.",
-                "C": "Apellido y nombre del autor o autores; Año de publicación; Objetivo general; Enfoque utilizado; Descripción de la población; Descripción del instrumento; Resultado; Inferencia.",
+                "C": "Apellido paterno del autor o autores; Año de publicación; Objetivo general; Diseño utilizado; Descripción de la muestra; Descripción del instrumento; Resultado; Conclusión.",
                 "D": "Apellido paterno del autor o autores; Año de edición; Propósito general; Diseño utilizado; Descripción de los participantes; Descripción del instrumento; Resultado; Deducción."
               },
-              "respuesta_correcta": "A",
+              "respuesta_correcta": "C",
               "referencia": "Tabla 2: Estructura de un antecedente. Elementos necesarios a tomar en cuenta: Apellido paterno del autor o autores. Año de publicación de la investigación. Objetivo general de la investigación. Diseño utilizado. Descripción de la muestra [...]. Descripción del instrumento [...]. Resultado (solo el resultado general). Conclusión (solo la conclusión general del trabajo). [pág. 39]"
             },
             {
@@ -244,12 +244,12 @@
               "numero": 20,
               "pregunta": "Según el documento, ¿qué contiene la sección de Discusión (D) en el formato IMRyD?",
               "opciones": {
-                "A": "Conclusiones, aspectos no resueltos, limitaciones metodológicas, necesidades de futuras de investigación, discusión con otros autores.",
+                "A": "Conclusiones, problemas no solucionados, limitaciones metodológicas, sugerencias de futuras de investigación, discusión con otros autores.",
                 "B": "Inferencias, aspectos no resueltos, limitaciones teóricas, recomendaciones de futuras de investigación, contraste con otros autores.",
-                "C": "Conclusiones, problemas no solucionados, limitaciones metodológicas, sugerencias de futuras de investigación, discusión con otros autores.",
+                "C": "Conclusiones, aspectos no resueltos, limitaciones metodológicas, necesidades de futuras de investigación, discusión con otros autores.",
                 "D": "Deducciones, aspectos no resueltos, limitaciones procedimentales, necesidades de futuras de investigación, debate con otros autores."
               },
-              "respuesta_correcta": "A",
+              "respuesta_correcta": "C",
               "referencia": "Discusión (D): Se considera el significado de los hallazgos de la investigación. Esta parte contiene conclusiones, aspectos no resueltos, limitaciones metodológicas, necesidades de futuras de investigación, discusión con otros autores. [pág. 40-41]"
             }
           ]
@@ -262,12 +262,12 @@
               "numero": 21,
               "pregunta": "Según Matos y Matos (2010), ¿de qué se trata el desarrollo de las bases teóricas?",
               "opciones": {
-                "A": "Se trata de sistematizar y profundizar en el desarrollo lógico que ha tenido el conocimiento científico de la variable en estudio.",
+                "A": "Se trata de clasificar y profundizar en el desarrollo histórico que ha tenido el conocimiento científico de la variable en estudio.",
                 "B": "Se trata de organizar y profundizar en el desarrollo metodológico que ha tenido el conocimiento científico de la variable en estudio.",
                 "C": "Se trata de estructurar y analizar en el desarrollo lógico que ha tenido el conocimiento empírico de la variable en estudio.",
-                "D": "Se trata de clasificar y profundizar en el desarrollo histórico que ha tenido el conocimiento científico de la variable en estudio."
+                "D": "Se trata de sistematizar y profundizar en el desarrollo lógico que ha tenido el conocimiento científico de la variable en estudio."
               },
-              "respuesta_correcta": "A",
+              "respuesta_correcta": "D",
               "referencia": "Según Matos y Matos (2010, p. 98), 'se trata de sistematizar y profundizar en el desarrollo lógico que ha tenido el conocimiento científico' de la variable en estudio. [pág. 41]"
             },
             {
@@ -346,36 +346,36 @@
               "numero": 28,
               "pregunta": "¿Qué tipo de definiciones se necesitan para los términos básicos según el texto?",
               "opciones": {
-                "A": "Se necesitan definiciones teóricas que estén articuladas con los conceptos básicos aplicables al tema de estudio.",
+                "A": "Se necesitan definiciones técnicas que estén integradas con los conceptos básicos aplicables al tema de estudio.",
                 "B": "Se necesitan definiciones conceptuales que estén relacionadas con los conceptos básicos aplicables al tema de estudio.",
                 "C": "Se necesitan definiciones científicas que estén vinculadas con los conceptos básicos aplicables al tema de estudio.",
-                "D": "Se necesitan definiciones técnicas que estén integradas con los conceptos básicos aplicables al tema de estudio."
+                "D": "Se necesitan definiciones teóricas que estén articuladas con los conceptos básicos aplicables al tema de estudio."
               },
-              "respuesta_correcta": "A",
+              "respuesta_correcta": "D",
               "referencia": "La definición de estos términos necesita una propuesta técnica, que no se consigue en los diccionarios ni enciclopedias; por el contrario, se necesitan definiciones teóricas que estén articuladas con los conceptos básicos aplicables al tema de estudio. [pág. 44]"
             },
             {
               "numero": 29,
               "pregunta": "¿Cuáles son las dos estrategias que se pueden optar para identificar los términos básicos de manera eficiente?",
               "opciones": {
-                "A": "La primera, por la teoría; la segunda, por los instrumentos de medición.",
+                "A": "La primera, por los conceptos; la segunda, por los instrumentos de evaluación.",
                 "B": "La primera, por el marco teórico; la segunda, por las herramientas de medición.",
-                "C": "La primera, por los conceptos; la segunda, por los instrumentos de evaluación.",
+                "C": "La primera, por la teoría; la segunda, por los instrumentos de medición.",
                 "D": "La primera, por la metodología; la segunda, por los instrumentos de medición."
               },
-              "respuesta_correcta": "A",
+              "respuesta_correcta": "C",
               "referencia": "Para identificar los términos básicos de manera eficiente, se puede optar por dos estrategias: la primera, por la teoría, tal como se acaba de describir. [...] La segunda, por los instrumentos de medición. [pág. 44]"
             },
             {
               "numero": 30,
               "pregunta": "Según el recuadro sobre los términos básicos, ¿cómo se presentan estos en el documento?",
               "opciones": {
-                "A": "Los términos básicos se presentan en estricto orden alfabético.",
+                "A": "Los términos básicos se presentan en absoluto orden alfabético.",
                 "B": "Los términos básicos se presentan en riguroso orden alfabético.",
                 "C": "Los términos básicos se presentan en completo orden alfabético.",
-                "D": "Los términos básicos se presentan en absoluto orden alfabético."
+                "D": "Los términos básicos se presentan en estricto orden alfabético."
               },
-              "respuesta_correcta": "A",
+              "respuesta_correcta": "D",
               "referencia": "Los términos básicos. Sirven para clarificar los términos utilizados en el problema, así evitar ambigüedades conceptuales, pero sin confundir con un glosario, dado que solo se definen términos involucrados en el estudio y según el contexto en el que se desarrolla el estudio. Los términos básicos se presentan en estricto orden alfabético. [pág. 44]"
             }
           ]

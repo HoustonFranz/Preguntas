@@ -315,48 +315,48 @@
                   "numero": 25,
                   "pregunta": "¿Qué función cumple el antecedente según la figura 4?",
                   "opciones": {
-                    "A": "Ampliar la perspectiva del investigador sobre el problema.",
+                    "A": "Reducir el tiempo de revisión bibliográfica.",
                     "B": "Sustituir la base teórica del estudio.",
-                    "C": "Reducir el tiempo de revisión bibliográfica.",
+                    "C": "Ampliar la perspectiva del investigador sobre el problema.",
                     "D": "Evitar la formulación de hipótesis."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.39: 'Funciones de los antecedentes: Amplía la perspectiva que tiene el investigador respecto al problema a investigar.'"
                 },
                 {
                   "numero": 26,
                   "pregunta": "¿Qué elementos deben incluirse en la estructura de un antecedente según la tabla 2?",
                   "opciones": {
-                    "A": "Autor, año, muestra, instrumentos, resultados y conclusiones generales.",
+                    "A": "Solo el título y los resultados del estudio.",
                     "B": "Autor, hipótesis, variables dependientes e independientes.",
-                    "C": "Solo el título y los resultados del estudio.",
+                    "C": "Autor, año, muestra, instrumentos, resultados y conclusiones generales.",
                     "D": "Autor, contexto histórico y bases teóricas."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.39: 'Tabla 2: Elementos necesarios: Apellido paterno del autor, año, muestra, instrumento, resultados y conclusiones generales.'"
                 },
                 {
                   "numero": 27,
                   "pregunta": "¿Qué error común menciona el texto respecto al título de los antecedentes?",
                   "opciones": {
-                    "A": "Repetir el título de la investigación tanto en antecedentes como en referencias.",
+                    "A": "Omitir el año de publicación.",
                     "B": "No incluir el título en las referencias.",
                     "C": "No mencionar el autor original.",
-                    "D": "Omitir el año de publicación."
+                    "D": "Repetir el título de la investigación tanto en antecedentes como en referencias."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "D",
                   "referencia": "p.40: 'No se coloca el título de la investigación, debido a que este va en las referencias... es innecesario colocarlo en los antecedentes y repetirlo en las referencias.'"
                 },
                 {
                   "numero": 28,
                   "pregunta": "¿Qué significa cada letra del formato IMRyD?",
                   "opciones": {
-                    "A": "Introducción, Método, Resultados y Discusión.",
+                    "A": "Interpretación, Medios, Resultados y Deducción.",
                     "B": "Idea, Modelo, Razonamiento y Datos.",
                     "C": "Inicio, Medición, Revisión y Diseño.",
-                    "D": "Interpretación, Medios, Resultados y Deducción."
+                    "D": "Introducción, Método, Resultados y Discusión."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "D",
                   "referencia": "p.40: 'Formato IMRyD o IMRaD: Introducción (I), Método (M), Resultados (R) y Discusión (D).'"
                 },
                 {
@@ -375,12 +375,12 @@
                   "numero": 30,
                   "pregunta": "¿Qué aborda la sección 'Discusión' del formato IMRyD?",
                   "opciones": {
-                    "A": "El significado de los hallazgos y las conclusiones del estudio.",
+                    "A": "El resumen de las hipótesis nulas.",
                     "B": "El análisis estadístico y descriptivo de los datos.",
                     "C": "El planteamiento del problema y los objetivos.",
-                    "D": "El resumen de las hipótesis nulas."
+                    "D": "El significado de los hallazgos y las conclusiones del estudio."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "D",
                   "referencia": "p.41: 'Discusión (D): se considera el significado de los hallazgos... contiene conclusiones, limitaciones metodológicas y necesidades de futuras investigaciones.'"
                 }
               ]
@@ -408,72 +408,72 @@
                   "numero": 32,
                   "pregunta": "¿Qué finalidad tienen las bases teóricas?",
                   "opciones": {
-                    "A": "Brindar información y conocimientos necesarios para guiar al investigador en la solución del problema.",
+                    "A": "Determinar el número de hipótesis a plantear.",
                     "B": "Sustituir la metodología del estudio.",
-                    "C": "Determinar el número de hipótesis a plantear.",
+                    "C": "Brindar información y conocimientos necesarios para guiar al investigador en la solución del problema.",
                     "D": "Definir las dimensiones de la muestra estadística."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.41: 'Se realiza con la finalidad de brindar información y conocimientos necesarios para guiar al investigador en la solución del problema.'"
                 },
                 {
                   "numero": 33,
                   "pregunta": "¿Qué señala Matos y Matos (2010) sobre las bases teóricas?",
                   "opciones": {
-                    "A": "Que buscan sistematizar y profundizar en el desarrollo lógico del conocimiento científico.",
+                    "A": "Que deben ser breves para facilitar su comprensión.",
                     "B": "Que son opcionales y dependen del tipo de variable.",
-                    "C": "Que deben ser breves para facilitar su comprensión.",
+                    "C": "Que buscan sistematizar y profundizar en el desarrollo lógico del conocimiento científico.",
                     "D": "Que deben limitarse a definiciones operacionales."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.41: 'Según Matos y Matos (2010), se trata de sistematizar y profundizar en el desarrollo lógico que ha tenido el conocimiento científico.'"
                 },
                 {
                   "numero": 34,
                   "pregunta": "¿Qué aspecto ético se resalta en la elaboración de las bases teóricas?",
                   "opciones": {
-                    "A": "Reconocer los aportes de otros autores mediante citas y referencias.",
+                    "A": "Eliminar toda referencia teórica para mantener originalidad.",
                     "B": "Evitar usar fuentes primarias.",
                     "C": "Reducir la extensión del texto.",
-                    "D": "Eliminar toda referencia teórica para mantener originalidad."
+                    "D": "Reconocer los aportes de otros autores mediante citas y referencias."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "D",
                   "referencia": "p.41: 'Construir las bases teóricas también es un aspecto ético, debido a que es necesario reconocer los aportes de otros autores mediante el uso de las citas y referencias.'"
                 },
                 {
                   "numero": 35,
                   "pregunta": "¿De qué depende la organización de las bases teóricas?",
                   "opciones": {
-                    "A": "Del conocimiento del investigador y de la revisión bibliográfica realizada.",
+                    "A": "Del número de variables dependientes e independientes.",
                     "B": "De la cantidad de hipótesis planteadas.",
-                    "C": "Del número de variables dependientes e independientes.",
+                    "C": "Del conocimiento del investigador y de la revisión bibliográfica realizada.",
                     "D": "Del enfoque estadístico del estudio."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.41: 'Depende en gran medida del grado de conocimiento que tiene el investigador y la revisión bibliográfica que se haya realizado.'"
                 },
                 {
                   "numero": 36,
                   "pregunta": "¿Qué técnica se recomienda para elaborar las bases teóricas según la figura 6?",
                   "opciones": {
-                    "A": "La técnica del índice.",
+                    "A": "La técnica de muestreo aleatorio.",
                     "B": "La técnica del análisis factorial.",
-                    "C": "La técnica de muestreo aleatorio.",
+                    "C": "La técnica del índice.",
                     "D": "La técnica del resumen."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.42: 'El índice es una técnica en la que se pueden identificar y listar los elementos teóricos generales del problema.'"
                 },
                 {
                   "numero": 37,
                   "pregunta": "¿Qué permite la técnica del índice?",
                   "opciones": {
-                    "A": "Identificar las dimensiones de las variables y su relación con temas y subtemas.",
+                    "A": "Eliminar contradicciones entre ideas teóricas.",
                     "B": "Reducir la cantidad de teorías a una sola fuente.",
-                    "C": "Eliminar contradicciones entre ideas teóricas.",
+                    "C": "Identificar las dimensiones de las variables y su relación con temas y subtemas.",
                     "D": "Determinar la validez estadística del marco teórico."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.42: 'Permite identificar y listar las dimensiones de las variables, así como observar la relación entre los posibles temas y subtemas.'"
                 },
                 {
@@ -492,12 +492,12 @@
                   "numero": 39,
                   "pregunta": "¿Qué beneficio ofrece el uso del mapa conceptual en la técnica del mapeo?",
                   "opciones": {
-                    "A": "Permite visualizar la información y establecer comparaciones entre ideas.",
+                    "A": "Garantiza una estructura numérica de los conceptos.",
                     "B": "Reduce la extensión del texto sin afectar el contenido.",
                     "C": "Elimina la necesidad de revisar las teorías existentes.",
-                    "D": "Garantiza una estructura numérica de los conceptos."
+                    "D": "Permite visualizar la información y establecer comparaciones entre ideas."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "D",
                   "referencia": "p.43: 'Sirve para profundizar en los diferentes temas propuestos y establecer relaciones entre las ideas... permite visualizar la información, lo que representa un beneficio.'"
                 },
                 {
@@ -525,24 +525,24 @@
                   "numero": 41,
                   "pregunta": "¿En qué debe centrarse la definición de los términos básicos de una investigación?",
                   "opciones": {
-                    "A": "En el problema planteado, formulado con claridad y sin ambigüedades.",
+                    "A": "En la estructura de los antecedentes y su evolución histórica.",
                     "B": "En los métodos estadísticos utilizados para el análisis de datos.",
-                    "C": "En la estructura de los antecedentes y su evolución histórica.",
+                    "C": "En el problema planteado, formulado con claridad y sin ambigüedades.",
                     "D": "En la discusión teórica del marco conceptual únicamente."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.43: 'Para establecer la definición de los principales términos básicos de la investigación, es necesario centrarse en el problema planteado... formulado de manera clara, precisa y sin ambigüedades.'"
                 },
                 {
                   "numero": 42,
                   "pregunta": "¿Qué error frecuente se comete al conceptualizar los términos básicos?",
                   "opciones": {
-                    "A": "Definirlos a partir de un diccionario, perdiendo relación con el contexto del problema.",
+                    "A": "No incluir un glosario anexo.",
                     "B": "Utilizar demasiadas referencias científicas.",
-                    "C": "No incluir un glosario anexo.",
+                    "C": "Definirlos a partir de un diccionario, perdiendo relación con el contexto del problema.",
                     "D": "Definirlos mediante tablas estadísticas."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.44: 'Un error frecuente al conceptualizar los términos básicos es definirlos a partir de un diccionario, con lo cual se pierde relación con el contexto del problema.'"
                 },
                 {
@@ -573,24 +573,24 @@
                   "numero": 45,
                   "pregunta": "¿Qué estrategia puede usarse para identificar los términos básicos según el texto?",
                   "opciones": {
-                    "A": "A partir de la teoría o de los instrumentos de medición.",
+                    "A": "Por deducción lógica sin consultar fuentes teóricas.",
                     "B": "Solo mediante la observación directa del fenómeno.",
                     "C": "Mediante una lista alfabética de conceptos teóricos.",
-                    "D": "Por deducción lógica sin consultar fuentes teóricas."
+                    "D": "A partir de la teoría o de los instrumentos de medición."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "D",
                   "referencia": "p.44: 'Se puede optar por dos estrategias: la primera, por la teoría... la segunda, por los instrumentos de medición.'"
                 },
                 {
                   "numero": 46,
                   "pregunta": "¿Qué se obtiene al realizar la operacionalización de las variables según el texto?",
                   "opciones": {
-                    "A": "Las dimensiones que formarán parte de los términos básicos.",
+                    "A": "Los objetivos específicos de la investigación.",
                     "B": "Las hipótesis estadísticas del estudio.",
                     "C": "Las conclusiones empíricas del análisis de datos.",
-                    "D": "Los objetivos específicos de la investigación."
+                    "D":  "Las dimensiones que formarán parte de los términos básicos."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "D",
                   "referencia": "p.44: 'Para ello se debe realizar la operacionalización de las variables... para poder identificar sus respectivas dimensiones, y estas formarán parte de los términos básicos.'"
                 },
                 {
@@ -609,24 +609,24 @@
                   "numero": 48,
                   "pregunta": "¿Cuál es la función principal de los términos básicos?",
                   "opciones": {
-                    "A": "Clarificar los términos utilizados en el problema y evitar ambigüedades conceptuales.",
+                    "A": "Reducir la extensión del marco teórico.",
                     "B": "Sustituir las hipótesis del estudio.",
-                    "C": "Reducir la extensión del marco teórico.",
+                    "C": "Clarificar los términos utilizados en el problema y evitar ambigüedades conceptuales.",
                     "D": "Definir los objetivos operativos del estudio."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.44: 'Sirven para clarificar los términos utilizados en el problema, así evitar ambigüedades conceptuales.'"
                 },
                 {
                   "numero": 49,
                   "pregunta": "¿En qué orden deben presentarse los términos básicos según el texto?",
                   "opciones": {
-                    "A": "En orden alfabético.",
+                    "A": "En orden cronológico según la bibliografía." ,
                     "B": "En orden de importancia teórica.",
-                    "C": "En orden cronológico según la bibliografía.",
+                    "C": "En orden alfabético.",
                     "D": "En orden de aparición dentro de las bases teóricas."
                   },
-                  "respuesta_correcta": "A",
+                  "respuesta_correcta": "C",
                   "referencia": "p.44: 'Los términos básicos se presentan en estricto orden alfabético.'"
                 },
                 {
