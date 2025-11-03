@@ -1,0 +1,631 @@
+{
+  "cuestionario": {
+    "titulo": "Cuestionario de Alto Nivel: Marco Teórico y Antecedentes de la Investigación",
+    "secciones": [
+      {
+        "nombre": "I. Bases Teóricas y Marco Teórico",
+        "rango_preguntas": "1-15",
+        "preguntas": [
+          {
+            "numero": 1,
+            "pregunta": "Según el documento, las bases teóricas son:",
+            "opciones": {
+              "A": "Las teorías, enfoques conceptuales donde se enmarca la investigación.",
+              "B": "Las metodologías específicas que se utilizarán en la investigación.",
+              "C": "Los resultados preliminares del estudio.",
+              "D": "Las hipótesis que se pretenden comprobar."
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion6Basesteoricas, p.4: 'Son las teorías, enfoques conceptuales donde se enmarca la investigación.'"
+          },
+          {
+            "numero": 2,
+            "pregunta": "La estructura del capítulo de bases teóricas depende de:",
+            "opciones": {
+              "A": "Las variables estudiadas.",
+              "B": "El tiempo disponible para la investigación.",
+              "C": "El número de antecedentes encontrados.",
+              "D": "La cantidad de autores consultados."
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion6Basesteoricas, p.4: 'La estructura de este capítulo depende de las variables estudiadas'"
+          },
+          {
+            "numero": 3,
+            "pregunta": "En las bases teóricas se debe preferentemente profundizar en:",
+            "opciones": {
+              "A": "La biografía de los autores principales.",
+              "B": "La concepción, dimensiones y teorías o enfoques por variable.",
+              "C": "Los métodos estadísticos a utilizar.",
+              "D": "La justificación del problema de investigación."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion6Basesteoricas, p.5: 'preferentemente profundizar en la concepción, dimensiones y teorías o enfoques por variable.'"
+          },
+          {
+            "numero": 4,
+            "pregunta": "El marco teórico es el conjunto de conocimientos que:",
+            "opciones": {
+              "A": "Describen únicamente los métodos de investigación.",
+              "B": "Presentan los datos recolectados en campo.",
+              "C": "Establecen relaciones causales y explicativas de los hechos y fundamentan una manera de explicar el mundo.",
+              "D": "Resumen los objetivos del estudio."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion6Basesteoricas, p.6: 'El marco teórico es el conjunto de conocimientos que establecen relaciones causales y explicativas de los hechos y fundamentan una manera de explicar el mundo'"
+          },
+          {
+            "numero": 5,
+            "pregunta": "Esta parte de la investigación incluye analizar y exponer aquellas teorías, enfoques teóricos, investigaciones y:",
+            "opciones": {
+              "A": "Resultados preliminares.",
+              "B": "Antecedentes en general que se consideran válidos para el correcto encuadre del estudio.",
+              "C": "Instrumentos de recolección de datos.",
+              "D": "Población y muestra del estudio."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion6Basesteoricas, p.7: 'Esta parte de la investigación incluye analizar y exponer aquellas teorías enfoques teóricos investigaciones y antecedentes en general que se consideran válidos para el correcto encuadre del estudio'"
+          },
+          {
+            "numero": 6,
+            "pregunta": "La elaboración del marco teórico comprende:",
+            "opciones": {
+              "A": "Solo la recolección de datos primarios.",
+              "B": "La revisión de la literatura y la adopción de una teoría o el desarrollo de una perspectiva teórica.",
+              "C": "Únicamente la formulación de hipótesis.",
+              "D": "La aplicación de instrumentos de medición."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion6Basesteoricas, p.8: 'La elaboración del marco teórico comprende como ya se mencionó la revisión de la literatura y la adopción de una teoría o el desarrollo de una perspectiva teórica.'"
+          },
+          {
+            "numero": 7,
+            "pregunta": "Cada investigador debe proponer su propio marco teórico desde el que va a:",
+            "opciones": {
+              "A": "Recolectar los datos de campo.",
+              "B": "Diseñar los instrumentos de medición.",
+              "C": "Explicar los resultados de su trabajo.",
+              "D": "Seleccionar la muestra de estudio."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion6Basesteoricas, p.9: 'Cada investigador debe proponer su propio marco teórico desde el que va a explicar los resultados de su trabajo.'"
+          },
+          {
+            "numero": 8,
+            "pregunta": "Para construir el marco teórico se debe realizar una revisión exhaustiva de la bibliografía existente, pero además el investigador tiene que:",
+            "opciones": {
+              "A": "Consultar únicamente fuentes primarias.",
+              "B": "Pensar en lo que tiene él mismo como propuesta teórica.",
+              "C": "Aplicar encuestas a expertos.",
+              "D": "Validar instrumentos de medición."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion6Basesteoricas, p.10: 'Para construir el marco teórico se debe realizar una revisión exhaustiva de la bibliografía existente, pero además el investigador tiene que pensar en lo que tiene él mismo como propuesta teórica.'"
+          },
+          {
+            "numero": 9,
+            "pregunta": "Dankher (1986) distingue tres tipos de fuentes de información, ¿cuáles son?",
+            "opciones": {
+              "A": "Fuentes Académicas, Científicas y Populares.",
+              "B": "Fuentes Primarias, Secundarias y Terciarias.",
+              "C": "Fuentes Teóricas, Empíricas y Metodológicas.",
+              "D": "Fuentes Nacionales, Internacionales y Locales."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion6Basesteoricas, p.11: 'Dankher (1986) distingue tres tipos de fuentes de información: A. Fuentes Primarias B. Fuentes Secundarias C. Fuentes Terciarias'"
+          },
+          {
+            "numero": 10,
+            "pregunta": "Las Fuentes Primarias proporcionan datos de primera mano. Un ejemplo de estas son:",
+            "opciones": {
+              "A": "Compilaciones, resúmenes y listados de referencias.",
+              "B": "Boletines, conferencias y simposios.",
+              "C": "Los libros, las investigaciones, artículos de publicaciones periódicas, monografías, tesis.",
+              "D": "Nombres y títulos de revistas y publicaciones periódicas."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion6Basesteoricas, p.12: 'Un ejemplo son los libros, las investigaciones, artículos de publicaciones periódicas, monografías, tesis.'"
+          },
+          {
+            "numero": 11,
+            "pregunta": "Las Fuentes Secundarias consisten en:",
+            "opciones": {
+              "A": "Libros, tesis y artículos científicos.",
+              "B": "Compilación resúmenes y listado de referencias publicadas en un área de conocimientos en particular.",
+              "C": "Datos de primera mano sobre el tema de estudio.",
+              "D": "Nombres de boletines, conferencias y simposios."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion6Basesteoricas, p.13: 'B. Fuentes Secundarias: Consiste en compilación resúmenes y listado de referencias publicadas en un área de conocimientos en particular.'"
+          },
+          {
+            "numero": 12,
+            "pregunta": "Las Fuentes Terciarias se tratan de:",
+            "opciones": {
+              "A": "Artículos de publicaciones periódicas y monografías.",
+              "B": "Compilaciones y resúmenes de investigaciones.",
+              "C": "Documentos nombres y títulos de revistas y otras publicaciones periódicas así como nombres de boletines conferencias y simposios.",
+              "D": "Libros y tesis que proporcionan datos de primera mano."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion6Basesteoricas, p.14: 'C. Fuentes Terciarias: Se trata de documentos nombres y títulos de revistas y otras publicaciones periódicas así como nombres de boletines conferencias y simposios.'"
+          },
+          {
+            "numero": 13,
+            "pregunta": "Para la elaboración del marco teórico y conceptual se debe tener en cuenta las teorías o elementos teóricos que sustentan a cada una de:",
+            "opciones": {
+              "A": "Las variables así como la descripción y formulación del problema.",
+              "B": "Las hipótesis planteadas.",
+              "C": "Los instrumentos de medición.",
+              "D": "Los participantes del estudio."
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion6Basesteoricas, p.15: 'Para la elaboración del marco teórico y conceptual se debe tener en cuenta las teorías o elementos teóricos que sustentan a cada una de las variables así como la descripción y formulación del problema.'"
+          },
+          {
+            "numero": 14,
+            "pregunta": "Debemos revisar fuentes documentales como artículos, consultas de expertos y analizar mediante un proceso:",
+            "opciones": {
+              "A": "Estadístico y cuantitativo.",
+              "B": "Empírico y experimental.",
+              "C": "Reflexivo y crítico.",
+              "D": "Descriptivo y exploratorio."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion6Basesteoricas, p.16: 'Debemos revisar fuentes documentales como artículos consultas de expertos y analizar mediante un proceso reflexivo y crítico.'"
+          },
+          {
+            "numero": 15,
+            "pregunta": "El capítulo de bases teóricas es dedicado a:",
+            "opciones": {
+              "A": "Presentar los resultados del trabajo de campo.",
+              "B": "Definir la población y muestra del estudio.",
+              "C": "Describir los instrumentos de recolección de datos.",
+              "D": "Ubicar el problema de investigación dentro de un tema o de un aspecto de la realidad."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion6Basesteoricas, p.4: 'es dedicado a ubicar el problema de investigación dentro de un tema o de un aspecto de la realidad.'"
+          }
+        ]
+      },
+      {
+        "nombre": "II. Antecedentes de la Investigación",
+        "rango_preguntas": "16-30",
+        "preguntas": [
+          {
+            "numero": 16,
+            "pregunta": "Según Arias (2012), los antecedentes reflejan:",
+            "opciones": {
+              "A": "Los métodos estadísticos más utilizados.",
+              "B": "Los avances y el estado actual del conocimiento en un área determinada y sirven de modelo o ejemplo para futuras investigaciones.",
+              "C": "Las limitaciones de estudios previos.",
+              "D": "Los instrumentos de recolección más efectivos."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.4: 'Los antecedentes reflejan los avances y el estado actual del conocimiento en un área determinada y sirven de modelo o ejemplo para futuras investigaciones'"
+          },
+          {
+            "numero": 17,
+            "pregunta": "Los antecedentes de la investigación se refieren a:",
+            "opciones": {
+              "A": "La biografía completa de los autores principales.",
+              "B": "La búsqueda de los estudios previos y tesis de grado relacionadas con el problema planteado.",
+              "C": "El diseño metodológico del estudio actual.",
+              "D": "La formulación de nuevas hipótesis."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.5: 'Se refiere a la búsqueda de los estudios previos y tesis de grado relacionadas con el problema planteado'"
+          },
+          {
+            "numero": 18,
+            "pregunta": "Debe evitarse confundir los antecedentes de la investigación con:",
+            "opciones": {
+              "A": "Las bases teóricas del estudio.",
+              "B": "Las variables del problema.",
+              "C": "Los objetivos de la investigación.",
+              "D": "La historia del objeto de estudio en cuestión."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.6: 'Debe evitarse confundir los antecedentes de la investigación con la historia del objeto de estudio en cuestión.'"
+          },
+          {
+            "numero": 19,
+            "pregunta": "En los antecedentes se deben señalar, además de los autores y el año en que se realizaron los estudios:",
+            "opciones": {
+              "A": "Los instrumentos de medición utilizados exclusivamente.",
+              "B": "Los objetivos y principales hallazgos de los mismos.",
+              "C": "El presupuesto invertido en las investigaciones.",
+              "D": "Las limitaciones metodológicas únicamente."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.6: 'se deben señalar, además de los autores y el año en que se realizaron los estudios, los objetivos y principales hallazgos de los mismos.'"
+          },
+          {
+            "numero": 20,
+            "pregunta": "Los antecedentes son las investigaciones realizadas con anterioridad y publicadas como:",
+            "opciones": {
+              "A": "Únicamente libros de texto.",
+              "B": "Exclusivamente documentos gubernamentales.",
+              "C": "Solo reportes de conferencias.",
+              "D": "Tesis de postgrado o como artículos en revistas de la especialidad."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.7: 'Son las investigaciones realizadas con anterioridad y publicadas como tesis de postgrado o como artículos en revistas de la especialidad.'"
+          },
+          {
+            "numero": 21,
+            "pregunta": "Los antecedentes deben tratar de:",
+            "opciones": {
+              "A": "Las técnicas de recolección de datos únicamente.",
+              "B": "Las variables del problema enunciado, y de las relaciones entre ellas.",
+              "C": "Los aspectos históricos del tema solamente.",
+              "D": "Las características demográficas de la población."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.7: 'Los antecedentes deben tratar de las variables del problema enunciado, y de las relaciones entre ellas.'"
+          },
+          {
+            "numero": 22,
+            "pregunta": "Es importante conocer cuál es el aporte de cada antecedente al:",
+            "opciones": {
+              "A": "Desarrollo de nuevas teorías exclusivamente.",
+              "B": "Análisis estadístico de los datos.",
+              "C": "Diseño de instrumentos de medición.",
+              "D": "Conocimiento del tema en estudio."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.8: 'Es importante conocer cuál es el aporte de cada antecedente al conocimiento del tema en estudio.'"
+          },
+          {
+            "numero": 23,
+            "pregunta": "No es necesario transcribir la totalidad del estudio, sino:",
+            "opciones": {
+              "A": "Solo los objetivos generales.",
+              "B": "Únicamente la metodología empleada.",
+              "C": "Lo relacionado con el estudio que es materia de la tesis.",
+              "D": "Exclusivamente las conclusiones finales."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.8: 'No es necesario transcribir la totalidad del estudio, sino lo relacionado con el estudio que es materia de la tesis.'"
+          },
+          {
+            "numero": 24,
+            "pregunta": "Es necesario hacer un resumen propio acerca de los aspectos cubiertos por los antecedentes y de la metodología utilizada y, además:",
+            "opciones": {
+              "A": "Copiar textualmente las conclusiones de los autores.",
+              "B": "Señalar la diferencia entre esos estudios y el reportado en la tesis.",
+              "C": "Listar todos los autores consultados sin análisis.",
+              "D": "Incluir únicamente los estudios internacionales."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.9: 'Es necesario hacer un resumen propio acerca de los aspectos cubiertos por los antecedentes y de la metodología utilizada y, además, señalar la diferencia entre esos estudios y el reportado en la tesis.'"
+          },
+          {
+            "numero": 25,
+            "pregunta": "Antes de buscar respuesta en el trabajo de campo, debe buscarse en:",
+            "opciones": {
+              "A": "Los instrumentos de medición disponibles.",
+              "B": "Los estudios no publicados exclusivamente.",
+              "C": "Las opiniones de expertos únicamente.",
+              "D": "Las bibliotecas o en el conocimiento científico ya obtenido y publicado."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.10: 'Antes de buscar respuesta en el trabajo de campo, debe buscarse en las bibliotecas o en el conocimiento científico ya obtenido y publicado.'"
+          },
+          {
+            "numero": 26,
+            "pregunta": "Una buena revisión teórica garantiza que conozcas sobre el tema y asegura un:",
+            "opciones": {
+              "A": "Presupuesto adecuado para la investigación.",
+              "B": "Trabajo de campo minucioso.",
+              "C": "Cronograma de actividades flexible.",
+              "D": "Equipo de investigadores calificado."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.10: 'Una buena revisión teórica garantiza que conozcas sobre el tema y asegura un trabajo de campo minucioso'"
+          },
+          {
+            "numero": 27,
+            "pregunta": "Los antecedentes de la investigación no son:",
+            "opciones": {
+              "A": "La simple aglomeración de investigaciones previas.",
+              "B": "La revisión crítica de los diversos estudios previos.",
+              "C": "Un análisis de las tendencias de estudio sobre el tema.",
+              "D": "Una selección detallada de información relevante."
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.11: 'Los antecedentes no son la simple aglomeración de investigaciones previas'"
+          },
+          {
+            "numero": 28,
+            "pregunta": "La actitud crítica para redactar los antecedentes implica realizar:",
+            "opciones": {
+              "A": "Una copia textual de las investigaciones previas.",
+              "B": "Una descripción superficial de los estudios encontrados.",
+              "C": "Un listado cronológico sin análisis crítico.",
+              "D": "Una selección y lectura detallada de la información que ha sido buscada y revisada previamente."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.11: 'La actitud crítica para redactar los antecedentes implica realizar una selección y lectura detallada de la información que ha sido buscada y revisada previamente.'"
+          },
+          {
+            "numero": 29,
+            "pregunta": "La revisión crítica de antecedentes se efectúa para examinar:",
+            "opciones": {
+              "A": "Únicamente los resultados estadísticos.",
+              "B": "La confrontación entre enfoques, autores y sus procedimientos, y resultados empíricos.",
+              "C": "Solo las limitaciones de los estudios previos.",
+              "D": "Exclusivamente las recomendaciones de los autores."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.11: 'Esto se efectúa para examinar la confrontación entre enfoques, autores y sus procedimientos, y resultados empíricos.'"
+          },
+          {
+            "numero": 30,
+            "pregunta": "Los antecedentes de la investigación darán un diagnóstico del:",
+            "opciones": {
+              "A": "Presupuesto necesario para el estudio.",
+              "B": "Estado del tema.",
+              "C": "Tiempo requerido para la investigación.",
+              "D": "Equipo de trabajo necesario."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.12: 'Estas preguntas, en síntesis, darán un diagnóstico del \"estado del tema\"'"
+          }
+        ]
+      },
+      {
+        "nombre": "III. Elaboración y Presentación de Antecedentes",
+        "rango_preguntas": "31-45",
+        "preguntas": [
+          {
+            "numero": 31,
+            "pregunta": "Al elaborar los antecedentes, se debe buscar y organizar información de calidad académica usando:",
+            "opciones": {
+              "A": "Bases de datos serios.",
+              "B": "Únicamente redes sociales y blogs personales.",
+              "C": "Solo enciclopedias generales.",
+              "D": "Exclusivamente periódicos locales."
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.13: 'Busca y organiza información de calidad académica, usando bases de datos serios'"
+          },
+          {
+            "numero": 32,
+            "pregunta": "Al organizar las investigaciones para los antecedentes, se debe considerar:",
+            "opciones": {
+              "A": "Solo estudios nacionales.",
+              "B": "Papers, tesis, artículos de divulgación, opiniones de expertos.",
+              "C": "Únicamente investigaciones extranjeras.",
+              "D": "Exclusivamente libros de texto."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.13: 'Organiza las investigaciones en papers, tesis, artículos de divulgación, opiniones de expertos'"
+          },
+          {
+            "numero": 33,
+            "pregunta": "Al buscar información para antecedentes, no importa si son nacionales o extranjeras, lo importante es considerar:",
+            "opciones": {
+              "A": "El país de origen del autor.",
+              "B": "El idioma de publicación únicamente.",
+              "C": "La fecha de publicación exclusivamente.",
+              "D": "El nivel de semejanza entre ellas."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.13: 'No importa si son nacionales o extranjeras, lo importante es considerar el nivel de semejanza entre ellas.'"
+          },
+          {
+            "numero": 34,
+            "pregunta": "Al sintetizar la información de antecedentes, se debe hacer un resumen de cada antecedente considerando:",
+            "opciones": {
+              "A": "Solo la bibliografía consultada.",
+              "B": "Únicamente los objetivos del estudio.",
+              "C": "Tanto la metodología como los principales resultados obtenidos en cada uno de ellos.",
+              "D": "Exclusivamente las hipótesis planteadas."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.13: 'haciendo un resumen de cada antecedente, considerando tanto la metodología como los principales resultados obtenidos en cada uno de ellos'"
+          },
+          {
+            "numero": 35,
+            "pregunta": "Para redactar los antecedentes, se debe partir de un análisis de los papers, luego de las tesis, posteriormente de:",
+            "opciones": {
+              "A": "Artículos de divulgación general y finalmente la opinión de expertos.",
+              "B": "Únicamente opiniones personales.",
+              "C": "Solo fuentes terciarias.",
+              "D": "Exclusivamente libros de texto."
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.13: 'Redacta los antecedentes partiendo de un análisis de los papers luego de las tesis, posteriormente de artículos de divulgación general y finalmente la opinión de expertos.'"
+          },
+          {
+            "numero": 36,
+            "pregunta": "Al presentar los antecedentes, se debe presentar en orden:",
+            "opciones": {
+              "A": "Alfabético únicamente.",
+              "B": "De importancia personal del investigador.",
+              "C": "Aleatorio según disponibilidad.",
+              "D": "Cronológico y vigentes."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.14: 'Presentar en orden cronológico y vigentes'"
+          },
+          {
+            "numero": 37,
+            "pregunta": "En la presentación de antecedentes se debe precisar los siguientes datos: Autor, fecha, título, problemas, objetivos, hipótesis, metodología, resultados, conclusiones y:",
+            "opciones": {
+              "A": "Presupuesto utilizado.",
+              "B": "Instituciones financiadoras.",
+              "C": "Biografía del autor.",
+              "D": "Aporte."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.14: 'Autor, fecha, título, problemas, objetivos, hipótesis. • Metodología. • Resultados. • Conclusiones. • Aporte.'"
+          },
+          {
+            "numero": 38,
+            "pregunta": "Se debe presentar un párrafo de cierre al final de todos los antecedentes o después de cada uno, señalando:",
+            "opciones": {
+              "A": "Solo las limitaciones de los estudios previos.",
+              "B": "La relación de éstos con su investigación y la utilidad o aporte al estado del arte.",
+              "C": "Únicamente la bibliografía consultada.",
+              "D": "Exclusivamente las diferencias metodológicas."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.14: 'Presentar un párrafo de cierre al final de todos los antecedentes o después de cada uno, señalando la relación de éstos con su investigación y la utilidad o aporte al estado del arte.'"
+          },
+          {
+            "numero": 39,
+            "pregunta": "La matriz resumen de antecedentes debe incluir: Autor - año, Fuente, Título, Objetivo, Metodología, Población - muestra y:",
+            "opciones": {
+              "A": "Presupuesto del estudio.",
+              "B": "Equipo de investigadores.",
+              "C": "Tiempo de ejecución.",
+              "D": "Resultados."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.15: 'Autor - año Fuente Título Objetivo Metodología Población - muestra Resultados'"
+          },
+          {
+            "numero": 40,
+            "pregunta": "Los antecedentes de la investigación son la parte del marco teórico que sirve para responder preguntas como: ¿Qué tanto se ha investigado sobre el tema? y ¿Hay estudios previos parecidos al que quieres realizar?",
+            "opciones": {
+              "A": "Falso, los antecedentes no forman parte del marco teórico.",
+              "B": "Verdadero, los antecedentes responden estas preguntas.",
+              "C": "Falso, los antecedentes solo describen la metodología.",
+              "D": "Verdadero, pero solo responden preguntas metodológicas."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.12: 'Los antecedentes de la investigación son la parte del marco teórico que sirve para responder las siguientes preguntas: ¿Qué tanto se ha investigado sobre el tema? ¿Hay estudios previos parecidos al que quieres realizar?'"
+          },
+          {
+            "numero": 41,
+            "pregunta": "Entre las preguntas que responden los antecedentes está: ¿Quiénes son los estudiosos más representativos del tema? y:",
+            "opciones": {
+              "A": "¿Qué han encontrado en sus investigaciones?",
+              "B": "¿Cuál es el presupuesto necesario?",
+              "C": "¿Cuánto tiempo tomó cada estudio?",
+              "D": "¿Qué instituciones financiaron las investigaciones?"
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.12: '¿Quiénes son los estudiosos más representativos del tema? ¿Qué han encontrado en sus investigaciones?'"
+          },
+          {
+            "numero": 42,
+            "pregunta": "Los antecedentes también responden a la pregunta: ¿Cuáles son sus principales resultados? y:",
+            "opciones": {
+              "A": "¿Cómo han realizado sus investigaciones, es decir, qué metodología han utilizado?",
+              "B": "¿Cuál fue el costo total de la investigación?",
+              "C": "¿En qué año se graduaron los investigadores?",
+              "D": "¿Qué premios recibieron por sus estudios?"
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.12: '¿Cuáles son sus principales resultados? ¿Cómo han realizado sus investigaciones, es decir, qué metodología han utilizado?'"
+          },
+          {
+            "numero": 43,
+            "pregunta": "Una pregunta importante que responden los antecedentes es:",
+            "opciones": {
+              "A": "¿Qué presupuesto se requiere para investigar?",
+              "B": "¿Qué aspectos han dejado de investigar?",
+              "C": "¿Cuántos investigadores participaron?",
+              "D": "¿En qué universidades se realizaron los estudios?"
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.12: '¿Qué aspectos han dejado de investigar?'"
+          },
+          {
+            "numero": 44,
+            "pregunta": "Los antecedentes de la investigación son:",
+            "opciones": {
+              "A": "Una recopilación de opiniones personales del investigador.",
+              "B": "La revisión crítica de los diversos estudios que se han realizado previamente sobre el tema.",
+              "C": "Un resumen de la historia del objeto de estudio.",
+              "D": "Una simple lista de estudios previos sin análisis."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.11: 'Los antecedentes de la investigación, son la revisión crítica de los diversos estudios que se han realizado previamente sobre el tema.'"
+          },
+          {
+            "numero": 45,
+            "pregunta": "Los antecedentes son la revisión crítica de:",
+            "opciones": {
+              "A": "Las metodologías estadísticas disponibles.",
+              "B": "Los instrumentos de medición más utilizados.",
+              "C": "Las tendencias de estudio sobre el tema.",
+              "D": "Las instituciones académicas reconocidas."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.11: 'todo lo contrario es la revisión crítica de las tendencias de estudio sobre el tema.'"
+          }
+        ]
+      },
+      {
+        "nombre": "IV. Integración y Aplicación de Conceptos",
+        "rango_preguntas": "46-50",
+        "preguntas": [
+          {
+            "numero": 46,
+            "pregunta": "Las Fuentes Primarias constituyen el objetivo de:",
+            "opciones": {
+              "A": "La formulación de hipótesis de trabajo.",
+              "B": "La investigación bibliográfica o revisión de la literatura.",
+              "C": "El análisis estadístico de datos.",
+              "D": "La aplicación de instrumentos en campo."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "sesion6Basesteoricas, p.12: 'A. Fuentes Primarias: Constituyen el objetivo de la investigación bibliográfica o revisión de la literatura'"
+          },
+          {
+            "numero": 47,
+            "pregunta": "Las bases teóricas se deben citar en:",
+            "opciones": {
+              "A": "Formato MLA exclusivamente.",
+              "B": "Formato Chicago únicamente.",
+              "C": "APA.",
+              "D": "Formato Vancouver solamente."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "sesion6Basesteoricas, p.5: 'Se deben citar en APA'"
+          },
+          {
+            "numero": 48,
+            "pregunta": "Las investigaciones que se buscan como antecedentes son aquellas realizadas anteriormente y que guardan:",
+            "opciones": {
+              "A": "Alguna vinculación con el problema en estudio.",
+              "B": "La misma cantidad de participantes.",
+              "C": "El mismo presupuesto que el estudio actual.",
+              "D": "El mismo tiempo de ejecución."
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion5Antecedentesdelainvestigacion, p.5: 'investigaciones realizadas anteriormente y que guardan alguna vinculación con el problema en estudio.'"
+          },
+          {
+            "numero": 49,
+            "pregunta": "El marco teórico fundamenta:",
+            "opciones": {
+              "A": "Solo los aspectos metodológicos del estudio.",
+              "B": "Una manera de explicar el mundo.",
+              "C": "Únicamente los instrumentos de medición.",
+              "D": "Exclusivamente el análisis estadístico."
+            },
+            "respuesta_correcta": "B",
+            "referencia": "sesion6Basesteoricas, p.6: 'fundamentan una manera de explicar el mundo'"
+          },
+          {
+            "numero": 50,
+            "pregunta": "En los documentos presentados, se mencionan dos herramientas específicas para trabajar con referencias y citas, ¿cuáles son?",
+            "opciones": {
+              "A": "APA y Zotero.",
+              "B": "Mendeley y EndNote.",
+              "C": "RefWorks y Citavi.",
+              "D": "BibTeX y LaTeX."
+            },
+            "respuesta_correcta": "A",
+            "referencia": "sesion6Basesteoricas, p.17: 'Taller de APA' y sesion5Antecedentesdelainvestigacion, p.16: 'Taller de Zotero'"
+          }
+        ]
+      }
+    ]
+  }
+}
