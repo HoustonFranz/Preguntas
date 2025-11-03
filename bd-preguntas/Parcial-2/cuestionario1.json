@@ -1,0 +1,637 @@
+{
+    "cuestionario": {
+      "titulo": "Cuestionario de Alto Nivel: El Arte de Dominar el Marco Teórico, Antecedentes y Limitaciones de la Investigación",
+      "secciones": [
+        {
+          "nombre": "I. Conceptos Fundamentales del Marco Teórico y Bases Teóricas",
+          "rango_preguntas": "1-10",
+          "preguntas": [
+            {
+              "numero": 1,
+              "pregunta": "¿Qué son las 'Bases teóricas' según el documento?",
+              "opciones": {
+                "A": "Son los postulados metodológicos para la recolección de datos.",
+                "B": "Son los libros y tesis de postgrado que se usan para la referencia inicial.",
+                "C": "Son las teorías, enfoques conceptuales donde se enmarca la investigación.",
+                "D": "Son el conjunto de variables que serán estudiadas y correlacionadas."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.4: 'Son las teorías, enfoques conceptuales donde se enmarca la investigación.'"
+            },
+            {
+              "numero": 2,
+              "pregunta": "La estructura del capítulo de Bases Teóricas depende de las variables estudiadas y es dedicado a ubicar el problema de investigación dentro de un tema o de un aspecto de la...:",
+              "opciones": {
+                "A": "Metodología.",
+                "B": "Realidad.",
+                "C": "Especialidad.",
+                "D": "Disciplina."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.4: 'a ubicar el problema de investigación dentro de un tema o de un aspecto de la realidad.'"
+            },
+            {
+              "numero": 3,
+              "pregunta": "En las Bases Teóricas, ¿cómo se deben citar los trabajos, y en qué se debe profundizar preferentemente?",
+              "opciones": {
+                "A": "Se deben citar en IEEE, preferentemente profundizar en la problemática, alcances y justificación del estudio.",
+                "B": "Se deben citar en MLA, preferentemente profundizar en la metodología, la muestra y la población.",
+                "C": "Se deben citar en Chicago, preferentemente profundizar en el análisis, la experimentación y los resultados empíricos.",
+                "D": "Se deben citar en APA preferentemente profundizar en la concepción, dimensiones y teorías o enfoques por variable."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.5: 'Se deben citar en APA preferentemente profundizar en la concepción, dimensiones y teorías o enfoques por variable.'"
+            },
+            {
+              "numero": 4,
+              "pregunta": "¿Qué establece el Marco Teórico, al ser un conjunto de conocimientos?",
+              "opciones": {
+                "A": "Establece relaciones conceptuales y descriptivas de los hechos y fundamenta una manera de comprobar el mundo.",
+                "B": "Establece relaciones causales y explicativas de los hechos y fundamentan una manera de explicar el mundo.",
+                "C": "Establece relaciones históricas y contextuales de los hechos y fundamenta una manera de criticar el mundo.",
+                "D": "Establece relaciones descriptivas y predictivas de los hechos y fundamenta una manera de investigar el mundo."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.6: 'El marco teórico es el conjunto de conocimientos que establecen relaciones causales y explicativas de los hechos y fundamentan una manera de explicar el mundo'"
+            },
+            {
+              "numero": 5,
+              "pregunta": "Esta parte de la investigación incluye analizar y exponer aquellas teorías, enfoques teóricos, investigaciones y antecedentes en general que se consideran válidos para el correcto _____ del estudio:",
+              "opciones": {
+                "A": "Desarrollo.",
+                "B": "Análisis.",
+                "C": "Encuadre.",
+                "D": "Fundamento."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.7: 'que se consideran válidos para el correcto encuadre del estudio'"
+            },
+            {
+              "numero": 6,
+              "pregunta": "La elaboración del marco teórico comprende la revisión de la literatura y la adopción de una teoría o el desarrollo de una:",
+              "opciones": {
+                "A": "Metodología exploratoria.",
+                "B": "Tesis central.",
+                "C": "Perspectiva teórica.",
+                "D": "Investigación bibliográfica."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.8: 'la adopción de una teoría o el desarrollo de una perspectiva teórica.'"
+            },
+            {
+              "numero": 7,
+              "pregunta": "Cada investigador debe proponer su propio marco teórico desde el que va a explicar los _______ de su trabajo.",
+              "opciones": {
+                "A": "Resultados.",
+                "B": "Objetivos.",
+                "C": "Alcances.",
+                "D": "Métodos."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.9: 'Cada investigador debe proponer su propio marco teórico desde el que va a explicar los resultados de su trabajo.'"
+            },
+            {
+              "numero": 8,
+              "pregunta": "Para construir el marco teórico se debe realizar una revisión exhaustiva de la bibliografía existente, pero además el investigador tiene que pensar en lo que tiene él mismo como:",
+              "opciones": {
+                "A": "Hipótesis alternativa.",
+                "B": "Muestra de estudio.",
+                "C": "Propuesta teórica.",
+                "D": "Marco conceptual."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.10: 'pero además el investigador tiene que pensar en lo que tiene él mismo como propuesta teórica.'"
+            },
+            {
+              "numero": 9,
+              "pregunta": "¿Quién distingue tres tipos de fuentes de información, según la referencia del documento?",
+              "opciones": {
+                "A": "Sampieri (1998).",
+                "B": "Dankher (1986).",
+                "C": "Arias (2012).",
+                "D": "Ávila (2001)."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.11: 'Dankher (1986) distingue tres tipos de fuentes de información:'"
+            },
+            {
+              "numero": 10,
+              "pregunta": "Para la elaboración del marco teórico y conceptual se debe tener en cuenta las teorías o elementos teóricos que sustentan a cada una de las variables así como la descripción y:",
+              "opciones": {
+                "A": "Justificación del método.",
+                "B": "Delimitación del estudio.",
+                "C": "Formulación del problema.",
+                "D": "Revisión del problema."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.15: 'así como la descripción y formulación del problema .'"
+            }
+          ]
+        },
+        {
+          "nombre": "II. Tipos de Fuentes de Información según Dankher (1986)",
+          "rango_preguntas": "11-20",
+          "preguntas": [
+            {
+              "numero": 11,
+              "pregunta": "¿Cuál de los siguientes es el objetivo de la investigación bibliográfica o revisión de la literatura?",
+              "opciones": {
+                "A": "Las Fuentes Secundarias.",
+                "B": "Las Fuentes Terciarias.",
+                "C": "Las Fuentes Primarias.",
+                "D": "La Perspectiva Teórica."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.12: 'A. Fuentes Primarias: Constituyen el objetivo de la investigación bibliográfica o revisión de la literatura...'"
+            },
+            {
+              "numero": 12,
+              "pregunta": "Las Fuentes Primarias proporcionan datos de:",
+              "opciones": {
+                "A": "Tercera mano.",
+                "B": "Segunda intención.",
+                "C": "Segunda mano.",
+                "D": "Primera mano."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.12: 'y proporciona datos de primera mano'"
+            },
+            {
+              "numero": 13,
+              "pregunta": "¿Cuál de los siguientes NO es un ejemplo de Fuente Primaria mencionado explícitamente?",
+              "opciones": {
+                "A": "Los artículos de publicaciones periódicas.",
+                "B": "Los libros.",
+                "C": "Los boletines.",
+                "D": "Las tesis."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.12: 'Un ejemplo son los libros, las investigaciones, artículos de publicaciones periódicas, monografías, tesis.' (Los boletines son Terciarias, p.14)."
+            },
+            {
+              "numero": 14,
+              "pregunta": "Las Fuentes Secundarias consisten en compilación, resúmenes y listado de...",
+              "opciones": {
+                "A": "Investigaciones previas publicadas en un área determinada.",
+                "B": "Conclusiones y resultados obtenidos en una tesis.",
+                "C": "Referencias publicadas en un área de conocimientos en particular.",
+                "D": "Metodologías aplicadas en estudios similares al actual."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.13: 'Consiste en compilación resúmenes y listado de referencias publicadas en un área de conocimientos en particular .'"
+            },
+            {
+              "numero": 15,
+              "pregunta": "Se trata de documentos, nombres y títulos de revistas y otras publicaciones periódicas, así como nombres de boletines, conferencias y simposios. Esta descripción corresponde a:",
+              "opciones": {
+                "A": "Fuentes Primarias.",
+                "B": "Fuentes Terciarias.",
+                "C": "Fuentes Especializadas.",
+                "D": "Fuentes Secundarias."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.14: 'C . Fuentes Terciarias : Se trata de documentos nombres y títulos de revistas y otras publicaciones periódicas así como nombres de boletines conferencias y simposios .'"
+            },
+            {
+              "numero": 16,
+              "pregunta": "La distinción de los tres tipos de fuentes de información por Dankher se realizó en el año:",
+              "opciones": {
+                "A": "1996.",
+                "B": "1976.",
+                "C": "1986.",
+                "D": "1966."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.11: 'Dankher (1986) distingue tres tipos de fuentes de información:'"
+            },
+            {
+              "numero": 17,
+              "pregunta": "Un ejemplo de Fuente Terciaria es:",
+              "opciones": {
+                "A": "Monografías.",
+                "B": "Listado de referencias.",
+                "C": "Tesis de postgrado.",
+                "D": "Investigaciones inéditas."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.13: 'Consiste en compilación resúmenes y listado de referencias publicadas en un área de conocimientos en particular .'"
+            },
+            {
+              "numero": 18,
+              "pregunta": "El análisis de las fuentes documentales debe hacerse mediante un proceso:",
+              "opciones": {
+                "A": "Descriptivo y analítico.",
+                "B": "Reflexivo y crítico.",
+                "C": "Inductivo y deductivo.",
+                "D": "Interpretativo y expositivo."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.16: 'y analizar mediante un proceso reflexivo y crítico.'"
+            },
+            {
+              "numero": 19,
+              "pregunta": "¿Cuál de las siguientes es una fuente documental que debemos revisar, junto a las consultas de expertos?",
+              "opciones": {
+                "A": "Informes de campo.",
+                "B": "Artículos.",
+                "C": "Libros de texto.",
+                "D": "Entrevistas."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.16: 'Debemos revisar fuentes documentales como artículos consultas de expertos...'"
+            },
+            {
+              "numero": 20,
+              "pregunta": "Los resúmenes y la compilación de referencias de un área específica son el núcleo de las Fuentes:",
+              "opciones": {
+                "A": "Primarias.",
+                "B": "Terciarias.",
+                "C": "Secundarias.",
+                "D": "Híbridas."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.13: 'B . Fuentes Secundarias : Consiste en compilación resúmenes y listado de referencias...'"
+            }
+          ]
+        },
+        {
+          "nombre": "III. Naturaleza de los Antecedentes de la Investigación",
+          "rango_preguntas": "21-30",
+          "preguntas": [
+            {
+              "numero": 21,
+              "pregunta": "Según Arias (2012), los antecedentes reflejan los avances y el ______ actual del conocimiento en un área determinada.",
+              "opciones": {
+                "A": "Estado.",
+                "B": "Nivel.",
+                "C": "Marco.",
+                "D": "Sistema."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.4: 'Los antecedentes reflejan los avances y el estado actual del conocimiento'"
+            },
+            {
+              "numero": 22,
+              "pregunta": "Según Arias (2012), los antecedentes sirven de modelo o ejemplo para:",
+              "opciones": {
+                "A": "Futuras revisiones.",
+                "B": "Futuras publicaciones.",
+                "C": "Futuras metodologías.",
+                "D": "Futuras investigaciones."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.4: 'y sirven de modelo o ejemplo para futuras investigaciones' (Arias, 2012)."
+            },
+            {
+              "numero": 23,
+              "pregunta": "Los antecedentes de la investigación se refieren a la búsqueda de los estudios previos y tesis de grado relacionadas con el...",
+              "opciones": {
+                "A": "Método seleccionado.",
+                "B": "Problema planteado.",
+                "C": "Objetivo principal.",
+                "D": "Marco conceptual."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.5: 'Se refiere a la búsqueda de los estudios previos y tesis de grado relacionadas con el problema planteado'"
+            },
+            {
+              "numero": 24,
+              "pregunta": "Debe evitarse confundir los antecedentes de la investigación con la historia del...:",
+              "opciones": {
+                "A": "Desarrollo metodológico.",
+                "B": "Objeto de estudio en cuestión.",
+                "C": "Problema enunciado.",
+                "D": "Planteamiento central."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.6: 'Debe evitarse confundir los antecedentes de la investigación con la historia del objeto de estudio en cuestión.'"
+            },
+            {
+              "numero": 25,
+              "pregunta": "En el punto de antecedentes, además de los autores y el año en que se realizaron los estudios, ¿qué se debe señalar?",
+              "opciones": {
+                "A": "Los métodos utilizados y la población.",
+                "B": "Los objetivos y principales hallazgos de los mismos.",
+                "C": "La fecha de publicación y la editorial.",
+                "D": "Las hipótesis alternativas y las variables dependientes."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.6: 'se deben señalar, además de los autores y el año en que se realizaron los estudios, los objetivos y principales hallazgos de los mismos.'"
+            },
+            {
+              "numero": 26,
+              "pregunta": "Los antecedentes son las investigaciones realizadas con anterioridad y publicadas como tesis de postgrado o como:",
+              "opciones": {
+                "A": "Capítulos en libros de texto.",
+                "B": "Artículos en revistas de la especialidad.",
+                "C": "Ponencias en simposios.",
+                "D": "Informes de consultoría."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.7: 'o como artículos en revistas de la especialidad.'"
+            },
+            {
+              "numero": 27,
+              "pregunta": "Los antecedentes deben tratar de las variables del problema enunciado, y de las:",
+              "opciones": {
+                "A": "Referencias entre ellas.",
+                "B": "Diferencias entre ellas.",
+                "C": "Relaciones entre ellas.",
+                "D": "Similitudes entre ellas."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.7: 'Los antecedentes deben tratar de las variables del problema enunciado, y de las relaciones entre ellas.'"
+            },
+            {
+              "numero": 28,
+              "pregunta": "¿Qué es importante conocer de cada antecedente al conocimiento del tema en estudio?",
+              "opciones": {
+                "A": "El aporte.",
+                "B": "La crítica.",
+                "C": "La vigencia.",
+                "D": "El resumen."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.8: 'Es importante conocer cuál es el aporte de cada antecedente al conocimiento del tema en estudio.'"
+            },
+            {
+              "numero": 29,
+              "pregunta": "No es necesario transcribir la totalidad del estudio, sino lo relacionado con el estudio que es materia de la:",
+              "opciones": {
+                "A": "Investigación.",
+                "B": "Referencia.",
+                "C": "Tesis.",
+                "D": "Revisión."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.8: 'sino lo relacionado con el estudio que es materia de la tesis.'"
+            },
+            {
+              "numero": 30,
+              "pregunta": "Es necesario hacer un resumen propio acerca de los aspectos cubiertos por los antecedentes y de la:",
+              "opciones": {
+                "A": "Revisión teórica utilizada.",
+                "B": "Metodología utilizada.",
+                "C": "Justificación presentada.",
+                "D": "Conclusión obtenida."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.9: 'Es necesario hacer un resumen propio acerca de los aspectos cubiertos por los antecedentes y de la metodología utilizada'"
+            }
+          ]
+        },
+        {
+          "nombre": "IV. Elaboración, Presentación y Aporte de Antecedentes",
+          "rango_preguntas": "31-40",
+          "preguntas": [
+            {
+              "numero": 31,
+              "pregunta": "Además de la metodología utilizada, ¿qué se debe señalar al hacer un resumen propio de los antecedentes?",
+              "opciones": {
+                "A": "La validación entre esos estudios y el reportado en la tesis.",
+                "B": "La población entre esos estudios y el reportado en la tesis.",
+                "C": "La diferencia entre esos estudios y el reportado en la tesis.",
+                "D": "La similitud entre esos estudios y el reportado en la tesis."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.9: 'y, además, señalar la diferencia entre esos estudios y el reportado en la tesis.'"
+            },
+            {
+              "numero": 32,
+              "pregunta": "Los antecedentes de la investigación, son la revisión _______ de los diversos estudios que se han realizado previamente sobre el tema.",
+              "opciones": {
+                "A": "Cronológica.",
+                "B": "Superficial.",
+                "C": "Detallada.",
+                "D": "Crítica."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.11: 'Los antecedentes de la investigación, son la revisión crítica de los diversos estudios que se han realizado previamente sobre el tema.'"
+            },
+            {
+              "numero": 33,
+              "pregunta": "Los antecedentes no son la simple aglomeración de investigaciones previas, todo lo contrario es la revisión crítica de las ______ de estudio sobre el tema.",
+              "opciones": {
+                "A": "Tendencias.",
+                "B": "Fuentes.",
+                "C": "Metodologías.",
+                "D": "Publicaciones."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.11: 'todo lo contrario es la revisión crítica de las tendencias de estudio sobre el tema.'"
+            },
+            {
+              "numero": 34,
+              "pregunta": "La actitud crítica para redactar los antecedentes implica realizar una selección y lectura detallada de la información que ha sido buscada y revisada previamente. ¿Para qué se efectúa esto?",
+              "opciones": {
+                "A": "Para identificar los resultados y conclusiones preliminares.",
+                "B": "Para examinar la confrontación entre enfoques, autores y sus procedimientos, y resultados empíricos.",
+                "C": "Para determinar la necesidad de un marco conceptual nuevo y original.",
+                "D": "Para asegurar la pertinencia y vigencia de las fuentes primarias utilizadas."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.11: 'Esto se efectúa para examinar la confrontación entre enfoques, autores y sus procedimientos, y resultados empíricos.'"
+            },
+            {
+              "numero": 35,
+              "pregunta": "Los antecedentes de la investigación son la parte del marco teórico que sirve para responder preguntas. ¿Cuál de las siguientes es una de ellas?",
+              "opciones": {
+                "A": "¿Cuáles son los límites de la población y muestra?",
+                "B": "¿Qué tanto se ha investigado sobre el tema?",
+                "C": "¿Cuál es la justificación de la viabilidad?",
+                "D": "¿Quiénes financian el estudio actual?"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.12: '¿Qué tanto se ha investigado sobre el tema?'"
+            },
+            {
+              "numero": 36,
+              "pregunta": "Las preguntas que responden los antecedentes, en síntesis, darán un diagnóstico del:",
+              "opciones": {
+                "A": "“Estado del arte”.",
+                "B": "“Estado del tema”.",
+                "C": "“Estado de la cuestión”.",
+                "D": "“Estado del problema”."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.12: 'Estas preguntas, en síntesis, darán un diagnóstico del “estado del tema”'"
+            },
+            {
+              "numero": 37,
+              "pregunta": "Al sintetizar la información de los antecedentes, se debe hacer un resumen considerando tanto la metodología como los principales:",
+              "opciones": {
+                "A": "Documentos citados en cada uno de ellos.",
+                "B": "Aportes teóricos obtenidos en cada uno de ellos.",
+                "C": "Problemas identificados en cada uno de ellos.",
+                "D": "Resultados obtenidos en cada uno de ellos."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.13: 'considerando tanto la metodología como los principales resultados obtenidos en cada uno de ellos'"
+            },
+            {
+              "numero": 38,
+              "pregunta": "¿En qué orden se sugiere redactar los antecedentes según el texto?",
+              "opciones": {
+                "A": "Partiendo de un análisis de las tesis, luego de los papers, posteriormente de artículos de divulgación general y finalmente la opinión de expertos.",
+                "B": "Partiendo de un análisis de los papers luego de las tesis, posteriormente de artículos de divulgación general y finalmente la opinión de expertos.",
+                "C": "Partiendo de un análisis de la opinión de expertos, luego de las tesis, posteriormente de los papers y finalmente de artículos de divulgación general.",
+                "D": "Partiendo de un análisis de artículos de divulgación general, luego de los papers, posteriormente de las tesis y finalmente la opinión de expertos."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.13: 'Redacta los antecedentes partiendo de un análisis de los papers luego de las tesis, posteriormente de artículos de divulgación general y finalmente la opinión de expertos.'"
+            },
+            {
+              "numero": 39,
+              "pregunta": "En la presentación de los antecedentes, ¿qué datos deben precisarse, además del Autor, fecha, título, problemas, objetivos e hipótesis?",
+              "opciones": {
+                "A": "Alcances, justificación, viabilidad y estado del arte.",
+                "B": "Metodología, Resultados, Conclusiones, Aporte.",
+                "C": "Población, Muestra, Instrumentos y Pruebas estadísticas.",
+                "D": "Referencia APA, Resumen, Crítica y Vínculo con el estudio."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.14: '• Metodología. • Resultados. • Conclusiones. • Aporte.'"
+            },
+            {
+              "numero": 40,
+              "pregunta": "Se debe presentar un párrafo de cierre al final de todos los antecedentes o después de cada uno, señalando la relación de éstos con su investigación y la utilidad o aporte al...",
+              "opciones": {
+                "A": "Marco conceptual.",
+                "B": "Problema central.",
+                "C": "Estado del arte.",
+                "D": "Método empírico."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.14: 'señalando la relación de éstos con su investigación y la utilidad o aporte al estado del arte.'"
+            }
+          ]
+        },
+        {
+          "nombre": "V. Limitaciones de una Investigación y Consideraciones Finales",
+          "rango_preguntas": "41-50",
+          "preguntas": [
+            {
+              "numero": 41,
+              "pregunta": "Según la perspectiva de Ávila (2001, 87), una limitación consiste en que se deja de estudiar un aspecto del problema debido por:",
+              "opciones": {
+                "A": "Un error de diseño.",
+                "B": "Alguna razón.",
+                "C": "Falta de recursos.",
+                "D": "Restricción metodológica."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.4: 'desde la perspectiva de Ávila (2001, 87), una limitación consiste en que se deja de estudiar un aspecto del problema debido por alguna razón.'"
+            },
+            {
+              "numero": 42,
+              "pregunta": "Las limitaciones de una investigación pueden surgir debido a las restricciones de la metodología o del:",
+              "opciones": {
+                "A": "Presupuesto de la investigación.",
+                "B": "Tiempo de ejecución.",
+                "C": "Diseño de la investigación.",
+                "D": "Alcance del estudio."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.4: 'Estas limitaciones pueden surgir debido a las restricciones de la metodología o del diseño de la investigación.'"
+            },
+            {
+              "numero": 43,
+              "pregunta": "La mayoría de los investigadores prefieren no hablar de las limitaciones de su estudio porque creen que:",
+              "opciones": {
+                "A": "Afectarán la publicación de los resultados.",
+                "B": "Devaluarán su trabajo a los ojos del público.",
+                "C": "Expondrán fallas en su metodología.",
+                "D": "Generarán críticas innecesarias de sus pares."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.4: 'porque creen que devaluarán su trabajo a los ojos del público.'"
+            },
+            {
+              "numero": 44,
+              "pregunta": "Es fundamental mostrar a su audiencia las limitaciones de su estudio, cuya audiencia incluye a otros investigadores, editores de revistas y:",
+              "opciones": {
+                "A": "Financiadores del proyecto.",
+                "B": "Asesores temáticos.",
+                "C": "Lectores del público.",
+                "D": "Colegas académicos."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.5: '(otros investigadores, editores de revistas y lectores del público).'"
+            },
+            {
+              "numero": 45,
+              "pregunta": "El investigador debe reconocer que es consciente de estas limitaciones y del _______ que pueden tener.",
+              "opciones": {
+                "A": "Efecto.",
+                "B": "Impacto.",
+                "C": "Alcance.",
+                "D": "Riesgo."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.7: 'Debe reconocer que es consciente de estas limitaciones y del impacto que pueden tener.'"
+            },
+            {
+              "numero": 46,
+              "pregunta": "Es fundamental que se explique cómo las limitaciones de la investigación pueden tener un impacto potencial en el análisis y las _______ a las que se llegue.",
+              "opciones": {
+                "A": "Conclusiones.",
+                "B": "Justificaciones.",
+                "C": "Viabilidades.",
+                "D": "Hipótesis."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.7: 'pueden tener un impacto potencial en el análisis y las conclusiones a las que llegues.'"
+            },
+            {
+              "numero": 47,
+              "pregunta": "Las limitaciones de una investigación son aquellas características del diseño o metodología que afectan la _______ de los resultados.",
+              "opciones": {
+                "A": "Generalización.",
+                "B": "Interpretación.",
+                "C": "Validación.",
+                "D": "Descripción."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.7: 'Las limitaciones de una investigación son aquellas características del diseño o metodología que afectan la interpretación de los resultados'"
+            },
+            {
+              "numero": 48,
+              "pregunta": "Una de las preguntas a las que las limitaciones dan respuesta está relacionada con si el investigador tiene el _______ necesario.",
+              "opciones": {
+                "A": "Método.",
+                "B": "Recurso.",
+                "C": "Apoyo.",
+                "D": "Diseño."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.8: '¿Tiene el apoyo necesario?'"
+            },
+            {
+              "numero": 49,
+              "pregunta": "Otra pregunta que sirve para identificar limitaciones es si los investigadores tienen los recursos _______ suficientes.",
+              "opciones": {
+                "A": "Metodológicos.",
+                "B": "Bibliográficos.",
+                "C": "Informáticos.",
+                "D": "Humanos."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.8: '¿Tienen los recursos bibliográficos suficientes?'"
+            },
+            {
+              "numero": 50,
+              "pregunta": "Las limitaciones están relacionadas con posibles restricciones a la generalización, a la utilidad o aplicaciones _______ de los hallazgos.",
+              "opciones": {
+                "A": "Teóricas.",
+                "B": "Metodológicas.",
+                "C": "Conceptuales.",
+                "D": "Prácticas."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.7: 'Están relacionadas con posibles restricciones a la generalización, a la utilidad o aplicaciones prácticas de los hallazgos'"
+            }
+          ]
+        }
+      ]
+    }
+  }

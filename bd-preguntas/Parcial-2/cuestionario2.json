@@ -1,0 +1,619 @@
+{
+    "cuestionario": {
+      "titulo": "Cuestionario de Evaluación: Tipos de Investigación y Operacionalización de Variables",
+      "secciones": [
+        {
+          "nombre": "I. Tipos de Investigación",
+          "rango_preguntas": "1-25",
+          "preguntas": [
+            {
+              "numero": 1,
+              "pregunta": "La investigación ________ es abstracta y busca generalizar conocimientos teóricos, principios y leyes.",
+              "opciones": {
+                "A": "aplicada",
+                "B": "práctica",
+                "C": "básica",
+                "D": "empírica"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.6: 'Básica, pura o formal, es abstracta y busca generalizar conocimientos teóricos, principios y leyes.'"
+            },
+            {
+              "numero": 2,
+              "pregunta": "La investigación aplicada, empírica o práctica, es concreta y busca la aplicación de los conocimientos en ________ algún problema determinado.",
+              "opciones": {
+                "A": "analizar",
+                "B": "resolver",
+                "C": "identificar",
+                "D": "describir"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.6: 'Aplicada, empírica o práctica, es concreta y busca la aplicación de los conocimientos en resolver algún problema determinado.'"
+            },
+            {
+              "numero": 3,
+              "pregunta": "Cuando hablamos de tipo de investigación se hace referencia al ________ de investigación y al objetivo de la investigación.",
+              "opciones": {
+                "A": "marco",
+                "B": "problemas",
+                "C": "contexto",
+                "D": "enfoque"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.4: 'Cuando hablamos de tipo de investigación se hace referencia al problemas de investigación y al objetivo de la investigación.'"
+            },
+            {
+              "numero": 4,
+              "pregunta": "Según su finalidad, los tipos de investigación se clasifican en:",
+              "opciones": {
+                "A": "transversal y longitudinal",
+                "B": "básica y aplicada",
+                "C": "cuantitativo y cualitativo",
+                "D": "exploratoria y descriptiva"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'I. Por su finalidad: básica y aplicada'"
+            },
+            {
+              "numero": 5,
+              "pregunta": "La investigación que se realiza según el marco en que tiene lugar puede ser:",
+              "opciones": {
+                "A": "de campo y de laboratorio",
+                "B": "macro y micro educativa",
+                "C": "primarias y secundarias",
+                "D": "documentales y empíricas"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'VII. Según el marco en que tiene lugar: de campo y de laboratorio'"
+            },
+            {
+              "numero": 6,
+              "pregunta": "Por su profundidad, la investigación puede ser:",
+              "opciones": {
+                "A": "disciplinar y estudios sociales",
+                "B": "cuantitativo y cualitativo",
+                "C": "exploratoria, descriptiva, correlacional y explicativa",
+                "D": "transversal y longitudinal"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'VIII. Por su profundidad: exploratoria, descriptiva, correlacional y explicativa.'"
+            },
+            {
+              "numero": 7,
+              "pregunta": "La investigación ________ es el fundamento para las investigaciones prácticas, pero no las desarrolla.",
+              "opciones": {
+                "A": "aplicada",
+                "B": "pura",
+                "C": "empírica",
+                "D": "práctica"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.6: 'Es el fundamento parta las investigaciones prácticas, pero no las desarrolla.'"
+            },
+            {
+              "numero": 8,
+              "pregunta": "Según su alcance temporal, la investigación puede ser:",
+              "opciones": {
+                "A": "básica y aplicada",
+                "B": "macro y micro educativa",
+                "C": "transversal y longitudinal",
+                "D": "cuantitativo y cualitativo"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'II. Por su alcance temporal: transversal y longitudinal'"
+            },
+            {
+              "numero": 9,
+              "pregunta": "Los estudios que dan lugar a la investigación pueden ser:",
+              "opciones": {
+                "A": "piloto, monografías, informes, de caso, sondeos, encuestas y de replicación",
+                "B": "exploratoria, descriptiva, correlacional y explicativa",
+                "C": "de campo y de laboratorio",
+                "D": "documentales, empíricas, experimentales y doctrinales"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'IX. Por los estudios a que dan lugar: piloto, monografías, informes, de caso, sondeos, encuestas y de replicación'"
+            },
+            {
+              "numero": 10,
+              "pregunta": "Según su naturaleza, la investigación puede ser:",
+              "opciones": {
+                "A": "documentales, empíricas, experimentales y doctrinales",
+                "B": "primarias, secundarias y mixtas",
+                "C": "exploratoria, descriptiva, correlacional y explicativa",
+                "D": "macro y micro educativa"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'VI. Por su naturaleza: documentales, empíricas, experimentales y doctrinales.'"
+            },
+            {
+              "numero": 11,
+              "pregunta": "La investigación aplicada se basa en la investigación:",
+              "opciones": {
+                "A": "cuantitativa",
+                "B": "básica",
+                "C": "cualitativa",
+                "D": "exploratoria"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.6: 'Se basa en la investigación básica.'"
+            },
+            {
+              "numero": 12,
+              "pregunta": "Por su carácter en la medida, la investigación se clasifica en:",
+              "opciones": {
+                "A": "transversal y longitudinal",
+                "B": "básica y aplicada",
+                "C": "cuantitativo y cualitativo",
+                "D": "macro y micro educativa"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'V. Por su carácter en la medida: cuantitativo y cualitativo'"
+            },
+            {
+              "numero": 13,
+              "pregunta": "Según el objeto estudiado, la investigación puede ser:",
+              "opciones": {
+                "A": "de campo y de laboratorio",
+                "B": "disciplinar, estudios sociales y sectores sociales",
+                "C": "primarias, secundarias y mixtas",
+                "D": "piloto, monografías, informes"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'X. Según el objeto estudiado: disciplinar, estudios sociales y sectores sociales.'"
+            },
+            {
+              "numero": 14,
+              "pregunta": "Por sus fuentes, la investigación puede ser:",
+              "opciones": {
+                "A": "cuantitativo y cualitativo",
+                "B": "primarias, secundarias y mixtas",
+                "C": "exploratoria, descriptiva, correlacional y explicativa",
+                "D": "básica y aplicada"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'IV. Por sus fuentes: Primarias, secundarias y mixtas'"
+            },
+            {
+              "numero": 15,
+              "pregunta": "La investigación ________ busca generalizar conocimientos teóricos, principios y leyes.",
+              "opciones": {
+                "A": "práctica",
+                "B": "aplicada",
+                "C": "básica",
+                "D": "empírica"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.6: 'Básica, pura o formal, es abstracta y busca generalizar conocimientos teóricos, principios y leyes.'"
+            },
+            {
+              "numero": 16,
+              "pregunta": "Los niveles de la investigación aplicada incluyen:",
+              "opciones": {
+                "A": "básica, pura o formal",
+                "B": "transversal y longitudinal",
+                "C": "aplicativo, predictivo, explicativo, relacional, descriptivo y exploratorio",
+                "D": "macro y micro educativa"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.7: 'Aplicativo, Predictivo, Explicativo, Relacional, Descriptivo, Exploratorio'"
+            },
+            {
+              "numero": 17,
+              "pregunta": "La investigación por su amplitud puede ser:",
+              "opciones": {
+                "A": "cuantitativo y cualitativo",
+                "B": "macro y micro educativa",
+                "C": "básica y aplicada",
+                "D": "transversal y longitudinal"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'III. Por su amplitud: macro y micro educativa.'"
+            },
+            {
+              "numero": 18,
+              "pregunta": "La investigación ________ es concreta y busca la aplicación de los conocimientos.",
+              "opciones": {
+                "A": "básica",
+                "B": "pura",
+                "C": "formal",
+                "D": "aplicada"
+              },
+              "respuesta_correcta": "D",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.6: 'Aplicada, empírica o práctica, es concreta y busca la aplicación de los conocimientos en resolver algún problema determinado.'"
+            },
+            {
+              "numero": 19,
+              "pregunta": "La investigación que se refiere a estudios sociales y sectores sociales se clasifica según:",
+              "opciones": {
+                "A": "su finalidad",
+                "B": "su amplitud",
+                "C": "el objeto estudiado",
+                "D": "su profundidad"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'X. Según el objeto estudiado: disciplinar, estudios sociales y sectores sociales.'"
+            },
+            {
+              "numero": 20,
+              "pregunta": "La investigación ________ no desarrolla las investigaciones prácticas pero es su fundamento.",
+              "opciones": {
+                "A": "aplicada",
+                "B": "básica",
+                "C": "empírica",
+                "D": "práctica"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.6: 'Es el fundamento parta las investigaciones prácticas, pero no las desarrolla.'"
+            },
+            {
+              "numero": 21,
+              "pregunta": "La investigación que se realiza en un momento específico del tiempo se denomina:",
+              "opciones": {
+                "A": "longitudinal",
+                "B": "transversal",
+                "C": "micro educativa",
+                "D": "macroeconómica"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'II. Por su alcance temporal: transversal y longitudinal'"
+            },
+            {
+              "numero": 22,
+              "pregunta": "La investigación que implica el estudio de un fenómeno a lo largo del tiempo se denomina:",
+              "opciones": {
+                "A": "transversal",
+                "B": "longitudinal",
+                "C": "micro educativa",
+                "D": "macroeconómica"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'II. Por su alcance temporal: transversal y longitudinal'"
+            },
+            {
+              "numero": 23,
+              "pregunta": "La investigación que utiliza métodos estadísticos y mediciones numéricas se clasifica como:",
+              "opciones": {
+                "A": "cualitativa",
+                "B": "cuantitativa",
+                "C": "exploratoria",
+                "D": "descriptiva"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'V. Por su carácter en la medida: cuantitativo y cualitativo'"
+            },
+            {
+              "numero": 24,
+              "pregunta": "La investigación que se enfoca en comprender fenómenos desde la perspectiva de los participantes se clasifica como:",
+              "opciones": {
+                "A": "cuantitativa",
+                "B": "cualitativa",
+                "C": "experimental",
+                "D": "documental"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'V. Por su carácter en la medida: cuantitativo y cualitativo'"
+            },
+            {
+              "numero": 25,
+              "pregunta": "La investigación que busca establecer relaciones entre variables se denomina:",
+              "opciones": {
+                "A": "exploratoria",
+                "B": "descriptiva",
+                "C": "correlacional",
+                "D": "explicativa"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion9Tipodeinvestigacion.pdf - p.5: 'VIII. Por su profundidad: exploratoria, descriptiva, correlacional y explicativa.'"
+            }
+          ]
+        },
+        {
+          "nombre": "II. Operacionalización de Variables",
+          "rango_preguntas": "26-50",
+          "preguntas": [
+            {
+              "numero": 26,
+              "pregunta": "La operacionalización de variables es un proceso de vital importancia en la investigación, toda vez, que permite ________ las variables a través de referentes más específicos, observables y mensurables.",
+              "opciones": {
+                "A": "analizar",
+                "B": "medir",
+                "C": "definir",
+                "D": "identificar"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.4: 'La operacionalización de variables es un proceso de vital importancia en la investigación, toda vez, que permite medir las variables a través de referentes más específicos, observables y mensurables'"
+            },
+            {
+              "numero": 27,
+              "pregunta": "Sierra (1999) define la operacionalización de variables como el proceso que tiende a pasar de las variables generales a las ________.",
+              "opciones": {
+                "A": "específicas",
+                "B": "intermedias",
+                "C": "operativas",
+                "D": "dimensiones"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.5: 'proceso que tiende a pasar de las variables generales a las intermedias, y de éstas a los indicadores'"
+            },
+            {
+              "numero": 28,
+              "pregunta": "El procedimiento de operacionalizar variables, consiste en medir las variables a través de referentes más específicos, observables y mensurables, como son las ________.",
+              "opciones": {
+                "A": "teorías",
+                "B": "hipótesis",
+                "C": "dimensiones",
+                "D": "definiciones"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.6: 'El procedimiento de operacionalizar variables, consiste en medir las variables a través de referentes más específicos, observables y mensurables, como son las dimensiones, y los indicadores'"
+            },
+            {
+              "numero": 29,
+              "pregunta": "A través de este proceso de ir descomponiendo las variable o constructo en aspectos o elementos más observables, requiere del investigador un ________ y conocimiento de las variables de estudio.",
+              "opciones": {
+                "A": "dominio",
+                "B": "análisis",
+                "C": "entendimiento",
+                "D": "control"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.7: 'requiere del investigador un dominio y conocimiento de las variables de estudio'"
+            },
+            {
+              "numero": 30,
+              "pregunta": "La operacionalización de las variables constituye una valiosa fuente para la selección y elaboración del o los ________ de recolección de datos.",
+              "opciones": {
+                "A": "métodos",
+                "B": "instrumentos",
+                "C": "procedimientos",
+                "D": "formatos"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.8: 'constituye una valiosa fuente para la selección y elaboración del o los instrumentos de recolección de datos'"
+            },
+            {
+              "numero": 31,
+              "pregunta": "El proceso de operacionalización es muy importante para poder ________ las variables lo que permitirá al investigador comprobar su hipótesis.",
+              "opciones": {
+                "A": "definir",
+                "B": "medir",
+                "C": "analizar",
+                "D": "identificar"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.9: 'El proceso de operacionalización es muy importante para poder medir las variables lo que permitirá al investigador comprobar su hipótesis'"
+            },
+            {
+              "numero": 32,
+              "pregunta": "La primera fase para operacionalización de variables es: Representación del ________ de la variable o su definición.",
+              "opciones": {
+                "A": "concepto",
+                "B": "objeto",
+                "C": "aspecto",
+                "D": "elemento"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.11: '1. Representación del concepto de la variable o su definición'"
+            },
+            {
+              "numero": 33,
+              "pregunta": "La segunda fase para operacionalización de variables es: Se deducen las ________ o aspectos principales implicados en la representación de la definición de la variable.",
+              "opciones": {
+                "A": "indicadores",
+                "B": "dimensiones",
+                "C": "variables",
+                "D": "conceptos"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.11: '2. Se deducen las dimensiones o aspectos principales implicados en la representación de la definición de la variable.'"
+            },
+            {
+              "numero": 34,
+              "pregunta": "La tercera fase para operacionalización de variables es: Se elige o busca ________ para cada una de las dimensiones.",
+              "opciones": {
+                "A": "dimensiones",
+                "B": "variables",
+                "C": "indicadores",
+                "D": "conceptos"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.11: '3. Se elige o busca indicadores para cada una de las dimensiones.'"
+            },
+            {
+              "numero": 35,
+              "pregunta": "La cuarta fase para operacionalización de variables es: Construcción de ________.",
+              "opciones": {
+                "A": "dimensiones",
+                "B": "indicadores",
+                "C": "índices",
+                "D": "variables"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.12: '4. Construcción de índices'"
+            },
+            {
+              "numero": 36,
+              "pregunta": "Antes de iniciar el proceso de operacionalización es conveniente definir en forma ________ las variables de estudio.",
+              "opciones": {
+                "A": "teórica y práctica",
+                "B": "conceptual y operacional",
+                "C": "general y específica",
+                "D": "abstracta y concreta"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.13: 'Antes de iniciar el proceso de operacionalización es conveniente definir en forma conceptual y operacional las variables de estudio.'"
+            },
+            {
+              "numero": 37,
+              "pregunta": "La definición conceptual constituiría, es aquella que se toma de los ________ o especialistas sobre el tema de investigación.",
+              "opciones": {
+                "A": "investigadores",
+                "B": "autores",
+                "C": "estudiosos",
+                "D": "científicos"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.14: 'La definición conceptual constituiría, es aquella que se toma de los autores o especialistas sobre el tema de investigación.'"
+            },
+            {
+              "numero": 38,
+              "pregunta": "La definición operacional es el conjunto de ________ que el investigador debe realizar para medir una variable.",
+              "opciones": {
+                "A": "procedimientos",
+                "B": "métodos",
+                "C": "instrumentos",
+                "D": "técnicas"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.16: 'La definición operacional es el conjunto de procedimientos que el investigador debe realizar para medir una variable.'"
+            },
+            {
+              "numero": 39,
+              "pregunta": "La definición operacional está relacionada con la forma de cómo vamos a proceder para ________ información para medir las variables de estudio.",
+              "opciones": {
+                "A": "analizar",
+                "B": "procesar",
+                "C": "recoger",
+                "D": "organizar"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.17: 'esta definición está relacionada con la forma de cómo vamos a proceder para recoger información para medir las variables de estudio.'"
+            },
+            {
+              "numero": 40,
+              "pregunta": "Cuando se dispone de varias alternativas para definir operacionalmente una variable se debe seleccionar la que proporcione ________ información sobre la variable.",
+              "opciones": {
+                "A": "la más completa",
+                "B": "mayor",
+                "C": "la más precisa",
+                "D": "suficiente"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.18: 'se debe seleccionar la que proporcione mayor información sobre la variable'"
+            },
+            {
+              "numero": 41,
+              "pregunta": "La definición conceptual y la operacional guardan ________ entre sí.",
+              "opciones": {
+                "A": "relación",
+                "B": "coherencia",
+                "C": "correspondencia",
+                "D": "conexión"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion8Operacionalizaciondevariables.pdf - p.19: 'La definición conceptual y la operacional guardan coherencia entre sí'"
+            },
+            {
+              "numero": 42,
+              "pregunta": "Una variable es cualquier característica cualidad o propiedad de un fenómeno o hecho que tiende a ________ y que es susceptible de ser modificado o evaluado.",
+              "opciones": {
+                "A": "cambiar",
+                "B": "variar",
+                "C": "evolucionar",
+                "D": "transformarse"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.5: 'Una variable es cualquier característica cualidad o propiedad de un fenómeno o hecho que tiende a variar y que es susceptible de ser modificado o evaluado.'"
+            },
+            {
+              "numero": 43,
+              "pregunta": "Las ________ son los aspectos en los cuales se muestra las variables.",
+              "opciones": {
+                "A": "indicadores",
+                "B": "dimensiones",
+                "C": "variables",
+                "D": "elementos"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.6: 'Son los aspectos en los cuales se muestra las variables.'"
+            },
+            {
+              "numero": 44,
+              "pregunta": "Los ________ son instrumentos para medir las variables.",
+              "opciones": {
+                "A": "dimensiones",
+                "B": "indicadores",
+                "C": "conceptos",
+                "D": "elementos"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.7: 'Los indicadores son instrumentos para medir las variables'"
+            },
+            {
+              "numero": 45,
+              "pregunta": "Las dimensiones son definidas como los ________ o facetas de una variable compleja.",
+              "opciones": {
+                "A": "elementos",
+                "B": "aspectos",
+                "C": "componentes",
+                "D": "factores"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.6: 'Las dimensiones son definidas como los aspectos o facetas de una variable compleja.'"
+            },
+            {
+              "numero": 46,
+              "pregunta": "No existe un número ________ ni mínimo de dimensiones.",
+              "opciones": {
+                "A": "máximo",
+                "B": "limitado",
+                "C": "específico",
+                "D": "determinado"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.6: 'No existe un número máximo ni mínimo de dimensiones.'"
+            },
+            {
+              "numero": 47,
+              "pregunta": "Los indicadores permiten hacer ________ a las variables.",
+              "opciones": {
+                "A": "evaluaciones",
+                "B": "análisis",
+                "C": "mediciones",
+                "D": "estudios"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.7: 'Permiten hacer mediciones a las variables.'"
+            },
+            {
+              "numero": 48,
+              "pregunta": "Una variable también se puede definir como una propiedad que adquiere ________ valores.",
+              "opciones": {
+                "A": "diferentes",
+                "B": "varios",
+                "C": "múltiples",
+                "D": "distintos"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.5: 'Una variable también se puede definir como una propiedad que adquiere varios valores.'"
+            },
+            {
+              "numero": 49,
+              "pregunta": "Los indicadores son las ________ que permiten identificar las características o propiedades observables de las variables.",
+              "opciones": {
+                "A": "herramientas",
+                "B": "señales",
+                "C": "marcadores",
+                "D": "elementos"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.7: 'Son las señales que permiten identificar las características o propiedades observables de las variables'"
+            },
+            {
+              "numero": 50,
+              "pregunta": "Se recomienda que las dimensiones provengan de ________, las cuales deben estar detalladas en el marco teórico.",
+              "opciones": {
+                "A": "investigaciones",
+                "B": "teorías",
+                "C": "estudios",
+                "D": "autores"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "sesion7Identificaciondevariables.pdf - p.6: 'se recomienda que las dimensiones provengan de teorías, las cuales deben estar detalladas en el marco teórico.'"
+            }
+          ]
+        }
+      ]
+    }
+  }
