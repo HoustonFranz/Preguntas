@@ -1,0 +1,613 @@
+{
+    "cuestionario": {
+      "titulo": "Cuestionario de Alto Nivel: Metodología del Proyecto de Investigación - Nivel y Diseño",
+      "secciones": [
+        {
+          "nombre": "I. Conceptos Fundamentales de Nivel y Diseño de Investigación",
+          "rango_preguntas": "1-50",
+          "preguntas": [
+            {
+              "numero": 1,
+              "pregunta": "¿Cuál es la definición de 'nivel de investigación' según Arias (2012)?",
+              "opciones": {
+                "A": "Se refiere a la profundidad con que se aborda un fenómeno u objeto de estudio.",
+                "B": "Se refiere al diseño o estrategia para obtener información de la investigación.",
+                "C": "Es la categorización del estudio en aplicado o básico.",
+                "D": "Es el método estadístico empleado para la solución de un problema."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.4 [sesion10Niveldeinvestigacion.pdf]: '“El nivel de investigación se refiere al grado de profundidad con que se aborda un fenómeno u objeto de estudio\" (Arias, 2012).'"
+            },
+            {
+              "numero": 2,
+              "pregunta": "Según Valderrama (2017), ¿a qué se refiere el nivel de una investigación en relación con el problema, hecho o fenómeno a estudiar?",
+              "opciones": {
+                "A": "Al diseño o prototipo que indica los pasos para guiar la investigación.",
+                "B": "A las etapas que transita la investigación para la solución de un problema.",
+                "C": "Al grado de conocimiento que posee el investigador.",
+                "D": "Al enfoque cualitativo o cuantitativo adoptado."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.5 [sesion10Niveldeinvestigacion.pdf]: 'el nivel de una investigación se refiere al grado de conocimiento que posee el investigador en relación con el problema, hecho o fenómeno a estudiar.'"
+            },
+            {
+              "numero": 3,
+              "pregunta": "El nivel de investigación se refiere a las etapas que transita la investigación para la solución de un/una:",
+              "opciones": {
+                "A": "Metodología.",
+                "B": "Problema.",
+                "C": "Diseño.",
+                "D": "Hipótesis."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.6 [sesion10Niveldeinvestigacion.pdf]: 'Son las etapas que transita la investigación para la solución de un problema'"
+            },
+            {
+              "numero": 4,
+              "pregunta": "¿Cuál de los siguientes no es un nivel de investigación mencionado en el documento?",
+              "opciones": {
+                "A": "Descriptivo.",
+                "B": "Aplicativo.",
+                "C": "Explicativo.",
+                "D": "Analítico."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.6 [sesion10Niveldeinvestigacion.pdf]: 'Aplicativo', 'Predictivo', 'Explicativo', 'Relacional', 'Descriptivo', 'Exploratorio'"
+            },
+            {
+              "numero": 5,
+              "pregunta": "Los estudios en el **nivel exploratorio** se plantean cuando existe un cuerpo teórico suficiente que ilumine el estudio y los resultados que se obtengan sean un aporte a la identificación de los:",
+              "opciones": {
+                "A": "Problemas.",
+                "B": "Conceptos.",
+                "C": "Diseños.",
+                "D": "Métodos."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.7 [sesion10Niveldeinvestigacion.pdf]: 'los resultados que se obtengan sean un aporte a la identificación de los problemas.'"
+            },
+            {
+              "numero": 6,
+              "pregunta": "¿Qué tipo de preguntas **no** hay en los estudios exploratorios, según el documento?",
+              "opciones": {
+                "A": "Que conduzcan a soluciones innovadoras.",
+                "B": "Que requieran manejo estadístico avanzado.",
+                "C": "Que conduzcan a problemas precisos.",
+                "D": "Que partan de un tema de investigación general."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.7 [sesion10Niveldeinvestigacion.pdf]: 'No hay preguntas que conduzcan a problemas precisos, se exploran áreas problemáticas.'"
+            },
+            {
+              "numero": 7,
+              "pregunta": "Una característica de los estudios exploratorios es que parten de un tema de investigación general que **no ha sido...**",
+              "opciones": {
+                "A": "Validado.",
+                "B": "Replicado.",
+                "C": "Profundizado.",
+                "D": "Cuantificado."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.7 [sesion10Niveldeinvestigacion.pdf]: 'Parten de un tema de investigación general que no ha sido profundizado.'"
+            },
+            {
+              "numero": 8,
+              "pregunta": "¿Qué no se requiere para los estudios exploratorios, ya que se trata de una descripción y análisis teórico?",
+              "opciones": {
+                "A": "Revisión de literatura.",
+                "B": "Manejo estadístico.",
+                "C": "Observación directa.",
+                "D": "Identificación de problemas."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.7 [sesion10Niveldeinvestigacion.pdf]: 'Por lo que no se requiere de manejo estadístico.'"
+            },
+            {
+              "numero": 9,
+              "pregunta": "La finalidad del **nivel descriptivo** es describir y estimar:",
+              "opciones": {
+                "A": "Variables.",
+                "B": "Frecuencias.",
+                "C": "Parámetros.",
+                "D": "Asociaciones."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.8 [sesion10Niveldeinvestigacion.pdf]: 'Su finalidad es describir y estimar parámetros.'"
+            },
+            {
+              "numero": 10,
+              "pregunta": "¿En qué consiste la estadística descriptiva dentro del nivel descriptivo?",
+              "opciones": {
+                "A": "En la aplicación de técnicas multivariadas.",
+                "B": "En el cálculo de correlaciones espurias.",
+                "C": "En estimar frecuencias y/o promedios y otras medidas univariadas.",
+                "D": "En la validación de pruebas y análisis de varianza (ANOVA)."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.8 [sesion10Niveldeinvestigacion.pdf]: 'La estadística descriptiva consiste en estimar frecuencias y/o promedios y otras medidas univariadas.'"
+            },
+            {
+              "numero": 11,
+              "pregunta": "El objetivo de un estudio descriptivo es describir situaciones o eventos que han sido:",
+              "opciones": {
+                "A": "Investigados previamente.",
+                "B": "Evaluados de manera causal.",
+                "C": "Medidos con estadísticos multivariados.",
+                "D": "Analizados en varios momentos."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.8 [sesion10Niveldeinvestigacion.pdf]: 'Su objetivo es describir situaciones o eventos que han sido investigados previamente.'"
+            },
+            {
+              "numero": 12,
+              "pregunta": "Una característica del estudio descriptivo, a diferencia del exploratorio, es que aquí ya existe una/un **__________** seleccionada:",
+              "opciones": {
+                "A": "Variable.",
+                "B": "Problema.",
+                "C": "Diseño.",
+                "D": "Muestra."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.8 [sesion10Niveldeinvestigacion.pdf]: 'Aquí ya existe una variable seleccionada (a diferencia de los exploratorios).'"
+            },
+            {
+              "numero": 13,
+              "pregunta": "En los estudios descriptivos, las variables se miden y los resultados se presentan de manera:",
+              "opciones": {
+                "A": "Aislada e independiente.",
+                "B": "Correlacionada y dependiente.",
+                "C": "Causal y multivariada.",
+                "D": "Relacional y explicativa."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.8 [sesion10Niveldeinvestigacion.pdf]: 'Las variables se miden y presentan los resultados de manera aislada e independiente.'"
+            },
+            {
+              "numero": 14,
+              "pregunta": "Los resultados de los estudios descriptivos permiten hacer **comparaciones** o **__________** descriptivas:",
+              "opciones": {
+                "A": "Correlaciones.",
+                "B": "Evaluaciones.",
+                "C": "Predicciones.",
+                "D": "Asociaciones."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.8 [sesion10Niveldeinvestigacion.pdf]: 'Los resultados permiten hacer comparaciones o evaluaciones descriptivas.'"
+            },
+            {
+              "numero": 15,
+              "pregunta": "El **nivel relacional/correlacional** se usa para saber el grado de relación entre:",
+              "opciones": {
+                "A": "Una variable independiente y una dependiente.",
+                "B": "Un fenómeno y su causa.",
+                "C": "2 o más variables.",
+                "D": "El investigador y el objeto de estudio."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.9 [sesion10Niveldeinvestigacion.pdf]: 'Se usa para saber el grado de relación entre 2 o más variables (se conoce cómo se comporta una variable a través del comportamiento de otras).'"
+            },
+            {
+              "numero": 16,
+              "pregunta": "¿Qué demuestran las pruebas estadísticas en los estudios relacionales, a pesar de que no son estudios de causa y efecto?",
+              "opciones": {
+                "A": "Explicación del fenómeno.",
+                "B": "Estimación probabilística.",
+                "C": "Control metodológico.",
+                "D": "Relación entre diferentes eventos."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.9 [sesion10Niveldeinvestigacion.pdf]: 'las pruebas estadísticas solo demuestran relación entre diferentes eventos;'"
+            },
+            {
+              "numero": 17,
+              "pregunta": "Los estudios relacionales permiten la medición de **__________** o más variables.",
+              "opciones": {
+                "A": "Cero.",
+                "B": "Una.",
+                "C": "Dos.",
+                "D": "Tres."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.9 [sesion10Niveldeinvestigacion.pdf]: 'Permite la medición de 2 o más variables.'"
+            },
+            {
+              "numero": 18,
+              "pregunta": "En el nivel relacional, es posible encontrar estudios de asociación sin relación de:",
+              "opciones": {
+                "A": "Causa-efecto.",
+                "B": "Aproximación.",
+                "C": "Correlación.",
+                "D": "Dependencia."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.9 [sesion10Niveldeinvestigacion.pdf]: 'qui podemos encontrar los estudios de asociación sin relación de dependencia; y las correlaciones espurias.'"
+            },
+            {
+              "numero": 19,
+              "pregunta": "La finalidad del **nivel explicativo** es explicar el comportamiento de una variable en función de:",
+              "opciones": {
+                "A": "La profundidad de los datos.",
+                "B": "Su nivel exploratorio.",
+                "C": "Otra(s).",
+                "D": "Los promedios y frecuencias."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.10 [sesion10Niveldeinvestigacion.pdf]: 'Su finalidad es explicar el comportamiento de una variable en función de otra (s);'"
+            },
+            {
+              "numero": 20,
+              "pregunta": "Un estudio explicativo, al plantear una relación de causa-efecto, tiene que cumplir otros **__________** de causalidad.",
+              "opciones": {
+                "A": "Diseños.",
+                "B": "Criterios.",
+                "C": "Niveles.",
+                "D": "Modelos."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.10 [sesion10Niveldeinvestigacion.pdf]: 'y tiene que cumplir otros criterios de causalidad;'"
+            },
+            {
+              "numero": 21,
+              "pregunta": "¿Qué tipo de control requiere el nivel explicativo?",
+              "opciones": {
+                "A": "Solo metodológico.",
+                "B": "Solo estadístico.",
+                "C": "Tanto metodológico como estadístico.",
+                "D": "Únicamente sobre las variables dependientes."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.10 [sesion10Niveldeinvestigacion.pdf]: 'requiere de control tanto metodológico como estadístico.'"
+            },
+            {
+              "numero": 22,
+              "pregunta": "La estadística multivariada en el nivel explicativo tiene por finalidad descartar asociaciones aleatorias, causales o espurias entre la variable **__________** y **__________**.",
+              "opciones": {
+                "A": "Exploratoria y descriptiva.",
+                "B": "Interventora y predictiva.",
+                "C": "Independiente y dependiente.",
+                "D": "Relacional y causal."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.10 [sesion10Niveldeinvestigacion.pdf]: 'descartar asociaciones aleatorias, cuasales o espurias entre la variable independiente y dependiente.'"
+            },
+            {
+              "numero": 23,
+              "pregunta": "Los estudios explicativos se usan para explicar por qué ocurre un fenómeno y en qué condiciones, lo que implica la exploración, descripción y **__________** de lo investigado.",
+              "opciones": {
+                "A": "Predicción.",
+                "B": "Correlación.",
+                "C": "Aplicación.",
+                "D": "Intervención."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.10 [sesion10Niveldeinvestigacion.pdf]: 'Se usan para explicar por qué ocurre un fenómeno y en qué condiciones (implica la exploración, descripción y correlación de lo investigado).'"
+            },
+            {
+              "numero": 24,
+              "pregunta": "El **nivel predictivo** se encarga de la estimación **__________** de eventos generalmente adversos:",
+              "opciones": {
+                "A": "Descriptiva.",
+                "B": "Probabilística.",
+                "C": "Relacional.",
+                "D": "Explicativa."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.11 [sesion10Niveldeinvestigacion.pdf]: 'Se encarga de la estimación probabilística de eventos generalmente adverso,'"
+            },
+            {
+              "numero": 25,
+              "pregunta": "La línea investigativa en el nivel predictivo debe haber pasado previamente por:",
+              "opciones": {
+                "A": "Los otros niveles.",
+                "B": "El nivel explicativo.",
+                "C": "Los niveles exploratorio y descriptivo.",
+                "D": "El nivel aplicativo."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.11 [sesion10Niveldeinvestigacion.pdf]: 'La línea investigativa debe haber pasado previamente por los otros niveles.'"
+            },
+            {
+              "numero": 26,
+              "pregunta": "Un ejemplo de técnica estadística requerida para la **validación de una prueba** en el nivel predictivo es:",
+              "opciones": {
+                "A": "Estadística descriptiva univariada.",
+                "B": "Regresión simple.",
+                "C": "Alfa de Cronbach.",
+                "D": "Análisis de asociación sin dependencia."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.11 [sesion10Niveldeinvestigacion.pdf]: 'Ejemplo: Validación de una prueba, requiere: Alfa de Cronbach, índice Kappa, ANOVA.'"
+            },
+            {
+              "numero": 27,
+              "pregunta": "El **nivel aplicativo** plantea resolver problemas de la vida cotidiana o a controlar **__________** prácticas.",
+              "opciones": {
+                "A": "Variables.",
+                "B": "Situaciones.",
+                "C": "Causas.",
+                "D": "Hipótesis."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.12 [sesion10Niveldeinvestigacion.pdf]: 'Plante resolver problemas de la visa cotidiana o a controlar situaciones prácticas.'"
+            },
+            {
+              "numero": 28,
+              "pregunta": "El nivel aplicativo puede ser programática o no programática, orientada a la innovación técnica, artesanal e industrial como la propiamente:",
+              "opciones": {
+                "A": "Experimental.",
+                "B": "Científica.",
+                "C": "Descriptiva.",
+                "D": "Correlacional."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.12 [sesion10Niveldeinvestigacion.pdf]: 'como la propiamente científica.'"
+            },
+            {
+              "numero": 29,
+              "pregunta": "Las técnicas estadísticas en el nivel aplicativo apuntan a evaluar el éxito de la **__________** como medidas de impacto sobre los principales indicadores empresariales.",
+              "opciones": {
+                "A": "Predicción.",
+                "B": "Correlación.",
+                "C": "Descripción.",
+                "D": "Intervención."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.12 [sesion10Niveldeinvestigacion.pdf]: 'Las técnicas estadísticas apuntan a evaluar el éxito de la intervención como medidas de impacto sobre los principales indicadores empresariales...'"
+            },
+            {
+              "numero": 30,
+              "pregunta": "¿Cuál de los siguientes es un indicador empresarial evaluado en el nivel aplicativo según el documento?",
+              "opciones": {
+                "A": "Asociación.",
+                "B": "Riesgos.",
+                "C": "Promedios.",
+                "D": "Frecuencias."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.12 [sesion10Niveldeinvestigacion.pdf]: 'como: tasas, riesgos, calidad, productividad, rendimiento.'"
+            },
+            {
+              "numero": 31,
+              "pregunta": "¿Qué es un **diseño de investigación** según la definición de Ander Egg (2011)?",
+              "opciones": {
+                "A": "Es la recopilación de teorías para fundamentar la investigación.",
+                "B": "Es la manipulación de variables independientes para analizar consecuencias.",
+                "C": "Es el esbozo, esquema, prototipo o modelo que indica el conjunto de decisiones, pasos, actividades y tareas necesarias para guiar el proceso de una investigación.",
+                "D": "Es la estrategia para describir un fenómeno en un contexto natural."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.5 [sesion11Disenodeinvestigacion.pdf]: '“El diseño de investigación es el esbozo, esquema, prototipo o modelo que indica el conjunto de decisiones, pasos, actividades y tareas necesarias para guiar el proceso de una investigación\" (Ander Egg, 2011).'"
+            },
+            {
+              "numero": 32,
+              "pregunta": "Según Arias (2012), el diseño de investigación es la **estrategia general** que adopta el investigador para responder al **__________** planteado:",
+              "opciones": {
+                "A": "Marco teórico.",
+                "B": "Problema.",
+                "C": "Nivel.",
+                "D": "Enfoque."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.5 [sesion11Disenodeinvestigacion.pdf]: '“El diseño de investigación es la estrategia general que adopta el investigador para responder al problema planteado\" (Arias, 2012).'"
+            },
+            {
+              "numero": 33,
+              "pregunta": "El diseño de investigación es el plan o estrategia que se desarrolla para obtener la información (datos) con el fin de responder adecuadamente al:",
+              "opciones": {
+                "A": "Manejo estadístico.",
+                "B": "Objetivo general.",
+                "C": "Problema de investigación.",
+                "D": "Marco conceptual."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.6 [sesion11Disenodeinvestigacion.pdf]: 'Es el plan o estrategia que se desarrollo para obtener la información (datos) para una investigación con el fin de responder adecuadamente al problema de investigación.'"
+            },
+            {
+              "numero": 34,
+              "pregunta": "¿Cuáles son las dos categorías principales de diseño de investigación presentadas en el esquema?",
+              "opciones": {
+                "A": "Cuantitativo y Cualitativo.",
+                "B": "Aplicada y Básica.",
+                "C": "Experimental y No experimental.",
+                "D": "Transversales y Longitudinales."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.4 [sesion11Disenodeinvestigacion.pdf]: 'Experimental', 'No experimental'; p.6 [sesion11Disenodeinvestigacion.pdf]: 'Experimental', 'No experimental'"
+            },
+            {
+              "numero": 35,
+              "pregunta": "¿Qué diseños son una categoría de los diseños **Experimentales**?",
+              "opciones": {
+                "A": "Transversales.",
+                "B": "Longitudinales.",
+                "C": "Experimentales puros.",
+                "D": "Descriptivos."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.6 [sesion11Disenodeinvestigacion.pdf]: 'Pre experimentales', 'Experimentales puros', 'Cuasi experimentales'"
+            },
+            {
+              "numero": 36,
+              "pregunta": "¿Cuál de las siguientes no es una categoría o nivel de los diseños experimentales?",
+              "opciones": {
+                "A": "Pre experimentales.",
+                "B": "Cuasi correlacionales.",
+                "C": "Cuasi experimentales.",
+                "D": "Experimentales puros."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.7 [sesion11Disenodeinvestigacion.pdf]: 'Pre experimentales, Cuasi experimentales, Experimentales puros'"
+            },
+            {
+              "numero": 37,
+              "pregunta": "Los diseños experimentales se caracterizan por el **__________** sobre las variables de estudio.",
+              "opciones": {
+                "A": "Análisis.",
+                "B": "Registro.",
+                "C": "Medición.",
+                "D": "Control."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.7 [sesion11Disenodeinvestigacion.pdf]: 'Se caracterizan por el control sobre las variables de estudio,'"
+            },
+            {
+              "numero": 38,
+              "pregunta": "En los diseños experimentales, ¿qué se manipula de manera intencional para analizar las consecuencias?",
+              "opciones": {
+                "A": "La(s) variable(s) dependiente(s) (efectos).",
+                "B": "La(s) variable(s) independiente(s) (causas).",
+                "C": "El contexto natural de estudio.",
+                "D": "El diseño no experimental."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.7 [sesion11Disenodeinvestigacion.pdf]: 'se manipulan de manera intencional, una Ο más variables independientes (causas) para analizar las consecuencias sobre una o más variables dependientes (efectos)'"
+            },
+            {
+              "numero": 39,
+              "pregunta": "La manipulación intencional de variables independientes en un diseño experimental tiene como objetivo analizar las consecuencias sobre las variables:",
+              "opciones": {
+                "A": "Relacionales.",
+                "B": "Exploratorias.",
+                "C": "De control (intervinientes).",
+                "D": "Dependientes (efectos)."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.7 [sesion11Disenodeinvestigacion.pdf]: 'para analizar las consecuencias sobre una o más variables dependientes (efectos)'"
+            },
+            {
+              "numero": 40,
+              "pregunta": "Los diseños **no experimentales** se caracterizan por no tener el **__________** sobre las variables de estudio.",
+              "opciones": {
+                "A": "Propósito.",
+                "B": "Control.",
+                "C": "Costo.",
+                "D": "Rango."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.8 [sesion11Disenodeinvestigacion.pdf]: 'Se caracterizan por no tener el control sobre las variables de estudio,'"
+            },
+            {
+              "numero": 41,
+              "pregunta": "En los diseños no experimentales, las variables se observan y se miden tal como se dan en su:",
+              "opciones": {
+                "A": "Laboratorio.",
+                "B": "Modelo correlacional.",
+                "C": "Contexto natural.",
+                "D": "Grupo de control."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.8 [sesion11Disenodeinvestigacion.pdf]: 'se observa, se mide a las variables tal como se dan en su contexto natural.'"
+            },
+            {
+              "numero": 42,
+              "pregunta": "¿Qué diseños son una categoría de los diseños **No Experimentales**?",
+              "opciones": {
+                "A": "Experimentales puros.",
+                "B": "Pre experimentales.",
+                "C": "Cuasi experimentales.",
+                "D": "Transversales."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.6 [sesion11Disenodeinvestigacion.pdf]: 'Transversales', 'Longitudinales'"
+            },
+            {
+              "numero": 43,
+              "pregunta": "La característica distintiva de un diseño **Transversal** dentro de los diseños no experimentales es la recolección de datos en:",
+              "opciones": {
+                "A": "Varios momentos.",
+                "B": "Diferentes contextos.",
+                "C": "Un solo momento.",
+                "D": "Grupos de comparación."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.8 [sesion11Disenodeinvestigacion.pdf]: 'Recolección de datos en un solo momento'"
+            },
+            {
+              "numero": 44,
+              "pregunta": "Un diseño **Longitudinal** dentro de los no experimentales implica la recolección de datos en:",
+              "opciones": {
+                "A": "Un único contexto.",
+                "B": "Varios momentos.",
+                "C": "Dos variables aisladas.",
+                "D": "Un solo momento."
+              },
+              "respuesta_correcta": "B",
+              "referencia": "p.8 [sesion11Disenodeinvestigacion.pdf]: 'Recolección de datos en varios momentosS'"
+            },
+            {
+              "numero": 45,
+              "pregunta": "En el esquema de la **Metodología de investigación en Ciencias Administrativas**, ¿qué tipo de investigación se relaciona con los niveles Exploratorio, Descriptivo, Relacional, Explicativo, Predictivo y Aplicativo?",
+              "opciones": {
+                "A": "Solo Aplicada.",
+                "B": "Solo Básica.",
+                "C": "Experimental.",
+                "D": "Aplicada y Básica."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.4 [sesion11Disenodeinvestigacion.pdf]: El gráfico muestra corchetes que conectan los niveles Exploratorio a Aplicativo con los Tipos 'Básica' y 'Aplicada'."
+            },
+            {
+              "numero": 46,
+              "pregunta": "En el contexto de la metodología de investigación, ¿cuál de los niveles presentados está en la cima (máxima profundidad) de la jerarquía mostrada?",
+              "opciones": {
+                "A": "Aplicativo.",
+                "B": "Explicativo.",
+                "C": "Exploratorio.",
+                "D": "Predictivo."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.4 [sesion11Disenodeinvestigacion.pdf]: El gráfico muestra los Niveles en una pirámide invertida, donde 'Aplicativo' está en la posición más alta."
+            },
+            {
+              "numero": 47,
+              "pregunta": "El tipo de investigación **Aplicada** está ligado directamente con el nivel:",
+              "opciones": {
+                "A": "Relacional.",
+                "B": "Exploratorio.",
+                "C": "Aplicativo.",
+                "D": "Descriptivo."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.4 [sesion11Disenodeinvestigacion.pdf]: 'Aplicada' se relaciona con 'Aplicativo' mediante un corchete; p.6 [sesion10Niveldeinvestigacion.pdf]: 'Tipos' 'Aplicada, empírica o práctica' se lista junto a 'Niveles' 'Aplicativo'."
+            },
+            {
+              "numero": 48,
+              "pregunta": "La finalidad del nivel descriptivo es describir fenómenos sociales o empresariales en una circunstancia **temporal** y **__________** determinada.",
+              "opciones": {
+                "A": "Económica.",
+                "B": "Estadística.",
+                "C": "Geográfica.",
+                "D": "Metodológica."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "p.8 [sesion10Niveldeinvestigacion.pdf]: 'Descriptivo fenómeno sociales o empresariales en una circunstancia temporal y geográfica determinada.'"
+            },
+            {
+              "numero": 49,
+              "pregunta": "En un estudio descriptivo, las variables se centran en **__________** de eventos y situaciones.",
+              "opciones": {
+                "A": "Predicciones.",
+                "B": "Causas.",
+                "C": "Asociaciones.",
+                "D": "Descripciones."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "p.8 [sesion10Niveldeinvestigacion.pdf]: 'Se centran en descripciones de eventos y situaciones.'"
+            },
+            {
+              "numero": 50,
+              "pregunta": "¿Qué tipo de estudios de asociación se pueden encontrar en el nivel relacional?",
+              "opciones": {
+                "A": "Estudios de asociación sin relación de dependencia y las correlaciones espurias.",
+                "B": "Estudios de causa-efecto con control metodológico.",
+                "C": "Estudios de frecuencias, incidencia y prevalencia.",
+                "D": "Estudios de estimación probabilística de eventos adversos."
+              },
+              "respuesta_correcta": "A",
+              "referencia": "p.9 [sesion10Niveldeinvestigacion.pdf]: 'qui podemos encontrar los estudios de asociación sin relación de dependencia; y las correlaciones espurias.'"
+            }
+          ]
+        }
+      ]
+    }
+  }
