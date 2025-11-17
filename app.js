@@ -776,7 +776,209 @@
   * @param {number} porcentaje - Porcentaje de aciertos
   */
 
- 
+ /**
+ * Muestra mensaje motivacional según el desempeño
+ * 
+ * RANGOS:
+ * - 90-100%: Excelente
+ * - 70-89%: Muy bien
+ * - 50-69%: Buen intento
+ * - 0-49%: Sigue practicando
+ * 
+ * @param {number} porcentaje - Porcentaje de aciertos
+ */
+function mostrarMensajeMotivacional(porcentaje) {
+    const scoreMessage = document.getElementById('scoreMessage');
+    let mensaje = '';
+    let emoji = '';
+    
+    if (porcentaje >= 90) {
+        emoji = '🏆';
+        mensaje = '¡Excelente trabajo! Dominas el tema perfectamente.';
+    } else if (porcentaje >= 70) {
+        emoji = '🎯';
+        mensaje = '¡Muy bien! Tienes un buen conocimiento del tema.';
+    } else if (porcentaje >= 50) {
+        emoji = '💪';
+        mensaje = 'Buen intento. Con un poco más de estudio mejorarás.';
+    } else {
+        emoji = '📚';
+        mensaje = 'Sigue practicando. La práctica hace al maestro.';
+    }
+    
+    scoreMessage.innerHTML = `${emoji} ${mensaje}`;
+}
+
+// ╔══════════════════════════════════════════════════════════════╗
+// ║  🔍 FUNCIONES DE REVISIÓN DE RESPUESTAS                     ║
+// ╚══════════════════════════════════════════════════════════════╝
+
+/**
+ * Muestra la pantalla de revisión con todas las respuestas
+ * 
+ * CARACTERÍSTICAS:
+ * - Muestra resumen rápido (correctas/incorrectas)
+ * - Lista todas las preguntas del quiz
+ * - Para cada pregunta muestra:
+ *   • Texto de la pregunta
+ *   • Respuesta del usuario (con color según correcto/incorrecto)
+ *   • Respuesta correcta (si el usuario falló)
+ *   • Retroalimentación
+ *   • Indicador visual (✓ o ✗)
+ */
+function showReview() {
+    console.log('═══════════════════════════════════════');
+    console.log('🔍 Mostrando revisión de respuestas');
+    console.log('═══════════════════════════════════════');
+    
+    // Cambiar a pantalla de revisión
+    cambiarPantalla('results-screen', 'review-screen');
+    
+    // Renderizar el resumen
+    renderizarResumenRevision();
+    
+    // Renderizar todas las preguntas con sus respuestas
+    renderizarPreguntasRevision();
+}
+
+/**
+ * Renderiza el resumen rápido en la parte superior
+ * Muestra: Correctas X de Y (Z%)
+ */
+function renderizarResumenRevision() {
+    const summaryContainer = document.getElementById('reviewSummary');
+    
+    // Calcular estadísticas
+    let correctas = 0;
+    currentQuiz.forEach((question, index) => {
+        if (userAnswers[index] === question.respuesta_correcta) {
+            correctas++;
+        }
+    });
+    
+    const porcentaje = Math.round((correctas / totalQuestions) * 100);
+    
+    summaryContainer.innerHTML = `
+        ✅ Respuestas correctas: <strong>${correctas}</strong> de <strong>${totalQuestions}</strong> (${porcentaje}%)
+    `;
+}
+
+/**
+ * Renderiza todas las preguntas con sus respuestas
+ * 
+ * Para cada pregunta crea una tarjeta que muestra:
+ * - Número de pregunta e ícono de estado
+ * - Texto de la pregunta
+ * - Respuesta que dio el usuario
+ * - Respuesta correcta (si falló)
+ * - Retroalimentación
+ */
+function renderizarPreguntasRevision() {
+    const container = document.getElementById('reviewQuestionsContainer');
+    container.innerHTML = ''; // Limpiar
+    
+    // Crear tarjeta para cada pregunta
+    currentQuiz.forEach((question, index) => {
+        const userAnswer = userAnswers[index];
+        const correctAnswer = question.respuesta_correcta;
+        const isCorrect = userAnswer === correctAnswer;
+        
+        // Crear tarjeta
+        const card = crearTarjetaRevision(question, index, userAnswer, correctAnswer, isCorrect);
+        container.appendChild(card);
+    });
+    
+    console.log(`✅ ${currentQuiz.length} preguntas renderizadas para revisión`);
+}
+
+/**
+ * Crea una tarjeta individual de revisión para una pregunta
+ * 
+ * @param {Object} question - Datos de la pregunta
+ * @param {number} index - Índice de la pregunta (0-based)
+ * @param {string} userAnswer - Respuesta del usuario ('a', 'b', 'c', etc.)
+ * @param {string} correctAnswer - Respuesta correcta
+ * @param {boolean} isCorrect - Si el usuario acertó
+ * @returns {HTMLElement} Tarjeta completa de revisión
+ */
+function crearTarjetaRevision(question, index, userAnswer, correctAnswer, isCorrect) {
+    const card = document.createElement('div');
+    card.className = `review-question-card ${isCorrect ? 'correct' : 'incorrect'}`;
+    
+    // Ícono de estado
+    const statusIcon = isCorrect ? '✓' : '✗';
+    const statusColor = isCorrect ? '#28a745' : '#dc3545';
+    
+    // Construir HTML de la tarjeta
+    card.innerHTML = `
+        <!-- Encabezado: número + ícono -->
+        <div class="review-question-header">
+            <div class="review-question-number">Pregunta ${index + 1} de ${totalQuestions}</div>
+            <div class="review-question-status" style="color: ${statusColor};">${statusIcon}</div>
+        </div>
+        
+        <!-- Texto de la pregunta -->
+        <div class="review-question-text">${question.pregunta}</div>
+        
+        <!-- Respuestas -->
+        <div class="review-answers">
+            ${renderizarRespuestasUsuario(userAnswer, correctAnswer, question.opciones, isCorrect)}
+        </div>
+        
+        <!-- Retroalimentación -->
+        <div class="review-feedback">
+            📖 ${question.referencia}
+        </div>
+    `;
+    
+    return card;
+}
+
+/**
+ * Genera el HTML de las respuestas (usuario y correcta)
+ * 
+ * @param {string} userAnswer - Respuesta del usuario
+ * @param {string} correctAnswer - Respuesta correcta
+ * @param {Object} opciones - Objeto con todas las opciones {a: "...", b: "..."}
+ * @param {boolean} isCorrect - Si el usuario acertó
+ * @returns {string} HTML de las filas de respuesta
+ */
+function renderizarRespuestasUsuario(userAnswer, correctAnswer, opciones, isCorrect) {
+    let html = '';
+    
+    if (isCorrect) {
+        // Usuario acertó: mostrar solo su respuesta en verde
+        html = `
+            <div class="review-answer-row user-correct">
+                <span class="review-answer-label">✓ Tu respuesta:</span>
+                <span class="review-answer-value">${userAnswer}) ${opciones[userAnswer]}</span>
+            </div>
+        `;
+    } else {
+        // Usuario falló: mostrar su respuesta incorrecta y la correcta
+        html = `
+            <div class="review-answer-row user-incorrect">
+                <span class="review-answer-label">✗ Tu respuesta:</span>
+                <span class="review-answer-value">${userAnswer}) ${opciones[userAnswer]}</span>
+            </div>
+            <div class="review-answer-row correct-answer">
+                <span class="review-answer-label">✓ Correcta:</span>
+                <span class="review-answer-value">${correctAnswer}) ${opciones[correctAnswer]}</span>
+            </div>
+        `;
+    }
+    
+    return html;
+}
+
+/**
+ * Regresa a la pantalla de resultados desde la revisión
+ */
+function backToResults() {
+    console.log('🔙 Regresando a resultados');
+    cambiarPantalla('review-screen', 'results-screen');
+}
+
  /**
   * Reinicia la aplicación y vuelve a la pantalla inicial
   * 

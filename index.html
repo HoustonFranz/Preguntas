@@ -62,18 +62,36 @@
         </div>
 
         <!-- Pantalla de Resultados -->
-        <div class="results-screen">
-            <h2 style="text-align: center; color: #667eea; margin-bottom: 30px;">🎉 ¡Cuestionario Completado!</h2>
-            
-            <div class="stats" id="statsContainer"></div>
-            
-            <div class="score-message" id="scoreMessage"></div>
+<!-- Pantalla de Resultados -->
+<div class="results-screen">
+    <h2 style="text-align: center; color: #667eea; margin-bottom: 30px;">🎉 ¡Cuestionario Completado!</h2>
+    
+    <div class="stats" id="statsContainer"></div>
+    
+    <div class="score-message" id="scoreMessage"></div>
 
-            <div style="text-align: center;">
-                <button class="btn" onclick="restartQuiz()">Nuevo Cuestionario</button>
-            </div>
-        </div>
+    <!-- Botones de acción -->
+    <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+        <button class="btn" onclick="showReview()">📝 Revisar Respuestas</button>
+        <button class="btn" onclick="restartQuiz()">🔄 Nuevo Cuestionario</button>
     </div>
+</div>
+
+<!-- 🆕 NUEVA PANTALLA: Revisión de Respuestas -->
+<div class="review-screen">
+    <h2 style="text-align: center; color: #667eea; margin-bottom: 20px;">📝 Revisión de Respuestas</h2>
+    
+    <!-- Resumen rápido -->
+    <div class="review-summary" id="reviewSummary"></div>
+    
+    <!-- Lista de preguntas revisadas -->
+    <div class="review-questions" id="reviewQuestionsContainer"></div>
+    
+    <!-- Botón para regresar -->
+    <div style="text-align: center; margin-top: 30px;">
+        <button class="btn" onclick="backToResults()">← Volver a Resultados</button>
+    </div>
+</div>
     <script src="config.js"></script>
     <script src="app.js"></script>
 </body>
