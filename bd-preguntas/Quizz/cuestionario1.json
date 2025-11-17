@@ -8,12 +8,12 @@
         "preguntas": [
           {
             "numero": 1,
-            "pregunta": "“El nivel de investigación se refiere al grado de profundidad con que se aborda un fenómeno u objeto de estudio” (Arias, 2012).",
+            "pregunta": "¿Qué menciona (Arias, 2012). sobre el nivel de investigación?",
             "opciones": {
-              "A": "El nivel de investigación se refiere al grado de profundidad con que se aborda un fenómeno u objeto de estudio",
-              "B": "El nivel de investigación se refiere al grado de amplitud con que se estudia un tema general",
-              "C": "El nivel de investigación se refiere al grado de complejidad técnica en la recolección de datos",
-              "D": "El nivel de investigación se refiere al grado de novedad del problema seleccionado"
+              "A": "se refiere al grado de profundidad con que se aborda un fenómeno u objeto de estudio",
+              "B": "se refiere al grado de amplitud con que se estudia un tema general",
+              "C": "se refiere al grado de complejidad técnica en la recolección de datos",
+              "D": "se refiere al grado de novedad del problema seleccionado"
             },
             "respuesta_correcta": "A",
             "referencia": "sesion10Niveldeinvestigacion.pdf p.4: “El nivel de investigación se refiere al grado de profundidad con que se aborda un fenómeno u objeto de estudio” (Arias, 2012)."
@@ -320,7 +320,7 @@
         "preguntas": [
           {
             "numero": 26,
-            "pregunta": "“El diseño de investigación es la estrategia general que adopta el investigador para responder al problema planteado” (Arias, 2012).",
+            "pregunta": "¿Qué dice (Arias, 2012).sobre el diseño de investigación?",
             "opciones": {
               "A": "El diseño de investigación es la estrategia general que adopta el investigador para responder al problema planteado",
               "B": "El diseño de investigación es el resumen de los resultados esperados",
