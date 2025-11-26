@@ -58,7 +58,7 @@
  * Para usar cualquier otra carpeta:
  *   const CONFIG_CARPETA_ACTIVA = 'NombreDeTuCarpeta';
  */
- const CONFIG_CARPETA_ACTIVA = 'prueba-II'; // 👈 CAMBIAR AQUÍ
+ const CONFIG_CARPETA_ACTIVA = 'Prueba-II'; // 👈 CAMBIAR AQUÍ
 
 
  // ╔══════════════════════════════════════════════════════════════╗
