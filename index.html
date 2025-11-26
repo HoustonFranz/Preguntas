@@ -13,11 +13,11 @@
         <!-- Pantalla de Selección de Cuestionarios -->
         <div class="quiz-selection-screen active">
             <p style="text-align: center; color: #666; margin-bottom: 20px;">
-                Selecciona el cuestionario que deseas practicar:
+                Actualizado para el examen de la unidad III:
             </p>
             <div id="quizListContainer" class="quiz-list"></div>
             <p style="text-align: center; color: #666; margin-top: 30px; font-size: 14px;">
-                "Gaona Teacher"
+                "<span id="gaonaTeacherLink" onclick="activarModoVisor()" title="Haz clic para ver todas las preguntas y respuestas">Gaona Teacher</span>"
             </p>
         </div>
 
@@ -62,37 +62,57 @@
         </div>
 
         <!-- Pantalla de Resultados -->
-<!-- Pantalla de Resultados -->
-<div class="results-screen">
-    <h2 style="text-align: center; color: #667eea; margin-bottom: 30px;">🎉 ¡Cuestionario Completado!</h2>
-    
-    <div class="stats" id="statsContainer"></div>
-    
-    <div class="score-message" id="scoreMessage"></div>
+        <div class="results-screen">
+            <h2 style="text-align: center; color: #667eea; margin-bottom: 30px;">🎉 ¡Cuestionario Completado!</h2>
+            
+            <div class="stats" id="statsContainer"></div>
+            
+            <div class="score-message" id="scoreMessage"></div>
 
-    <!-- Botones de acción -->
-    <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-        <button class="btn" onclick="showReview()">📝 Revisar Respuestas</button>
-        <button class="btn" onclick="restartQuiz()">🔄 Nuevo Cuestionario</button>
-    </div>
-</div>
+            <!-- Botones de acción -->
+            <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+                <button class="btn" onclick="showReview()">🔍 Revisar Respuestas</button>
+                <button class="btn" onclick="restartQuiz()">🔄 Nuevo Cuestionario</button>
+            </div>
+        </div>
 
-<!-- 🆕 NUEVA PANTALLA: Revisión de Respuestas -->
-<div class="review-screen">
-    <h2 style="text-align: center; color: #667eea; margin-bottom: 20px;">📝 Revisión de Respuestas</h2>
-    
-    <!-- Resumen rápido -->
-    <div class="review-summary" id="reviewSummary"></div>
-    
-    <!-- Lista de preguntas revisadas -->
-    <div class="review-questions" id="reviewQuestionsContainer"></div>
-    
-    <!-- Botón para regresar -->
-    <div style="text-align: center; margin-top: 30px;">
-        <button class="btn" onclick="backToResults()">← Volver a Resultados</button>
+        <!-- Pantalla: Revisión de Respuestas -->
+        <div class="review-screen">
+            <h2 style="text-align: center; color: #667eea; margin-bottom: 20px;">🔍 Revisión de Respuestas</h2>
+            
+            <!-- Resumen rápido -->
+            <div class="review-summary" id="reviewSummary"></div>
+            
+            <!-- Lista de preguntas revisadas -->
+            <div class="review-questions" id="reviewQuestionsContainer"></div>
+            
+            <!-- Botón para regresar -->
+            <div style="text-align: center; margin-top: 30px;">
+                <button class="btn" onclick="backToResults()">← Volver a Resultados</button>
+            </div>
+        </div>
+
+        <!-- 🆕 NUEVA PANTALLA: Visor Gaona Teacher -->
+        <div class="viewer-screen">
+            <div class="viewer-header">
+                <h2>🔍 Visor de Preguntas y Respuestas</h2>
+                <p style="color: #666; margin-top: 10px;">
+                    Selecciona un cuestionario para visualizar todas sus preguntas y respuestas
+                </p>
+            </div>
+            
+            <div id="viewerQuizList" class="viewer-quiz-list"></div>
+            
+            <div id="viewerContent" class="viewer-content"></div>
+            
+            <div style="text-align: center; margin-top: 30px;">
+                <button class="btn btn-back" onclick="cerrarModoVisor()">← Volver al Menú Principal</button>
+            </div>
+        </div>
     </div>
-</div>
+
     <script src="config.js"></script>
     <script src="app.js"></script>
+    <script src="viewer.js"></script>
 </body>
 </html>

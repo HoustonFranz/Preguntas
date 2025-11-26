@@ -1,0 +1,401 @@
+{
+  "cuestionario": {
+    "titulo": "Metodología de Investigación - Unidad II",
+    "descripcion": "Cuestionario de 50 preguntas basado en las semanas 9 a 12",
+    "secciones": [
+      {
+        "nombre": "Semana 9 - Tipos de investigación",
+        "preguntas": [
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "¿Qué se debe considerar para establecer los tipos de investigación según la semana 9?",
+            "palabras_clave": {
+              "palabras": ["enfoques", "investigadores", "problemas", "objetivo"],
+              "pesos": [2, 2, 1, 1],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 9, diapositiva 4"
+          },
+          {
+            "tipo": "multiple_choice",
+            "pregunta": "Según la clasificación por su finalidad, ¿cómo se denomina la investigación que busca generalizar conocimientos teóricos?",
+            "opciones": {
+              "A": "Investigación aplicada",
+              "B": "Investigación básica",
+              "C": "Investigación empírica",
+              "D": "Investigación práctica"
+            },
+            "respuesta_correcta": "B",
+            "referencia": "Semana 9, diapositiva 6"
+          },
+          {
+            "tipo": "multiple_choice",
+            "pregunta": "¿Cuál es el tipo de investigación que se caracteriza por aplicar conocimientos para resolver un problema determinado?",
+            "opciones": {
+              "A": "Investigación formal",
+              "B": "Investigación pura",
+              "C": "Investigación aplicada",
+              "D": "Investigación documental"
+            },
+            "respuesta_correcta": "C",
+            "referencia": "Semana 9, diapositiva 6"
+          },
+          {
+            "tipo": "true_false",
+            "pregunta": "La investigación básica, pura o formal es abstracta y busca generalizar conocimientos teóricos.",
+            "respuesta_correcta": "Verdadero",
+            "referencia": "Semana 9, diapositiva 6"
+          },
+          {
+            "tipo": "true_false",
+            "pregunta": "La investigación aplicada busca generalizar teorías y principios sin enfocarse en problemas concretos.",
+            "respuesta_correcta": "Falso",
+            "referencia": "Semana 9, diapositiva 6"
+          },
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "Indique los tipos de investigación según su profundidad mencionados en la semana 9.",
+            "palabras_clave": {
+              "palabras": ["exploratoria", "descriptiva", "correlacional", "explicativa"],
+              "pesos": [2, 2, 2, 2],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 9, diapositiva 5"
+          },
+          {
+            "tipo": "single_word",
+            "pregunta": "Según la semana 9, la investigación aplicada también se denomina investigación ________.",
+            "respuesta_correcta": "empírica",
+            "sinonimos": [],
+            "referencia": "Semana 9, diapositiva 6"
+          },
+          {
+            "tipo": "single_word",
+            "pregunta": "La investigación básica también se denomina investigación ________.",
+            "respuesta_correcta": "pura",
+            "sinonimos": [],
+            "referencia": "Semana 9, diapositiva 6"
+          },
+          {
+            "tipo": "fill_blank",
+            "pregunta": "Según la semana 9, la investigación básica es el fundamento para las investigaciones prácticas, pero no las __________.",
+            "palabras_clave": {
+              "palabras": ["desarrolla"],
+              "pesos": [3],
+              "umbral_minimo": 1
+            },
+            "referencia": "Semana 9, diapositiva 6"
+          },
+          {
+            "tipo": "open_ended",
+            "pregunta": "Describa la relación entre investigación básica y aplicada según la semana 9.",
+            "palabras_clave": {
+              "palabras": ["fundamento", "aplicación", "conocimientos"],
+              "pesos": [2, 2, 1],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 9, diapositiva 6"
+          }
+        ]
+      },
+
+      {
+        "nombre": "Semana 10 - Nivel de investigación",
+        "preguntas": [
+          {
+            "tipo": "single_word",
+            "pregunta": "Según Arias (2012), el nivel de investigación se refiere al grado de __________ con que se aborda un fenómeno.",
+            "respuesta_correcta": "profundidad",
+            "sinonimos": [],
+            "referencia": "Semana 10, diapositiva 4"
+          },
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "Según Valderrama (2017), ¿a qué se refiere el nivel de una investigación?",
+            "palabras_clave": {
+              "palabras": ["grado", "conocimiento", "investigador", "problema"],
+              "pesos": [3, 3, 1, 1],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 10, diapositiva 5"
+          },
+          {
+            "tipo": "multiple_choice",
+            "pregunta": "¿Cuál es el primer nivel de investigación según la clasificación presentada?",
+            "opciones": {
+              "A": "Descriptivo",
+              "B": "Relacional",
+              "C": "Exploratorio",
+              "D": "Explicativo"
+            },
+            "respuesta_correcta": "C",
+            "referencia": "Semana 10, diapositiva 6"
+          },
+          {
+            "tipo": "multiple_choice",
+            "pregunta": "¿Cuál de los siguientes niveles consiste en describir fenómenos sociales o empresariales?",
+            "opciones": {
+              "A": "Exploratorio",
+              "B": "Descriptivo",
+              "C": "Predictivo",
+              "D": "Relacional"
+            },
+            "respuesta_correcta": "B",
+            "referencia": "Semana 10, diapositiva 8"
+          },
+          {
+            "tipo": "true_false",
+            "pregunta": "Los estudios exploratorios requieren manejo estadístico.",
+            "respuesta_correcta": "Falso",
+            "referencia": "Semana 10, diapositiva 7"
+          },
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "En el nivel exploratorio, se plantea cuando existe un ______________",
+            "palabras_clave": {
+              "palabras": ["cuerpo", "teórico", "suficiente"],
+              "pesos": [2, 2, 1],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 10, diapositiva 7"
+          },
+          {
+            "tipo": "fill_blank",
+            "pregunta": "En los estudios descriptivos, las variables se miden y presentan los resultados de manera __________ e __________.",
+            "palabras_clave": {
+              "palabras": ["aislada", "independiente"],
+              "pesos": [2, 2],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 10, diapositiva 8"
+          },
+          {
+            "tipo": "open_ended",
+            "pregunta": "Explique el objetivo de un estudio relacional según la semana 10.",
+            "palabras_clave": {
+              "palabras": ["grado", "relación", "variables"],
+              "pesos": [2, 2, 2],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 10, diapositiva 9"
+          },
+          {
+            "tipo": "open_ended",
+            "pregunta": "Según la semana 10, ¿qué finalidad tiene un estudio explicativo?",
+            "palabras_clave": {
+              "palabras": ["explicar", "comportamiento", "variable", "causa-efecto"],
+              "pesos": [2, 2, 2, 2],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 10, diapositiva 10"
+          },
+          {
+            "tipo": "single_word",
+            "pregunta": "El nivel orientado a estimar probabilísticamente eventos se denomina nivel __________.",
+            "respuesta_correcta": "predictivo",
+            "sinonimos": [],
+            "referencia": "Semana 10, diapositiva 11"
+          }
+        ]
+      },
+
+      {
+        "nombre": "Semana 11 - Diseño de investigación",
+        "preguntas": [
+          {
+            "tipo": "single_word",
+            "pregunta": "Según Arias (2012), el diseño de investigación es la estrategia general que adopta el investigador para responder al __________ planteado.",
+            "respuesta_correcta": "problema",
+            "sinonimos": [],
+            "referencia": "Semana 11, diapositiva 5"
+          },
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "Indique qué elementos menciona Ander Egg (2011) sobre el diseño de investigación.",
+            "palabras_clave": {
+              "palabras": ["decisiones", "actividades", "tareas"],
+              "pesos": [2, 2, 2],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 11, diapositiva 5"
+          },
+          {
+            "tipo": "multiple_choice",
+            "pregunta": "¿Cuál de los siguientes corresponde a un diseño experimental?",
+            "opciones": {
+              "A": "Diseño longitudinal",
+              "B": "Diseño pre experimental",
+              "C": "Diseño transversal",
+              "D": "Diseño observacional"
+            },
+            "respuesta_correcta": "B",
+            "referencia": "Semana 11, diapositiva 7"
+          },
+          {
+            "tipo": "multiple_choice",
+            "pregunta": "¿Qué caracteriza a los diseños experimentales según la semana 11?",
+            "opciones": {
+              "A": "Observación sin intervención",
+              "B": "Control y manipulación de variables",
+              "C": "Recopilación de datos en un momento único",
+              "D": "Recolección de datos sin medición"
+            },
+            "respuesta_correcta": "B",
+            "referencia": "Semana 11, diapositiva 7"
+          },
+          {
+            "tipo": "true_false",
+            "pregunta": "Los diseños experimentales manipulan variables independientes para analizar efectos sobre las variables dependientes.",
+            "respuesta_correcta": "Verdadero",
+            "referencia": "Semana 11, diapositiva 7"
+          },
+          {
+            "tipo": "true_false",
+            "pregunta": "Los diseños no experimentales manipulan variables en su contexto natural.",
+            "respuesta_correcta": "Falso",
+            "referencia": "Semana 11, diapositiva 8"
+          },
+          {
+            "tipo": "fill_blank",
+            "pregunta": "En un diseño no experimental transversal, la recolección de datos se realiza en un solo __________.",
+            "palabras_clave": {
+              "palabras": ["momento"],
+              "pesos": [3],
+              "umbral_minimo": 1
+            },
+            "referencia": "Semana 11, diapositiva 8"
+          },
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "Explique la característica principal de los diseños longitudinales.",
+            "palabras_clave": {
+              "palabras": ["varios", "momentos", "tiempo"],
+              "pesos": [2, 2, 1],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 11, diapositiva 8"
+          },
+          {
+            "tipo": "open_ended",
+            "pregunta": "Describa en qué consiste un diseño experimental puro según la clasificación presentada.",
+            "palabras_clave": {
+              "palabras": ["manipulación", "control", "variables", "independientes"],
+              "pesos": [2, 2, 2, 1],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 11, diapositiva 7"
+          },
+          {
+            "tipo": "open_ended",
+            "pregunta": "Explique qué implica el diseño de investigación como guía del proceso científico.",
+            "palabras_clave": {
+              "palabras": ["plan", "estrategia", "información", "problema"],
+              "pesos": [2, 2, 1, 1],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 11, diapositiva 6"
+          }
+        ]
+      },
+    
+      {
+        "nombre": "Semana 12 - Población, muestra y muestreo",
+        "preguntas": [
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "Según Arias (2012), ¿qué es una población?",
+            "palabras_clave": {
+              "palabras": ["conjunto", "finito", "infinito", "elementos"],
+              "pesos": [3, 1, 1, 2],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 12, diapositiva 4"
+          },
+          {
+            "tipo": "single_word",
+            "pregunta": "La población se simboliza con la letra __________.",
+            "respuesta_correcta": "N",
+            "sinonimos": [],
+            "referencia": "Semana 12, diapositiva 8"
+          },
+          {
+            "tipo": "multiple_choice",
+            "pregunta": "Una población es el conjunto de todas las unidades de __________.",
+            "opciones": {
+              "A": "estudio",
+              "B": "análisis",
+              "C": "intervención",
+              "D": "muestra"
+            },
+            "respuesta_correcta": "B",
+            "referencia": "Semana 12, diapositiva 5"
+          },
+          {
+            "tipo": "true_false",
+            "pregunta": "Un censo es el recuento de todos los elementos de una población.",
+            "respuesta_correcta": "Verdadero",
+            "referencia": "Semana 12, diapositiva 7"
+          },
+          {
+            "tipo": "fill_blank",
+            "pregunta": "La población es el conjunto de individuos que tienen una o más __________ en común.",
+            "palabras_clave": {
+              "palabras": ["propiedades"],
+              "pesos": [3],
+              "umbral_minimo": 1
+            },
+            "referencia": "Semana 12, diapositiva 5"
+          },
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "¿Qué afirma Tamayo (1997) sobre la población?",
+            "palabras_clave": {
+              "palabras": ["totalidad", "fenómeno", "característica"],
+              "pesos": [2, 2, 1],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 12, diapositiva 6"
+          },
+          {
+            "tipo": "multiple_keywords",
+            "pregunta": "Según la semana 12, ¿qué es una muestra?",
+            "palabras_clave": {
+              "palabras": ["subconjunto", "representar", "población"],
+              "pesos": [2, 2, 2],
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Semana 12, diapositiva 10"
+          },
+          {
+            "tipo": "multiple_choice",
+            "pregunta": "Según Tamayo (1997), la muestra es el grupo de individuos que se toma de la población para estudiar un fenómeno __________.",
+            "opciones": {
+              "A": "estadístico",
+              "B": "social",
+              "C": "científico",
+              "D": "experimental"
+            },
+            "respuesta_correcta": "A",
+            "referencia": "Semana 12, diapositiva 11"
+          },
+          {
+            "tipo": "true_false",
+            "pregunta": "La muestra es siempre un subconjunto de la población.",
+            "respuesta_correcta": "Verdadero",
+            "referencia": "Semana 12, diapositiva 18"
+          },
+          {
+            "tipo": "fill_blank",
+            "pregunta": "La muestra descansa en el principio de que las partes __________ al todo y, por tal, refleja las características que definen la población.",
+            "palabras_clave": {
+              "palabras": ["representan"],
+              "pesos": [3],
+              "umbral_minimo": 1
+            },
+            "referencia": "Semana 12, diapositiva 16"
+          }
+        ]
+      }
+    ]
+  }
+}

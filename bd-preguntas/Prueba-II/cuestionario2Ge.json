@@ -1,0 +1,521 @@
+{
+    "cuestionario": {
+      "titulo": "Examen Parcial: Metodología de la Investigación (Semanas 9-12)",
+      "descripcion": "Evaluación rigurosa sobre tipos, niveles, diseño de investigación, población y muestra.",
+      "secciones": [
+        {
+          "nombre": "I. Fundamentos y Tipos de Investigación",
+          "preguntas": [
+            {
+              "tipo": "true_false",
+              "pregunta": "La investigación básica, pura o formal, es abstracta y busca generalizar conocimientos teóricos, principios y leyes.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "Semana 9, diapositiva 6 - Tipo de investigación"
+            },
+            {
+              "tipo": "true_false",
+              "pregunta": "La investigación aplicada se basa en la investigación básica.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "Semana 9, diapositiva 6 - Tipo de investigación"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cómo se clasifica la investigación según su alcance temporal?",
+              "opciones": {
+                "A": "Transversal y horizontal",
+                "B": "Transversal y longitudinal",
+                "C": "Sincrónica y diacrónica",
+                "D": "Temporal y atemporal"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 9, diapositiva 5 - Tipo de investigación (Punto II)"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "Según su finalidad, la investigación que es concreta y busca la aplicación de los conocimientos en resolver algún problema determinado es la...",
+              "respuesta_correcta": "aplicada",
+              "sinonimos": ["empírica", "práctica"],
+              "referencia": "Semana 9, diapositiva 6 - Tipo de investigación (Punto II)"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "Según la clasificación por su profundidad, ¿cuáles son los cuatro tipos de investigación mencionados?",
+              "palabras_clave": {
+                "palabras": ["exploratoria", "descriptiva", "correlacional", "explicativa"],
+                "pesos": [2, 2, 2, 2],
+                "umbral_minimo": 0.75
+              },
+              "referencia": "Semana 9, diapositiva 5 - Tipo de investigación (Punto VIII)"
+            }
+          ]
+        },
+        {
+          "nombre": "II. Diseño de Investigación",
+          "preguntas": [
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "Defina diseño de investigación según (Arias, 2012).",
+              "palabras_clave": {
+                "palabras": ["estrategia", "general", "adopta", "investigador", "responder", "problema"],
+                "pesos": [3, 2, 2, 2, 2, 3],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 10, diapositiva 4 - Diseño de investigación"
+            },
+            {
+              "tipo": "fill_blank",
+              "pregunta": "Según (Ander Egg, 2011), el diseño de investigación es el esbozo, esquema, prototipo o modelo que indica el conjunto de ________________ necesarias para guiar el proceso de una investigación.",
+              "palabras_clave": {
+                "palabras": ["decisiones", "pasos", "actividades", "tareas"],
+                "pesos": [2, 2, 2, 2],
+                "umbral_minimo": 0.75
+              },
+              "referencia": "Semana 10, diapositiva 4 - Diseño de investigación"
+            },
+            {
+              "tipo": "true_false",
+              "pregunta": "Los diseños experimentales se caracterizan por no tener el control sobre las variables de estudio y no se manipulan.",
+              "respuesta_correcta": "Falso",
+              "referencia": "Semana 10, diapositiva 7 - Diseños experimentales vs no experimentales"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuáles son las tres categorías o niveles de los diseños experimentales?",
+              "opciones": {
+                "A": "Pre experimentales, cuasi experimentales y experimentales puros",
+                "B": "Pre experimentales, experimentales medios y experimentales puros",
+                "C": "No experimentales, cuasi experimentales y experimentales",
+                "D": "Transversales, longitudinales y experimentales"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Semana 10, diapositiva 7 - Diseños experimentales"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "En los diseños experimentales, se manipulan de manera intencional una o más variables independientes (causas) para analizar las consecuencias sobre una o más variables...",
+              "respuesta_correcta": "dependientes",
+              "sinonimos": ["efectos"],
+              "referencia": "Semana 10, diapositiva 7 - Diseños experimentales"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Qué caracteriza a los diseños no experimentales?",
+              "palabras_clave": {
+                "palabras": ["no", "tener", "control", "variables", "observa", "contexto", "natural"],
+                "pesos": [1, 1, 3, 2, 3, 2, 2],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 10, diapositiva 8 - Diseños no experimentales"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "¿En qué momento se recolectan los datos en un diseño transversal?",
+              "opciones": {
+                "A": "En un solo momento",
+                "B": "En varios momentos",
+                "C": "Al final de la investigación",
+                "D": "Antes y después del experimento"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Semana 10, diapositiva 8 - Diseño Transversal"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "El diseño de investigación que realiza la recolección de datos en varios momentos se denomina...",
+              "respuesta_correcta": "longitudinal",
+              "referencia": "Semana 10, diapositiva 8 - Diseño Longitudinal"
+            }
+          ]
+        },
+        {
+          "nombre": "III. Niveles de Investigación",
+          "preguntas": [
+            {
+              "tipo": "fill_blank",
+              "pregunta": "Según (Valderrama, 2017), el nivel de investigación se refiere al grado de ________________ que posee el investigador en relación con el problema.",
+              "palabras_clave": {
+                "palabras": ["conocimiento"],
+                "pesos": [5],
+                "umbral_minimo": 1.0
+              },
+              "referencia": "Semana 11, diapositiva 5 - Nivel de investigación"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Cuándo se debe hacer un estudio exploratorio?",
+              "palabras_clave": {
+                "palabras": ["tema", "escasamente", "estudiado", "dudas", "no", "abordado"],
+                "pesos": [2, 3, 3, 2, 1, 2],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 11, diapositiva 7 - Nivel exploratorio"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "En el nivel exploratorio, se trata de una descripción y análisis teórico, por lo que no se requiere de manejo...",
+              "respuesta_correcta": "estadístico",
+              "referencia": "Semana 11, diapositiva 7 - Nivel exploratorio"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Cuál es la finalidad de un estudio descriptivo?",
+              "palabras_clave": {
+                "palabras": ["describir", "estimar", "parámetros"],
+                "pesos": [3, 3, 2],
+                "umbral_minimo": 0.7
+              },
+              "referencia": "Semana 11, diapositiva 8 - Nivel descriptivo"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué característica distingue a los estudios descriptivos de los exploratorios respecto a las variables?",
+              "opciones": {
+                "A": "Ya existe una variable seleccionada",
+                "B": "No hay variables definidas",
+                "C": "Se manipulan las variables",
+                "D": "Se relacionan dos variables"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Semana 11, diapositiva 8 - Nivel descriptivo"
+            },
+            {
+              "tipo": "true_false",
+              "pregunta": "Los estudios relacionales/correlacionales son estudios de causa y efecto.",
+              "respuesta_correcta": "Falso",
+              "referencia": "Semana 11, diapositiva 9 - Nivel relacional"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Para qué se usa un estudio relacional?",
+              "palabras_clave": {
+                "palabras": ["saber", "grado", "relación", "entre", "variables"],
+                "pesos": [1, 2, 3, 1, 2],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 11, diapositiva 9 - Nivel relacional"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Cuál es la finalidad del nivel explicativo?",
+              "palabras_clave": {
+                "palabras": ["explicar", "comportamiento", "variable", "función", "otra"],
+                "pesos": [3, 2, 2, 1, 1],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 11, diapositiva 10 - Nivel explicativo"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "El nivel explicativo plantea una relación de...",
+              "respuesta_correcta": "causa-efecto",
+              "sinonimos": ["causa efecto", "causalidad"],
+              "referencia": "Semana 11, diapositiva 10 - Nivel explicativo"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿De qué se encarga el nivel predictivo?",
+              "palabras_clave": {
+                "palabras": ["estimación", "probabilística", "eventos", "generalmente", "adversos"],
+                "pesos": [3, 3, 2, 1, 2],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 11, diapositiva 11 - Nivel predictivo"
+            },
+            {
+              "tipo": "fill_blank",
+              "pregunta": "El nivel aplicativo plantea resolver ____________________ o a controlar situaciones prácticas.",
+              "palabras_clave": {
+                "palabras": ["problemas", "vida", "cotidiana"],
+                "pesos": [3, 1, 1],
+                "umbral_minimo": 0.8
+              },
+              "referencia": "Semana 11, diapositiva 12 - Nivel aplicativo"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué tipos de estudios encontramos en el nivel descriptivo?",
+              "opciones": {
+                "A": "Frecuencias, incidencia y prevalencia",
+                "B": "Causa, efecto y control",
+                "C": "Innovación técnica y artesanal",
+                "D": "Validación de pruebas y ANOVA"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Semana 11, diapositiva 8 - Nivel descriptivo"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Qué características tienen los estudios exploratorios?",
+              "palabras_clave": {
+                "palabras": ["parten", "tema", "investigación", "general", "no", "profundizado"],
+                "pesos": [1, 2, 2, 2, 1, 3],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 11, diapositiva 7 - Nivel exploratorio"
+            }
+          ]
+        },
+        {
+          "nombre": "IV. Población y Muestra",
+          "preguntas": [
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "Según (Arias, 2012), ¿qué es la población?",
+              "palabras_clave": {
+                "palabras": ["conjunto", "finito", "infinito", "elementos", "características", "comunes"],
+                "pesos": [2, 2, 2, 2, 2, 2],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 12, diapositiva 4 - Definición de Población"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "Según Tamayo y Tamayo (1997), ¿cómo se define la población?",
+              "palabras_clave": {
+                "palabras": ["totalidad", "fenómeno", "estudiar", "unidades", "posee", "característica", "común"],
+                "pesos": [3, 2, 1, 2, 1, 2, 1],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 12, diapositiva 6 - Definición de Población"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "La población se denota con la letra...",
+              "respuesta_correcta": "N",
+              "referencia": "Semana 12, diapositiva 8 - Notación de población"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "El número de granos de arena es un ejemplo de clase de población...",
+              "respuesta_correcta": "infinita",
+              "referencia": "Semana 12, diapositiva 9 - Clases de poblaciones"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "El número de habitantes de una ciudad es un ejemplo de clase de población...",
+              "respuesta_correcta": "finita",
+              "referencia": "Semana 12, diapositiva 9 - Clases de poblaciones"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Qué es la muestra según Tamayo (1997)?",
+              "palabras_clave": {
+                "palabras": ["grupo", "individuos", "toma", "población", "estudiar", "fenómeno", "estadístico"],
+                "pesos": [2, 2, 1, 2, 1, 2, 1],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 12, diapositiva 11 - Definición de Muestra"
+            },
+            {
+              "tipo": "fill_blank",
+              "pregunta": "Cuando seleccionamos algunos elementos con la intención de averiguar algo sobre una población determinada, nos referimos a este grupo de elementos como ______________.",
+              "palabras_clave": {
+                "palabras": ["muestra"],
+                "pesos": [5],
+                "umbral_minimo": 1.0
+              },
+              "referencia": "Semana 12, diapositiva 12 - Definición de Muestra"
+            },
+            {
+              "tipo": "fill_blank",
+              "pregunta": "La muestra descansa en el principio de que las partes ____________ al todo y, por tal, refleja las características que definen la población de la que fue extraída.",
+              "palabras_clave": {
+                "palabras": ["representan"],
+                "pesos": [5],
+                "umbral_minimo": 1.0
+              },
+              "referencia": "Semana 12, diapositiva 16 - Principio de la muestra"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué indica el hecho de que las partes representan al todo en una muestra?",
+              "opciones": {
+                "A": "Que es finita",
+                "B": "Que es representativa",
+                "C": "Que es aleatoria",
+                "D": "Que es experimental"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 12, diapositiva 16 - Representatividad"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "Según la diapositiva 7 de la Semana 12, ¿qué es un censo?",
+              "opciones": {
+                "A": "El recuento de una muestra representativa",
+                "B": "El recuento de todos los elementos de una población",
+                "C": "El análisis de variables infinitas",
+                "D": "Un estudio de caso específico"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 12, diapositiva 7 - Definición de Censo"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "La muestra se denota con la letra...",
+              "respuesta_correcta": "n",
+              "referencia": "Semana 12, diapositiva 17 - Notación de muestra"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿De qué depende la exactitud de la información recolectada?",
+              "palabras_clave": {
+                "palabras": ["forma", "seleccionada", "muestra"],
+                "pesos": [2, 3, 3],
+                "umbral_minimo": 0.7
+              },
+              "referencia": "Semana 12, diapositiva 14 - Exactitud de información"
+            },
+            {
+              "tipo": "true_false",
+              "pregunta": "La muestra siempre es una parte de la población.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "Semana 12, diapositiva 18 - Relación Muestra-Población"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿De qué depende la validez de la generalización?",
+              "palabras_clave": {
+                "palabras": ["validez", "tamaño", "muestra"],
+                "pesos": [3, 2, 3],
+                "umbral_minimo": 0.8
+              },
+              "referencia": "Semana 12, diapositiva 17 - Validez de generalización"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "Según (Arias, 2012), ¿por qué queda delimitada la población?",
+              "palabras_clave": {
+                "palabras": ["problema", "objetivos", "estudio"],
+                "pesos": [3, 3, 2],
+                "umbral_minimo": 0.7
+              },
+              "referencia": "Semana 12, diapositiva 4 - Delimitación de población"
+            },
+            {
+              "tipo": "fill_blank",
+              "pregunta": "La población es el conjunto de individuos que tienen una o más propiedades en común, se encuentran en un espacio o territorio y varían en el ______________.",
+              "palabras_clave": {
+                "palabras": ["transcurso", "tiempo"],
+                "pesos": [2, 2],
+                "umbral_minimo": 0.8
+              },
+              "referencia": "Semana 12, diapositiva 5 - Características de población"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "Si tienes varias poblaciones, entonces tendrás...",
+              "opciones": {
+                "A": "Una sola muestra grande",
+                "B": "Varias muestras",
+                "C": "Ninguna muestra",
+                "D": "Un censo obligatorio"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 12, diapositiva 18 - Varias muestras"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "Según Tamayo y Tamayo (1997), ¿qué da origen a los datos de la investigación?",
+              "palabras_clave": {
+                "palabras": ["característica", "común", "estudia"],
+                "pesos": [3, 2, 2],
+                "umbral_minimo": 0.7
+              },
+              "referencia": "Semana 12, diapositiva 6 - Origen de datos"
+            },
+            {
+              "tipo": "single_word",
+              "pregunta": "Cuando no es posible medir cada uno de los individuos de una población se toma una muestra...",
+              "respuesta_correcta": "representativa",
+              "referencia": "Semana 12, diapositiva 15 - Muestra representativa"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Qué es la población según la diapositiva 7 de la Semana 12?",
+              "palabras_clave": {
+                "palabras": ["conjunto", "cosas", "concuerdan", "serie", "determinada", "especificaciones"],
+                "pesos": [2, 1, 3, 1, 1, 3],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 12, diapositiva 7 - Definición alternativa de población"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué nombre recibe el subconjunto que representa apropiadamente a toda la población?",
+              "opciones": {
+                "A": "Universo",
+                "B": "Muestra",
+                "C": "Elemento",
+                "D": "Unidad de análisis"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 12, diapositiva 10 - Subconjunto"
+            },
+            {
+              "tipo": "multiple_choice",
+              "pregunta": "Según la diapositiva 8 de la semana 12, la población es el conjunto de todos los individuos en los que se desea investigar algunas...",
+              "opciones": {
+                "A": "Propiedades",
+                "B": "Variables",
+                "C": "Cantidades",
+                "D": "Frecuencias"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Semana 12, diapositiva 8 - Propiedades"
+            },
+            {
+              "tipo": "fill_blank",
+              "pregunta": "Esperamos que lo que averiguamos en la ____________ sea cierto para la población en su conjunto.",
+              "palabras_clave": {
+                "palabras": ["muestra"],
+                "pesos": [5],
+                "umbral_minimo": 1.0
+              },
+              "referencia": "Semana 12, diapositiva 13 - Inferencia"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "La muestra (denotada como \"n\") es el conjunto de...",
+              "palabras_clave": {
+                "palabras": ["casos", "extraídos", "población"],
+                "pesos": [3, 3, 2],
+                "umbral_minimo": 0.7
+              },
+              "referencia": "Semana 12, diapositiva 17 - Definición n"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "Según la diapositiva 6 de la Semana 12, la población es el conjunto de todas las...",
+              "palabras_clave": {
+                "palabras": ["unidades", "análisis"],
+                "pesos": [4, 4],
+                "umbral_minimo": 0.8
+              },
+              "referencia": "Semana 12, diapositiva 5 - Unidades de análisis"
+            },
+            {
+              "tipo": "multiple_keywords",
+              "pregunta": "¿Con qué fin se desarrolla el diseño de investigación?",
+              "palabras_clave": {
+                "palabras": ["responder", "adecuadamente", "problema", "investigación"],
+                "pesos": [2, 2, 2, 2],
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Semana 10, diapositiva 7 - Categorías experimentales"
+            },
+            {
+              "tipo": "fill_blank",
+              "pregunta": "El método de obtención de la información en estudios exploratorios puede ser a partir de ________________ directa o indirecta.",
+              "palabras_clave": {
+                "palabras": ["observación"],
+                "pesos": [5],
+                "umbral_minimo": 1.0
+              },
+              "referencia": "Semana 11, diapositiva 7 - Método exploratorio"
+            }
+          ]
+        }
+      ]
+    }
+  }
