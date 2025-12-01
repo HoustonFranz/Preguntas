@@ -1,0 +1,727 @@
+{
+    "cuestionario": {
+      "titulo": "Cuestionario de Rigor Conceptual: Técnicas e Instrumentos de Investigación",
+      "autor": "Docente Universitario, IQ 157",
+      "descripcion": "Cuestionario diseñado para evaluar la memorización literal de conceptos fundamentales sobre técnicas e instrumentos de investigación según el material de estudio.",
+      "secciones": [
+        {
+          "nombre": "I. Fundamentos y Perspectivas Metodológicas",
+          "rango_preguntas": "1-15",
+          "preguntas": [
+            {
+              "numero": 1,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué significa la palabra investigar según su etimología procedente del latín 'vestigium'?",
+              "opciones": {
+                "A": "Proceso sistemático de recolección de datos.",
+                "B": "Indagar, averiguar, buscar para descubrir algo.",
+                "C": "Vestigio que es el inicio en el cual se infiere la verdad.",
+                "D": "Reflexión sistemática y metódica del investigador.",
+                "E": "Buscar explicaciones a los fenómenos que ocurren en su entorno."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.3"
+            },
+            {
+              "numero": 2,
+              "tipo": "open_ended",
+              "pregunta": "Según Piñero, Rivera y Esteban (2019), la perspectiva metodológica es la manera de representar el acto investigativo que guía el proceder científico del investigador, desde la asunción de una visión de _____, la cual es contemplado en el enfoque epistemológico, el paradigma y el método de investigación.",
+              "palabras_clave": {
+                "palabras": ["ciencia"],
+                "sinonimos": {
+                  "ciencia": ["la ciencia"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.3"
+            },
+            {
+              "numero": 3,
+              "tipo": "open_ended",
+              "pregunta": "En el plano Ontológico, la perspectiva Cuantitativa (Positivismo) sostiene que la realidad está dada _____ al sujeto y que la razón es fuente del conocimiento aprehensible por la observación.",
+              "palabras_clave": {
+                "palabras": ["externa"],
+                "sinonimos": {
+                  "externa": ["externo"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 4,
+              "tipo": "open_ended",
+              "pregunta": "En el plano Epistemológico, la perspectiva Cuantitativa se caracteriza por el dualismo sujeto-objeto, la predeterminación, la objetividad, la observación métrica, el discurso en tercera persona y la ____.",
+              "palabras_clave": {
+                "palabras": ["generalización"],
+                "sinonimos": {
+                  "generalización": ["generalizacion"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 5,
+              "tipo": "open_ended",
+              "pregunta": "Menciona los tres tipos de perspectivas metodológicas de investigación presentados en el Cuadro 1.",
+              "palabras_clave": {
+                "palabras": ["cuantitativa", "cualitativa", "sociocrítico"],
+                "sinonimos": {
+                  "cuantitativa": ["positivismo"],
+                  "cualitativa": ["interpretativismo"],
+                  "sociocrítico": ["sociocritico"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 6,
+              "tipo": "multiple_choice",
+              "pregunta": "Según Cárdenas (2018), ¿Qué produce la investigación que permite tomar decisiones más razonables, averiguar qué sucede más allá de nuestros ojos y tratar de predecir qué sucederá en el futuro?",
+              "opciones": {
+                "A": "Recolección y análisis de datos.",
+                "B": "Inquietudes a partir de la recolección.",
+                "C": "Conocimiento basado en datos.",
+                "D": "Reflexión sistemática y metódica.",
+                "E": "El acto investigativo guiado."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.3"
+            },
+            {
+              "numero": 7,
+              "tipo": "open_ended",
+              "pregunta": "En el plano Metodológico, ¿cuáles son los tres propósitos de la perspectiva Cuantitativa?",
+              "palabras_clave": {
+                "palabras": ["describir", "explicar", "controlar", "predecir"],
+                "sinonimos": {
+                  "describir": ["describir"],
+                  "explicar": ["explicar"],
+                  "controlar": ["controlar"],
+                  "predecir": ["predecir"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.75
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 8,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué dos conceptos debe mantener el investigador durante todo el proceso investigativo en las perspectivas metodológicas, según Piñero, Rivera y Esteban (2019)?",
+              "palabras_clave": {
+                "palabras": ["coherencia", "paradigmática"],
+                "sinonimos": {
+                  "coherencia": ["coherencia paradigmática"],
+                  "paradigmática": ["paradigmático"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.3"
+            },
+            {
+              "numero": 9,
+              "tipo": "open_ended",
+              "pregunta": "Según Piñero, Rivera y Esteban (2019), la perspectiva Cualitativa (Interpretativismo) en el plano Ontológico se define como: La realidad es subjetiva, incierta, múltiple, significada, _____.",
+              "palabras_clave": {
+                "palabras": ["versionada", "narrada"],
+                "sinonimos": {
+                  "versionada": ["versionada", "versión"],
+                  "narrada": ["narrada", "narrado"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 10,
+              "tipo": "multiple_choice",
+              "pregunta": "En el plano Metodológico, ¿cuál de los siguientes NO es un método de la perspectiva Cualitativa (Interpretativismo)?",
+              "opciones": {
+                "A": "Fenomenológico.",
+                "B": "Hermenéutico.",
+                "C": "Etnográfico.",
+                "D": "Hipotético deductivo.",
+                "E": "Historias de vida."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 11,
+              "tipo": "open_ended",
+              "pregunta": "En el plano Procedimental, el diseño de la perspectiva Cuantitativa se describe como:",
+              "palabras_clave": {
+                "palabras": ["diseño", "rígido", "líneas", "población", "muestra"],
+                "sinonimos": {
+                  "diseño": ["diseño"],
+                  "rígido": ["rigido"],
+                  "líneas": ["lineas"],
+                  "población": ["poblacion"],
+                  "muestra": ["muestra"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.6
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 12,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuál es el método principal de la perspectiva Metodológica Cuantitativa?",
+              "palabras_clave": {
+                "palabras": ["hipotético", "deductivo"],
+                "sinonimos": {
+                  "hipotético": ["hipotetico"],
+                  "deductivo": ["deductivo"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 13,
+              "tipo": "multiple_choice",
+              "pregunta": "En el plano Epistemológico de la perspectiva Sociocrítica, la relación es de horizontalidad: teoría - práctica, conocimiento _____.",
+              "opciones": {
+                "A": "Objetivo y métrico.",
+                "B": "Emergente y comprendido.",
+                "C": "Comprendido e ideográfico.",
+                "D": "Liberador, transformador y contextualizado.",
+                "E": "Dialéctica y dialógica."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.4"
+            },
+            {
+              "numero": 14,
+              "tipo": "true_false",
+              "pregunta": "En la perspectiva metodológica cualitativa el predominio es de los datos cuantitativos.",
+              "respuesta_correcta": "Falso",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.5"
+            },
+            {
+              "numero": 15,
+              "tipo": "open_ended",
+              "pregunta": "La perspectiva metodológica Cualitativa busca comprender, interpretar de manera subjetiva, mutua y participativa, emancipar, y _____ una situación.",
+              "palabras_clave": {
+                "palabras": ["cambiar"],
+                "sinonimos": {
+                  "cambiar": ["cambia"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.5"
+            }
+          ]
+        },
+        {
+          "nombre": "II. Técnicas e Instrumentos",
+          "rango_preguntas": "16-30",
+          "preguntas": [
+            {
+              "numero": 16,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué son las Técnicas según el documento?",
+              "palabras_clave": {
+                "palabras": ["diferentes", "formas", "utilizadas", "obtener", "información"],
+                "sinonimos": {
+                  "diferentes": ["distintas"],
+                  "formas": ["formas"],
+                  "utilizadas": ["utilizadas"],
+                  "obtener": ["obtener"],
+                  "información": ["informacion"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.8
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.6"
+            },
+            {
+              "numero": 17,
+              "tipo": "open_ended",
+              "pregunta": "Según Arias (2012), ¿cuáles son los medios materiales que se emplean para recoger y almacenar la información?",
+              "palabras_clave": {
+                "palabras": ["los", "instrumentos"],
+                "sinonimos": {
+                  "los": ["los"],
+                  "instrumentos": ["instrumentos"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.6"
+            },
+            {
+              "numero": 18,
+              "tipo": "multiple_choice",
+              "pregunta": "Un ejemplo de **Técnica** de recolección de datos, según Arias (2012), es:",
+              "opciones": {
+                "A": "Fichas.",
+                "B": "Cuestionarios.",
+                "C": "Lista de cotejo.",
+                "D": "La observación.",
+                "E": "Guías de entrevistas."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.6"
+            },
+            {
+              "numero": 19,
+              "tipo": "multiple_choice",
+              "pregunta": "Un ejemplo de **Instrumento** para recoger y almacenar la información, según Arias (2012), es:",
+              "opciones": {
+                "A": "La encuesta.",
+                "B": "Análisis documental.",
+                "C": "Escalas de actitudes u opiniones.",
+                "D": "Análisis de contenido.",
+                "E": "La observación."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.6"
+            },
+            {
+              "numero": 20,
+              "tipo": "open_ended",
+              "pregunta": "Menciona dos técnicas recomendadas para la perspectiva metodológica cuantitativa.",
+              "palabras_clave": {
+                "palabras": ["encuesta", "entrevista", "observación"],
+                "sinonimos": {
+                  "encuesta": ["encuesta", "la encuesta"],
+                  "entrevista": ["entrevista", "la entrevista"],
+                  "observación": ["observacion", "la observacion"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.6
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.5"
+            },
+            {
+              "numero": 21,
+              "tipo": "open_ended",
+              "pregunta": "La recolección de información es una etapa _____ del proceso de investigación, en la cual se indican los procedimientos para la obtención de datos y su posterior análisis.",
+              "palabras_clave": {
+                "palabras": ["operativa"],
+                "sinonimos": {
+                  "operativa": ["operativo"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.5"
+            },
+            {
+              "numero": 22,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuál es la técnica aconsejable en el enfoque cualitativo que utiliza como instrumento el diálogo, la hermenéutica, el análisis de contenido y la historia de vida?",
+              "palabras_clave": {
+                "palabras": ["entrevista", "profundidad"],
+                "sinonimos": {
+                  "entrevista": ["entrevista a profundidad", "la entrevista a profundidad"],
+                  "profundidad": ["a profundidad"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.5"
+            },
+            {
+              "numero": 23,
+              "tipo": "true_false",
+              "pregunta": "Las técnicas e instrumentos de investigación deben estar vinculados solo con la perspectiva de la investigación (cualitativa o cuantitativa) y no con todo el proceso investigativo.",
+              "respuesta_correcta": "Falso",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.7"
+            },
+            {
+              "numero": 24,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué dos instrumentos se recomiendan para la técnica de la Observación y la Observación Participante Sistemática según el Gráfico 2 (Padua 2018)?",
+              "palabras_clave": {
+                "palabras": ["lista", "diario", "registro"],
+                "sinonimos": {
+                  "lista": ["lista"],
+                  "diario": ["diario"],
+                  "registro": ["registro"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.6
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.8"
+            },
+            {
+              "numero": 25,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 3 (Sáez J. 2017), ¿cuál es el instrumento asociado a la técnica de Encuestas?",
+              "palabras_clave": {
+                "palabras": ["cuestionario"],
+                "sinonimos": {
+                  "cuestionario": ["el cuestionario", "cuestionarios"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.8"
+            },
+            {
+              "numero": 26,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuáles son las dos opciones de administración del Cuestionario según el Gráfico 2 (Padua 2018)?",
+              "palabras_clave": {
+                "palabras": ["encuestadores", "autoadministrado"],
+                "sinonimos": {
+                  "encuestadores": ["utiliza encuestadores"],
+                  "autoadministrado": ["auto administrado"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.8"
+            },
+            {
+              "numero": 27,
+              "tipo": "open_ended",
+              "pregunta": "Menciona los tres tipos de Entrevistas según la clasificación de Fábregues S, Meneses J, Rodríguez D, Pare H. (2016) por su **diseño**.",
+              "palabras_clave": {
+                "palabras": ["estructurada", "semi estructurada", "no estructurada"],
+                "sinonimos": {
+                  "estructurada": ["estructurada"],
+                  "semi estructurada": ["semiestructurada", "semi estructuradas"],
+                  "no estructurada": ["no estructurada", "no estructuradas"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.9"
+            },
+            {
+              "numero": 28,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 4 (Lerma H. 2016), ¿cuáles son los cuatro tipos de Observación?",
+              "palabras_clave": {
+                "palabras": ["oculta", "activa", "libre", "estructurada"],
+                "sinonimos": {
+                  "oculta": ["observación oculta"],
+                  "activa": ["observación activa"],
+                  "libre": ["observación libre"],
+                  "estructurada": ["observación estructurada"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.9"
+            },
+            {
+              "numero": 29,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué fuentes de información están agrupadas bajo la técnica de **DOCUMENTOS** según el Gráfico 4 (Lerma H. 2016)?",
+              "palabras_clave": {
+                "palabras": ["personales", "institucionales", "prensa", "revistas", "publicaciones", "libros"],
+                "sinonimos": {
+                  "personales": ["personales", "agendas", "diarios"],
+                  "institucionales": ["institucionales"],
+                  "prensa": ["prensa"],
+                  "revistas": ["revistas"],
+                  "publicaciones": ["publicaciones científicas"],
+                  "libros": ["libros"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.7
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.9"
+            },
+            {
+              "numero": 30,
+              "tipo": "multiple_choice",
+              "pregunta": "Según el Gráfico 6 (Hernández, Fernández, Baptista 2014), ¿cuál de los siguientes es un instrumento del enfoque CUANTITATIVO bajo la categoría 'ESCALAS PARA MEDIR LAS ACTITUDES'?",
+              "opciones": {
+                "A": "Observación Cuantitativa.",
+                "B": "Sesiones en Profundidad.",
+                "C": "Escalamiento Likert.",
+                "D": "Biografías.",
+                "E": "Análisis de Contenido."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.10"
+            }
+          ]
+        },
+        {
+          "nombre": "III. Clasificaciones Detalladas",
+          "rango_preguntas": "31-50",
+          "preguntas": [
+            {
+              "numero": 31,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 3 (Sáez J. 2017), ¿cuáles son los cuatro instrumentos asociados a la técnica de OBSERVACIÓN?",
+              "palabras_clave": {
+                "palabras": ["lista", "escala", "diario", "registro"],
+                "sinonimos": {
+                  "lista": ["lista de control o cotejo"],
+                  "escala": ["escala de estimación"],
+                  "diario": ["diario de campo"],
+                  "registro": ["registro anecdótico"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.8"
+            },
+            {
+              "numero": 32,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 7 (Kerlinger y Lee 2002), ¿cuáles son los tres tipos de Escalamiento Acumulativas?",
+              "palabras_clave": {
+                "palabras": ["actitud", "puntuación sumada", "intervalos aparentemente iguales", "acumulativas"],
+                "sinonimos": {
+                  "actitud": ["actitud"],
+                  "puntuación sumada": ["puntuacion sumada"],
+                  "intervalos aparentemente iguales": ["intervalos aparentemente iguales"],
+                  "acumulativas": ["acumulativas"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.75
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.10"
+            },
+            {
+              "numero": 33,
+              "tipo": "true_false",
+              "pregunta": "Según el Gráfico 10 (Busot A. 1991), una de las finalidades de la Entrevista es Terapéutica.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.12"
+            },
+            {
+              "numero": 34,
+              "tipo": "open_ended",
+              "pregunta": "Menciona los tres criterios de clasificación de los Instrumentos de Investigación, según el Gráfico 8 (Ruíz Bolívar 2013).",
+              "palabras_clave": {
+                "palabras": ["propósito", "proceso", "aplicación"],
+                "sinonimos": {
+                  "propósito": ["proposito"],
+                  "proceso": ["proceso de elaboración"],
+                  "aplicación": ["campo de aplicación"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.11"
+            },
+            {
+              "numero": 35,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 10 (Busot A. 1991), ¿cuáles son los dos tipos de Entrevista según su **participación**?",
+              "palabras_clave": {
+                "palabras": ["interna", "externa"],
+                "sinonimos": {
+                  "interna": ["interna"],
+                  "externa": ["externa"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.12"
+            },
+            {
+              "numero": 36,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 9 (Hurtado 2000), ¿cuál es el instrumento de la técnica SOCIOMETRÍA?",
+              "palabras_clave": {
+                "palabras": ["test", "sociométrico"],
+                "sinonimos": {
+                  "test": ["test", "test sociométrico"],
+                  "sociométrico": ["sociometrico", "sociométrico"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.11"
+            },
+            {
+              "numero": 37,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué sistemas están asociados al **CAMPO DE APLICACIÓN** en la clasificación de instrumentos del Gráfico 8 (Ruíz Bolívar 2013)?",
+              "palabras_clave": {
+                "palabras": ["sociométrico", "edumétricos", "psicométricos"],
+                "sinonimos": {
+                  "sociométrico": ["sociométrico"],
+                  "edumétricos": ["edumetricos"],
+                  "psicométricos": ["psicometricos"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.11"
+            },
+            {
+              "numero": 38,
+              "tipo": "open_ended",
+              "pregunta": "Menciona dos instrumentos que se encuentran bajo el **PROCESO DE ELABORACIÓN** según el Gráfico 8 (Ruíz Bolívar 2013).",
+              "palabras_clave": {
+                "palabras": ["formales", "informales"],
+                "sinonimos": {
+                  "formales": ["formales"],
+                  "informales": ["informales"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.11"
+            },
+            {
+              "numero": 39,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuáles son los tres tipos de Entrevista según la clasificación de Fábregues S, Meneses J, Rodríguez D, Pare H. (2016) por el **MOMENTO**?",
+              "palabras_clave": {
+                "palabras": ["inicial", "desarrollo", "finales"],
+                "sinonimos": {
+                  "inicial": ["inicial", "exploratoria"],
+                  "desarrollo": ["desarrollo", "seguimiento"],
+                  "finales": ["finales"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.9"
+            },
+            {
+              "numero": 40,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 7 (Kerlinger y Lee 2002), ¿cuáles son los cuatro tipos de Pruebas estandarizadas para la medición de la personalidad?",
+              "palabras_clave": {
+                "palabras": ["inteligencia", "aptitud", "rendimiento", "personalidad"],
+                "sinonimos": {
+                  "inteligencia": ["inteligencia"],
+                  "aptitud": ["aptitud"],
+                  "rendimiento": ["rendimiento"],
+                  "personalidad": ["personalidad"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.10"
+            },
+            {
+              "numero": 41,
+              "tipo": "multiple_choice",
+              "pregunta": "Según el Gráfico 10 (Busot A. 1991), ¿qué tipo de Entrevista tiene una estructura Dirigida?",
+              "opciones": {
+                "A": "Libre.",
+                "B": "Sem estructurada.",
+                "C": "Estructurada.",
+                "D": "Terapéutica.",
+                "E": "Colectiva."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.12"
+            },
+            {
+              "numero": 42,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuál es la **TÉCNICA** que tiene como instrumentos el Cuestionario, Formularios, Test, Escalas e Índices según el Gráfico 5 (Fábregues S. et al. 2016)?",
+              "palabras_clave": {
+                "palabras": ["encuestas"],
+                "sinonimos": {
+                  "encuestas": ["encuesta"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.9"
+            },
+            {
+              "numero": 43,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 8 (Ruíz Bolívar 2013), ¿cuáles son las tres categorías bajo **PROPÓSITO** para la clasificación de instrumentos?",
+              "palabras_clave": {
+                "palabras": ["pruebas", "escalas", "cuestionarios"],
+                "sinonimos": {
+                  "pruebas": ["pruebas"],
+                  "escalas": ["escalas"],
+                  "cuestionarios": ["cuestionarios"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.11"
+            },
+            {
+              "numero": 44,
+              "tipo": "open_ended",
+              "pregunta": "Menciona dos tipos de **ROL DEL ENTREVISTADOR** según el Gráfico 5 (Fábregues S. et al. 2016).",
+              "palabras_clave": {
+                "palabras": ["directivas", "no directivas"],
+                "sinonimos": {
+                  "directivas": ["directivas"],
+                  "no directivas": ["no directivas"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.9"
+            },
+            {
+              "numero": 45,
+              "tipo": "multiple_choice",
+              "pregunta": "Según el Gráfico 6 (Hernández, Fernández, Baptista 2014), un instrumento del enfoque CUALITATIVO es:",
+              "opciones": {
+                "A": "Pruebas Estandarizadas.",
+                "B": "Inventarios.",
+                "C": "Sesiones en Profundidad.",
+                "D": "Observación Cuantitativa.",
+                "E": "Diferencial Semántico."
+              },
+              "respuesta_correcta": "C",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.10"
+            },
+            {
+              "numero": 46,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuál es la técnica que se encuentra en el resumen final que tiene como instrumentos el Cuestionario, Escalas, Test y Pruebas (Conocimiento, Inteligencia, Aptitud, Rendimiento, Estandarizadas, Generales y Especiales)?",
+              "palabras_clave": {
+                "palabras": ["encuesta"],
+                "sinonimos": {
+                  "encuesta": ["técnica de la encuesta"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.12"
+            },
+            {
+              "numero": 47,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 9 (Hurtado 2000), ¿cuál es el instrumento de la técnica OBSERVACIÓN?",
+              "palabras_clave": {
+                "palabras": ["guía", "registro", "matriz"],
+                "sinonimos": {
+                  "guía": ["guía de observación"],
+                  "registro": ["registro anecdótico"],
+                  "matriz": ["matriz de análisis"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.11"
+            },
+            {
+              "numero": 48,
+              "tipo": "true_false",
+              "pregunta": "El Test de tiempo y el Test de poder están clasificados según el Tiempo disponible para responder en el Gráfico 8 (Ruíz Bolívar 2013).",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.11"
+            },
+            {
+              "numero": 49,
+              "tipo": "multiple_choice",
+              "pregunta": "Según el Gráfico 7 (Kerlinger y Lee 2002), ¿cuál es un tipo de Calificación de Escalas?",
+              "opciones": {
+                "A": "Puntuación sumada (Likert).",
+                "B": "Intervalos aparentemente iguales (Thurstone).",
+                "C": "Acumulativas (Guttman).",
+                "D": "Elección forzada.",
+                "E": "Pruebas Proyectivas."
+              },
+              "respuesta_correcta": "D",
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.10"
+            },
+            {
+              "numero": 50,
+              "tipo": "open_ended",
+              "pregunta": "Según el Gráfico 10 (Busot A. 1991), ¿cuáles son las dos clasificaciones de la Observación según su **CARÁCTER**?",
+              "palabras_clave": {
+                "palabras": ["directa", "indirecta"],
+                "sinonimos": {
+                  "directa": ["directa"],
+                  "indirecta": ["indirecta"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "TÉCNICAS E INSTRUMENTOS DE INVESTIGACIÓN, p.12"
+            }
+          ]
+        }
+      ]
+    }
+  }

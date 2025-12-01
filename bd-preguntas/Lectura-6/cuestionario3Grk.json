@@ -1,0 +1,634 @@
+{
+    "cuestionario": {
+      "titulo": "Cuestionario de Práctica: Técnicas e Instrumentos de Investigación",
+      "autor": "Grok 4",
+      "descripcion": "Cuestionario basado en la lectura 13 sobre técnicas e instrumentos de investigación desde la perspectiva cuantitativa",
+      "secciones": [
+        {
+          "nombre": "I. Reflexiones Previas y Definiciones Básicas",
+          "rango_preguntas": "1-15",
+          "preguntas": [
+            {
+              "numero": 1,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es la primera interrogante que debe responder el investigador antes de elegir técnicas e instrumentos?",
+              "opciones": {
+                "A": "¿Estoy claro sobre la perspectiva metodológica bajo la cual se realizará la investigación?",
+                "B": "¿Conozco sobre los planos ontológicos, epistemológicos, metodológicos y procedimentales?",
+                "C": "¿Qué tanto conozco sobre técnicas e instrumentos de recolección de información?",
+                "D": "¿Tengo claro cuál es el objeto de estudio?"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 1: ¿Estoy claro sobre la perspectiva metodológica bajo la cual se realizará la investigación?"
+            },
+            {
+              "numero": 2,
+              "tipo": "open_ended",
+              "pregunta": "Completa la frase: El investigador antes de elegir las técnicas e instrumentos de recolección de información debe reflexionar y hacer una revisión crítica de diversos elementos que le permitirá la _____.",
+              "palabras_clave": {
+                "palabras": ["coherencia paradigmática"],
+                "sinonimos": {
+                  "coherencia paradigmática": []
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 1: coherencia paradigmática acorde con su perspectiva de investigación"
+            },
+            {
+              "numero": 3,
+              "tipo": "multiple_choice",
+              "pregunta": "¿De qué procede etimológicamente la palabra investigar?",
+              "opciones": {
+                "A": "Del latín «investigāre»",
+                "B": "Del griego «investigare»",
+                "C": "Del francés «investiguer»",
+                "D": "Del inglés «investigate»"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 3: procede del latín «investigāre»"
+            },
+            {
+              "numero": 4,
+              "tipo": "open_ended",
+              "pregunta": "Según Cárdenas (2018), la investigación es un proceso destinado a resolver inquietudes a partir de la recolección y _____.",
+              "palabras_clave": {
+                "palabras": ["análisis de datos"],
+                "sinonimos": {
+                  "análisis de datos": []
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 3: recolección y análisis de datos"
+            },
+            {
+              "numero": 5,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué significa la palabra 'vestigium' en la etimología de investigar?",
+              "opciones": {
+                "A": "Vestigio",
+                "B": "Investigación",
+                "C": "Verdad",
+                "D": "Inicio"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 3: vestigium que quiere decir vestigio"
+            },
+            {
+              "numero": 6,
+              "tipo": "open_ended",
+              "pregunta": "Menciona al menos 3 interrogantes que facilitan el camino procedimental al investigador.",
+              "palabras_clave": {
+                "palabras": ["perspectiva metodológica", "planos ontológicos", "técnicas e instrumentos", "objeto de estudio", "informantes", "disponibilidad de tiempo", "recursos", "instrumentos", "adaptaciones", "contexto y momento", "plan de intervención", "recolecciones", "fuentes múltiples", "evento de estudio", "grupales o individuales", "grupo control"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.2
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en las páginas 1-2: las interrogantes listadas"
+            },
+            {
+              "numero": 7,
+              "tipo": "multiple_choice",
+              "pregunta": "Es verdadero o falso: La investigación se origina cuando los individuos enfrentan situaciones desconocidas o problemáticas.",
+              "opciones": {
+                "A": "Verdadero",
+                "B": "Falso"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 2: Es indiscutible que la investigación se origina cuando los individuos enfrentan situaciones desconocidas o problemáticas"
+            },
+            {
+              "numero": 8,
+              "tipo": "open_ended",
+              "pregunta": "Completa: Investigar implica la reflexión sistemática y metódica del investigador el cual inquiere, busca información, se plantea interrogantes acerca del _____.",
+              "palabras_clave": {
+                "palabras": ["objeto de estudio"],
+                "sinonimos": {
+                  "objeto de estudio": []
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 3: objeto de estudio"
+            },
+            {
+              "numero": 9,
+              "tipo": "open_ended",
+              "pregunta": "Según Piñero, Rivera y Esteban (2019), la perspectiva es la manera de representar el acto investigativo que guía el proceder científico del investigador, desde la asunción de una visión de ciencia, la cual es contemplado en el enfoque epistemológico, el paradigma y el _____.",
+              "palabras_clave": {
+                "palabras": ["método de investigación"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 3: método de investigación"
+            },
+            {
+              "numero": 10,
+              "tipo": "multiple_choice",
+              "pregunta": "Es verdadero o falso: En las perspectivas metodológicas el investigador debe mantener durante todo el proceso investigativo la coherencia paradigmática tanto interna como externa.",
+              "opciones": {
+                "A": "Verdadero",
+                "B": "Falso"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 3: mantener durante todo el proceso investigativo la coherencia paradigmática tanto interna como externa"
+            },
+            {
+              "numero": 11,
+              "tipo": "open_ended",
+              "pregunta": "Menciona los planos en los que se diferencian las perspectivas cuantitativa y cualitativa según el cuadro 1.",
+              "palabras_clave": {
+                "palabras": ["Ontológico", "Epistemológico", "Metodológico", "Procedimental"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 4: PLANOS Ontológico, Epistemológico, Metodológico, Procedimental"
+            },
+            {
+              "numero": 12,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es la visión ontológica de la perspectiva cuantitativa?",
+              "opciones": {
+                "A": "La realidad está dada externa al sujeto",
+                "B": "La realidad es subjetiva, incierta, múltiple",
+                "C": "La realidad está socialmente construida",
+                "D": "La realidad es versionada, narrada"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 4: La realidad está dada externa al sujeto"
+            },
+            {
+              "numero": 13,
+              "tipo": "open_ended",
+              "pregunta": "En la perspectiva cualitativa interpretativismo, el plano epistemológico incluye horizontalidad sujeto-sujeto, intersubjetividad, conocimiento emergente, comprendido, ideográfico, discurso en _____.",
+              "palabras_clave": {
+                "palabras": ["primera persona singular"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 4: discurso en primera persona singular"
+            },
+            {
+              "numero": 14,
+              "tipo": "open_ended",
+              "pregunta": "Lista al menos 3 métodos de la perspectiva cuantitativa.",
+              "palabras_clave": {
+                "palabras": ["histórico", "documental", "descriptivo", "correlacional", "evaluativo", "expofacto", "cuasi-experimental", "experimental"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.375
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 5: histórico, documental, descriptivo, correlacional, evaluativo, expofacto, cuasi-experimental, experimental"
+            },
+            {
+              "numero": 15,
+              "tipo": "multiple_choice",
+              "pregunta": "Es verdadero o falso: La perspectiva metodológica cuantitativa busca describir, explicar, controlar, predecir.",
+              "opciones": {
+                "A": "Verdadero",
+                "B": "Falso"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 5: Busca describir, explicar, controlar, predecir"
+            }
+          ]
+        },
+        {
+          "nombre": "II. Perspectivas Metodológicas",
+          "rango_preguntas": "16-30",
+          "preguntas": [
+            {
+              "numero": 16,
+              "tipo": "open_ended",
+              "pregunta": "En la perspectiva cualitativa, menciona al menos 4 tipos de investigación.",
+              "palabras_clave": {
+                "palabras": ["Fenomenológico", "Naturalista", "Etnográfico", "Interactivo", "Hermenéutico-dialéctico", "Biográfico", "Comprensivo", "Estudio de casos", "Investigación Acción", "Acción—Reflexión—Acción"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.4
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 5: Fenomenológico, Naturalista, Etnográfico, Interactivo, Hermenéutico-dialéctico, Biográfico, Comprensivo, Estudio de casos, Investigación Acción, Acción—Reflexión—Acción"
+            },
+            {
+              "numero": 17,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué predomina en la perspectiva cuantitativa?",
+              "opciones": {
+                "A": "Datos cuantitativos",
+                "B": "Datos cualitativos",
+                "C": "Datos mixtos",
+                "D": "Datos narrativos"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 5: Hay predominio de los datos cuantitativos"
+            },
+            {
+              "numero": 18,
+              "tipo": "open_ended",
+              "pregunta": "Completa: En este enfoque es aconsejable la Técnica de la Entrevista a profundidad y Observación y como instrumento el diálogo, hermenéuticas, _____.",
+              "palabras_clave": {
+                "palabras": ["análisis de contenido"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 5: análisis de contenido"
+            },
+            {
+              "numero": 19,
+              "tipo": "open_ended",
+              "pregunta": "La recolección de información es una etapa operativa del proceso de investigación, en la cual se indican los procedimientos para la obtención de datos y su posterior _____.",
+              "palabras_clave": {
+                "palabras": ["análisis"],
+                "sinonimos": {
+                  "análisis": []
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 5: su posterior análisis"
+            },
+            {
+              "numero": 20,
+              "tipo": "multiple_choice",
+              "pregunta": "Es verdadero o falso: Si el investigador tiene clara su perspectiva de investigación logrará la coherencia paradigmática desde la escogencia de la situación a estudiar hasta la presentación de las reflexiones finales.",
+              "opciones": {
+                "A": "Verdadero",
+                "B": "Falso"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 6: logrará la coherencia paradigmática desde la escogencia de la situación a estudiar hasta la presentación de las reflexiones finales"
+            },
+            {
+              "numero": 21,
+              "tipo": "open_ended",
+              "pregunta": "Según Arias (2012), las técnicas de recolección de datos son los distintas formas o maneras de obtener la información. Son ejemplos de técnicas, la observación, la encuesta, el análisis documental, análisis de _____.",
+              "palabras_clave": {
+                "palabras": ["contenido"],
+                "sinonimos": {
+                  "contenido": []
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 6: análisis de contenido"
+            },
+            {
+              "numero": 22,
+              "tipo": "open_ended",
+              "pregunta": "Menciona al menos 2 características de las técnicas según el texto.",
+              "palabras_clave": {
+                "palabras": ["conformadas por un conjunto de reglas y procedimientos", "coadyuvan en el cumplimiento de los objetivos de estudio", "dan respuesta al problema de investigación"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 6: Estas técnicas están conformadas por un conjunto de reglas y procedimientos que coadyuvan en el cumplimiento de los objetivos de estudio y dan respuesta al problema de investigación"
+            },
+            {
+              "numero": 23,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué deben estar acorde con las técnicas?",
+              "opciones": {
+                "A": "Los objetivos de investigación",
+                "B": "Los recursos disponibles",
+                "C": "El tiempo de los informantes",
+                "D": "Los contextos diferentes"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 6: Las técnicas deben estar acorde con los objetivos de investigación"
+            },
+            {
+              "numero": 24,
+              "tipo": "open_ended",
+              "pregunta": "Según Arias (2012), los instrumentos son los medios materiales que se emplean para recoger y almacenar la información. Ejemplo, fichas, formatos de cuestionarios guías de entrevistas, lista de cotejo, grabadores, escalas de _____.",
+              "palabras_clave": {
+                "palabras": ["actitudes u opiniones"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 6: escalas de actitudes u opiniones"
+            },
+            {
+              "numero": 25,
+              "tipo": "open_ended",
+              "pregunta": "Lista al menos 3 instrumentos mencionados en el texto.",
+              "palabras_clave": {
+                "palabras": ["fichas", "formatos de cuestionarios", "guías de entrevistas", "lista de cotejo", "grabadores", "escalas de actitudes u opiniones"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 6: fichas, formatos de cuestionarios guías de entrevistas, lista de cotejo, grabadores, escalas de actitudes u opiniones"
+            },
+            {
+              "numero": 26,
+              "tipo": "multiple_choice",
+              "pregunta": "Es verdadero o falso: Las técnicas e instrumentos de investigación deben estar vinculados con la perspectiva de la investigación (cualitativa o cuantitativa).",
+              "opciones": {
+                "A": "Verdadero",
+                "B": "Falso"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 7: deben estar vinculados con la perspectiva de la investigación (cualitativa o cuantitativa)"
+            },
+            {
+              "numero": 27,
+              "tipo": "open_ended",
+              "pregunta": "La calidad de la información obtenida servirá de base para el análisis de resultados y la formulación de conclusiones y _____.",
+              "palabras_clave": {
+                "palabras": ["recomendaciones"],
+                "sinonimos": {
+                  "recomendaciones": []
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 7: formulación de conclusiones y recomendaciones"
+            },
+            {
+              "numero": 28,
+              "tipo": "open_ended",
+              "pregunta": "Según Padua (2018), clasifica las técnicas en observación participante sistemática, entrevistas, cuestionario y menciona al menos 2 instrumentos para entrevistas.",
+              "palabras_clave": {
+                "palabras": ["Guía de Entrevistas", "Utiliza Encuestadores", "Auto administrados"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 8: Guía de Entrevistas, Utiliza Encuestadores, Auto administrados"
+            },
+            {
+              "numero": 29,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es un instrumento en la clasificación de Sáez J. (2017) para encuestas?",
+              "opciones": {
+                "A": "Cuestionario",
+                "B": "Lista de control",
+                "C": "Diario de Campo",
+                "D": "Registro Anecdótico"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 8: Cuestionario"
+            },
+            {
+              "numero": 30,
+              "tipo": "open_ended",
+              "pregunta": "En la clasificación de Lerma H. (2016), menciona al menos 3 subcategorías de observación.",
+              "palabras_clave": {
+                "palabras": ["Observación oculta", "Observación Activa", "Observación libre", "Observación Estructurada"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.333
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 9: Observación oculta, Observación Activa, Observación libre, Observación Estructurada"
+            }
+          ]
+        },
+        {
+          "nombre": "III. Clasificaciones de Técnicas e Instrumentos",
+          "rango_preguntas": "31-40",
+          "preguntas": [
+            {
+              "numero": 31,
+              "tipo": "open_ended",
+              "pregunta": "Según Fábregues S. et al. (2016), lista las técnicas principales.",
+              "palabras_clave": {
+                "palabras": ["Encuestas", "Entrevistas", "Observación", "Grupos de Discusión"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 9: Encuestas, Entrevistas, Observación, Grupos de Discusión"
+            },
+            {
+              "numero": 32,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué instrumento se menciona para encuestas en Fábregues S. et al. (2016)?",
+              "opciones": {
+                "A": "Cuestionario, Formularios, Test, Escalas, Índices",
+                "B": "Guía de Observación, Registro",
+                "C": "Matriz de Análisis",
+                "D": "Instrumento Sociométrico"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 9: Cuestionario, Formularios, Test, Escalas, Índices"
+            },
+            {
+              "numero": 33,
+              "tipo": "open_ended",
+              "pregunta": "Completa: Desde el enfoque cuantitativo, según Hernández et al. (2014), incluye escalamiento Likert, diferencial semántico, _____.",
+              "palabras_clave": {
+                "palabras": ["Escalograma de Guttman"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 10: Escalograma de Guttman"
+            },
+            {
+              "numero": 34,
+              "tipo": "open_ended",
+              "pregunta": "Menciona al menos 3 instrumentos desde el enfoque cualitativo según Hernández et al. (2014).",
+              "palabras_clave": {
+                "palabras": ["Anotaciones y bitácoras de campo", "Observación", "Entrevistas", "Sesiones en Profundidad o Grupos de Enfoque", "Documentos", "Registros y Artefactos", "Biografías e Historias de Vida"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.428
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 10: Anotaciones y bitácoras de campo. Observacion, Entrevistas, Sesiones en Profundidad o Grupos de Enfoque, Documentos, Registros y Artefactos, Biografías e Historias de Vida"
+            },
+            {
+              "numero": 35,
+              "tipo": "multiple_choice",
+              "pregunta": "Es verdadero o falso: Kerlinger y Lee (2002) clasifican pruebas de rendimiento, Pruebas estandarizadas (Generales y Especiales), Medidas de Personalidad: Método a priori y Método teórico o de constructo.",
+              "opciones": {
+                "A": "Verdadero",
+                "B": "Falso"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 10: Pruebas de Rendimiento, Pruebas estandarizadas (Generales y Especiales), Medidas de Personalidad: Método a priori y Método teórico o de constructo"
+            },
+            {
+              "numero": 36,
+              "tipo": "open_ended",
+              "pregunta": "Según Ruíz Bolívar (2013), el criterio de clasificación incluye propósito, criterios, campo de aplicación, _____",
+              "palabras_clave": {
+                "palabras": ["otras"],
+                "sinonimos": {
+                  "otras": []
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 11: OTRAS"
+            },
+            {
+              "numero": 37,
+              "tipo": "open_ended",
+              "pregunta": "Lista al menos 2 formas bajo 'otras' en Ruíz Bolívar (2013).",
+              "palabras_clave": {
+                "palabras": ["Forma de Responder: lápiz y papel, de manipulación y oral", "Grado de Objetividad: objetivos, subjetivos", "Interpretación de los resultados: estandarizados, no estandarizados", "Forma de aplicación: individual, colectivo", "Tiempo disponible para responder: test de tiempo y test de poder"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.4
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 11: Forma de Responder: lápiz y papel, de manipulación y oral. Grado de Objetividad: objetivos, subjetivos. Interpretación de los resultados: estandarizados, no estandarizados. Forma de aplicación: individual, colectivo. Tiempo disponible para responder: test de tiempo y test de poder"
+            },
+            {
+              "numero": 38,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué técnica incluye el instrumento Guía de Entrevista según Hurtado (2000)?",
+              "opciones": {
+                "A": "Entrevistas",
+                "B": "Encuestas",
+                "C": "Observación",
+                "D": "Sociometría"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 11: Guía de Entrevista"
+            },
+            {
+              "numero": 39,
+              "tipo": "open_ended",
+              "pregunta": "Menciona al menos 3 instrumentos para encuestas según Hurtado (2000).",
+              "palabras_clave": {
+                "palabras": ["Cuestionario", "Escalas", "Test", "Pruebas"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.75
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 11: Cuestionario, Escalas, Test, Pruebas"
+            },
+            {
+              "numero": 40,
+              "tipo": "open_ended",
+              "pregunta": "Según Busot A. (1991), clasifica las técnicas en observación, entrevista, finalidad y menciona subcategorías para observación.",
+              "palabras_clave": {
+                "palabras": ["Directa", "Indirecta", "Participación Interna", "Externa"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 12: Directa, Indirecta, Participación Interna, Externa"
+            }
+          ]
+        },
+        {
+          "nombre": "IV. Clasificaciones Adicionales y Resumen",
+          "rango_preguntas": "41-50",
+          "preguntas": [
+            {
+              "numero": 41,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es un instrumento para la técnica de la encuesta según Busot A. (1991)?",
+              "opciones": {
+                "A": "Cuestionario, Escalas, Test, Pruebas, Condicionamiento, Inteligencia, Aptitud",
+                "B": "Guía de Observación Registro Anecdótico, Matriz de Análisis, Listas de",
+                "C": "Guía de Entrevista",
+                "D": "Test Sociométricos, Sociograma, Sesiones de Profundidad, Grupo de Enfoques"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 12: CUESTIONARIO, ESCALAS, TEST, PRUEBAS CONDICIONAMIENTO, INTELIGENCIA, APTITUD, RENDIMIENTO, ENTANDARIZADAS, GENERALES Y ESPECIALES"
+            },
+            {
+              "numero": 42,
+              "tipo": "open_ended",
+              "pregunta": "Completa: A continuación, se presenta a manera de resumen las técnicas e instrumentos presentados en los _____.",
+              "palabras_clave": {
+                "palabras": ["gráficos anteriores"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 12: gráficos anteriores"
+            },
+            {
+              "numero": 43,
+              "tipo": "open_ended",
+              "pregunta": "Menciona al menos 4 técnicas resumidas del texto.",
+              "palabras_clave": {
+                "palabras": ["Técnica de la Encuesta", "Técnica de Observación", "Técnica de la Entrevista", "Sociometría", "Otros"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.8
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 12: Técnica de la Encuesta, Técnica de Observación, Técnica de la Entrevista, Sociometría, Otros"
+            },
+            {
+              "numero": 44,
+              "tipo": "multiple_choice",
+              "pregunta": "Es verdadero o falso: La investigación produce conocimiento basado en datos que nos permite tomar decisiones más razonables.",
+              "opciones": {
+                "A": "Verdadero",
+                "B": "Falso"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 3: La investigación produce conocimiento basado en datos que nos permite tomar decisiones más razonables"
+            },
+            {
+              "numero": 45,
+              "tipo": "open_ended",
+              "pregunta": "Según el texto, el hombre frente al mundo tiene diversas maneras de ver la realidad y esa visión cambia constantemente debido a la investigación y generación de _____.",
+              "palabras_clave": {
+                "palabras": ["nuevos conocimientos"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 2: generación de nuevos conocimientos"
+            },
+            {
+              "numero": 46,
+              "tipo": "open_ended",
+              "pregunta": "Lista al menos 2 planos epistemológicos de la perspectiva sociocrítico.",
+              "palabras_clave": {
+                "palabras": ["Horizontalidad teoría practica conocimiento liberador transformador contextualizado", "discurso primera personal plural"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 4: Horizontalidad teoría practica conocimiento liberador transformador contextualizado discurso primera personal plural"
+            },
+            {
+              "numero": 47,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué método usa la perspectiva cuantitativa?",
+              "opciones": {
+                "A": "Hipotético deductivo",
+                "B": "Holístico-Inductivo",
+                "C": "Dialéctico",
+                "D": "Hermenéutico"
+              },
+              "respuesta_correcta": "A",
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 5: hipotético-deductivo"
+            },
+            {
+              "numero": 48,
+              "tipo": "open_ended",
+              "pregunta": "Completa: Para la recolección de información se debe elaborar un plan detallado que determine ¿Cuáles son las fuentes de las que se obtendrán los ____?",
+              "palabras_clave": {
+                "palabras": ["datos"],
+                "sinonimos": {
+                  "datos": []
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 5: los datos"
+            },
+            {
+              "numero": 49,
+              "tipo": "open_ended",
+              "pregunta": "Menciona al menos 3 ejemplos de instrumentos según Arias (2012).",
+              "palabras_clave": {
+                "palabras": ["fichas", "formatos de cuestionarios", "guías de entrevistas", "lista de cotejo", "grabadores", "escalas de actitudes u opiniones"],
+                "sinonimos": {},
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 6: fichas, formatos de cuestionarios guías de entrevistas, lista de cotejo, grabadores, escalas de actitudes u opiniones"
+            },
+            {
+              "numero": 50,
+              "tipo": "open_ended",
+              "pregunta": "Según el gráfico 1, las técnicas e instrumentos contribuyen a dar respuesta al problema, cumplir con los objetivos, generar _____.",
+              "palabras_clave": {
+                "palabras": ["conocimientos", "interpretar la realidad estudiada"],
+                "sinonimos": {},
+                "estrategia": "all"
+              },
+              "referencia": "Su respuesta se encuentra en la semana 13 en la página 6: generar de conocimientos y a la interpretación de la realidad estudiada"
+            }
+          ]
+        }
+      ]
+    }
+  }

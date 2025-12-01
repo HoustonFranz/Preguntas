@@ -58,7 +58,7 @@
  * Para usar cualquier otra carpeta:
  *   const CONFIG_CARPETA_ACTIVA = 'NombreDeTuCarpeta';
  */
- const CONFIG_CARPETA_ACTIVA = 'Prueba-II'; // 👈 CAMBIAR AQUÍ
+ const CONFIG_CARPETA_ACTIVA = 'Lectura-6'; // 👈 CAMBIAR AQUÍ
 
 
  // ╔══════════════════════════════════════════════════════════════╗
@@ -90,7 +90,7 @@
   * La variable {numero} se extrae automáticamente del nombre de la carpeta.
   * Ejemplo: "Lectura-5" → número = 5 → buscará "index5.json"
   */
- const CONFIG_PATRON_INDEX = 'index-pII.json';
+ const CONFIG_PATRON_INDEX = 'indexl6.json';
  
  
  // ╔══════════════════════════════════════════════════════════════╗
@@ -198,8 +198,3 @@
  //       que indiquen qué carpeta se está intentando cargar
  //
  // ═══════════════════════════════════════════════════════════════
- 
- 
- console.log('✅ config.js cargado');
- console.log('📂 Carpeta configurada:', CONFIG_CARPETA_ACTIVA);
- console.log('🔗 Ruta índice:', obtenerRutaIndex());

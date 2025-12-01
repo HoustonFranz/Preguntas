@@ -1,0 +1,599 @@
+{
+    "cuestionario": {
+      "titulo": "Cuestionario Técnicas e Instrumentos - Bloque 1",
+      "autor": "Sistema Educativo",
+      "descripcion": "Primer bloque de 25 preguntas basadas exclusivamente en lectura 13",
+      "secciones": [
+        {
+          "nombre": "Bloque 1",
+          "rango_preguntas": "1-25",
+          "preguntas": [
+  
+            {
+              "numero": 1,
+              "tipo": "open_ended",
+              "pregunta": "Según Arias (2012), ¿cómo define las técnicas de recolección de datos?",
+              "palabras_clave": {
+                "palabras": ["distintas formas o maneras de obtener la información"],
+                "estrategia": "partial",
+                "umbral_minimo": 1
+              },
+              "referencia": "Semana 13, p.25: “Las técnicas de recolección de datos son los distintas formas o maneras de obtener la información.”"
+            },
+  
+            {
+              "numero": 2,
+              "tipo": "open_ended",
+              "pregunta": "Según Arias (2012), ¿qué son los instrumentos?",
+              "palabras_clave": {
+                "palabras": ["medios materiales", "recoger", "almacenar", "información"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Semana 13, p.25: “Los instrumentos son los medios materiales que se emplean para recoger y almacenar la información.”"
+            },
+  
+            {
+              "numero": 3,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué interrogante debe responder el investigador respecto a la perspectiva metodológica antes de seleccionar técnicas e instrumentos?",
+              "palabras_clave": {
+                "palabras": ["perspectiva metodológica"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.16: “¿Estoy claro sobre la perspectiva metodológica bajo la cual se realizará la investigación?”"
+            },
+  
+            {
+              "numero": 4,
+              "tipo": "open_ended",
+              "pregunta": "Completa: La investigación según el Diccionario de la Real Academia Española significa indagar, averiguar, buscar para ________.",
+              "palabras_clave": {
+                "palabras": ["descubrir algo"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.18: “indagar, averiguar, buscar para descubrir algo…”"
+            },
+  
+            {
+              "numero": 5,
+              "tipo": "multiple_choice",
+              "pregunta": "Según el plano ontológico cuantitativo, la realidad está:",
+              "opciones": {
+                "A": "socialmente construida",
+                "B": "subjetivamente interpretada",
+                "C": "dada externa al sujeto",
+                "D": "determinada por significados múltiples"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Semana 13, p.19: “La realidad está dada externa al sujeto.”"
+            },
+  
+            {
+              "numero": 6,
+              "tipo": "open_ended",
+              "pregunta": "Según Piñero, Rivera y Esteban (2019), ¿qué guía el proceder científico del investigador?",
+              "palabras_clave": {
+                "palabras": ["acto investigativo", "visión de ciencia", "paradigma", "método"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Semana 13, p.18: “Es la manera de representar el acto investigativo que guía el proceder científico del investigador…”"
+            },
+  
+            {
+              "numero": 7,
+              "tipo": "true_false",
+              "pregunta": "La realidad en la perspectiva cualitativa es subjetiva, incierta, múltiple y significada.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "Semana 13, p.19."
+            },
+  
+            {
+              "numero": 8,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué tipo de discurso caracteriza la perspectiva cuantitativa en el plano epistemológico?",
+              "palabras_clave": {
+                "palabras": ["discurso en tercera persona"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.19: “Discurso en tercera persona.”"
+            },
+  
+            {
+              "numero": 9,
+              "tipo": "open_ended",
+              "pregunta": "Según Cárdenas (2018), ¿qué produce la investigación?",
+              "palabras_clave": {
+                "palabras": ["conocimiento basado en datos"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.18: “La investigación produce conocimiento basado en datos…”"
+            },
+  
+            {
+              "numero": 10,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál método corresponde a la perspectiva cualitativa?",
+              "opciones": {
+                "A": "Hipotético-deductivo",
+                "B": "Fenomenológico",
+                "C": "Explicativo-controlador",
+                "D": "Cuasi-experimental"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 13, p.19–20."
+            },
+  
+            {
+              "numero": 11,
+              "tipo": "open_ended",
+              "pregunta": "Completa: La recolección de información es una etapa ________ del proceso de investigación.",
+              "palabras_clave": {
+                "palabras": ["operativa"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.21: “La recolección de información es una etapa operativa del proceso de investigación…”"
+            },
+  
+            {
+              "numero": 12,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué pregunta debe responder el investigador sobre el objeto de estudio antes de elegir técnicas e instrumentos?",
+              "palabras_clave": {
+                "palabras": ["objeto de estudio"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.17."
+            },
+  
+            {
+              "numero": 13,
+              "tipo": "true_false",
+              "pregunta": "En la perspectiva metodológica cuantitativa hay predominio de datos cuantitativos.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "Semana 13, p.20."
+            },
+  
+            {
+              "numero": 14,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué técnica es recomendable bajo el enfoque cuantitativo?",
+              "palabras_clave": {
+                "palabras": ["encuesta"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.20: “es recomendable la técnica de la encuesta…”"
+            },
+  
+            {
+              "numero": 15,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué caracteriza el diseño en la perspectiva cualitativa?",
+              "palabras_clave": {
+                "palabras": ["abierto", "flexible", "recursivo"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Semana 13, p.19–20."
+            },
+  
+            {
+              "numero": 16,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué se debe determinar en el plan de recolección de información respecto a las fuentes?",
+              "palabras_clave": {
+                "palabras": ["fuentes", "localizan", "medio"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.4
+              },
+              "referencia": "Semana 13, p.21."
+            },
+  
+            {
+              "numero": 17,
+              "tipo": "multiple_choice",
+              "pregunta": "Según el plano epistemológico cualitativo, el conocimiento es:",
+              "opciones": {
+                "A": "predeterminado",
+                "B": "emergente",
+                "C": "objetivo",
+                "D": "métrico"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 13, p.19."
+            },
+  
+            {
+              "numero": 18,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué pregunta debe responder el investigador sobre los informantes?",
+              "palabras_clave": {
+                "palabras": ["quiénes serán los informantes"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.17."
+            },
+  
+            {
+              "numero": 19,
+              "tipo": "open_ended",
+              "pregunta": "Completa: Las técnicas son las diferentes formas utilizadas por el investigador para ______ el evento de estudio.",
+              "palabras_clave": {
+                "palabras": ["obtener información"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.22."
+            },
+  
+            {
+              "numero": 20,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué debe mantener el investigador para asegurar el rigor científico en las perspectivas metodológicas?",
+              "palabras_clave": {
+                "palabras": ["coherencia paradigmática"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.18."
+            },
+  
+            {
+              "numero": 21,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué buscan las perspectivas metodológicas cuantitativas?",
+              "palabras_clave": {
+                "palabras": ["describir", "explicar", "controlar", "predecir"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Semana 13, p.20."
+            },
+  
+            {
+              "numero": 22,
+              "tipo": "open_ended",
+              "pregunta": "Completa: El diseño cuantitativo es ______ y utiliza población y muestra.",
+              "palabras_clave": {
+                "palabras": ["rígido"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.19."
+            },
+  
+            {
+              "numero": 23,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué tipo de datos predominan en la perspectiva cualitativa?",
+              "palabras_clave": {
+                "palabras": ["datos cualitativos"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.20."
+            },
+  
+            {
+              "numero": 24,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué método cualitativo busca conocer, describir, comprender, interpretar y categorizar?",
+              "palabras_clave": {
+                "palabras": ["Fenomenológico", "Hermenêutico", "Etnográfico"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.34
+              },
+              "referencia": "Semana 13, p.19."
+            },
+  
+            {
+              "numero": 25,
+              "tipo": "open_ended",
+              "pregunta": "Según Hernández, Fernández y Baptista (2014), ¿qué aspecto debe considerar el investigador al establecer las fuentes de datos?",
+              "palabras_clave": {
+                "palabras": ["en dónde se localizan tales fuentes"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 13, p.21."
+            }
+  
+          ]
+        },
+        {
+            "nombre": "Bloque 2",
+            "rango_preguntas": "26-50",
+            "preguntas": [
+      
+              {
+                "numero": 26,
+                "tipo": "open_ended",
+                "pregunta": "Según Piñero, Rivera y Esteban (2019), ¿qué se contempla en el enfoque epistemológico dentro de la perspectiva metodológica?",
+                "palabras_clave": {
+                  "palabras": ["visión de ciencia"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.18."
+              },
+      
+              {
+                "numero": 27,
+                "tipo": "open_ended",
+                "pregunta": "Completa: En el plano epistemológico cuantitativo predomina la ________, la objetividad y la observación métrica.",
+                "palabras_clave": {
+                  "palabras": ["predeterminación"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.19."
+              },
+      
+              {
+                "numero": 28,
+                "tipo": "multiple_choice",
+                "pregunta": "Según la perspectiva cualitativa, ¿cuál es el tipo de discurso utilizado?",
+                "opciones": {
+                  "A": "Discurso en tercera persona",
+                  "B": "Discurso descriptivo-métrico",
+                  "C": "Discurso en primera persona singular",
+                  "D": "Discurso operativo-estructurado"
+                },
+                "respuesta_correcta": "C",
+                "referencia": "Semana 13, p.19."
+              },
+      
+              {
+                "numero": 29,
+                "tipo": "open_ended",
+                "pregunta": "¿Qué pregunta debe responder el investigador respecto al tiempo disponible de los informantes antes de seleccionar técnicas e instrumentos?",
+                "palabras_clave": {
+                  "palabras": ["disponibilidad de tiempo"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.17."
+              },
+      
+              {
+                "numero": 30,
+                "tipo": "true_false",
+                "pregunta": "La realidad en el enfoque socio-crítico es intersubjetiva y socialmente construida.",
+                "respuesta_correcta": "Verdadero",
+                "referencia": "Semana 13, p.19."
+              },
+      
+              {
+                "numero": 31,
+                "tipo": "open_ended",
+                "pregunta": "Según Cárdenas (2018), ¿qué permite la investigación en relación con la toma de decisiones?",
+                "palabras_clave": {
+                  "palabras": ["decisiones más razonables"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.18."
+              },
+      
+              {
+                "numero": 32,
+                "tipo": "open_ended",
+                "pregunta": "Completa: Investigar implica la reflexión ________ y metódica del investigador.",
+                "palabras_clave": {
+                  "palabras": ["sistemática"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.18."
+              },
+      
+              {
+                "numero": 33,
+                "tipo": "multiple_choice",
+                "pregunta": "¿Cuál es un método característico del plano metodológico cuantitativo?",
+                "opciones": {
+                  "A": "Histórico de vida",
+                  "B": "Hipotético deductivo",
+                  "C": "Interaccionismo simbólico",
+                  "D": "Análisis hermenéutico"
+                },
+                "respuesta_correcta": "B",
+                "referencia": "Semana 13, p.19."
+              },
+      
+              {
+                "numero": 34,
+                "tipo": "open_ended",
+                "pregunta": "¿Qué debe asegurar el investigador respecto al rigor científico según la coherencia paradigmática?",
+                "palabras_clave": {
+                  "palabras": ["principios epistemológicos", "paradigma"],
+                  "estrategia": "partial",
+                  "umbral_minimo": 0.5
+                },
+                "referencia": "Semana 13, p.18."
+              },
+      
+              {
+                "numero": 35,
+                "tipo": "open_ended",
+                "pregunta": "Según Hernández, Fernández y Baptista (2014), ¿qué debe establecerse respecto al medio o método para recolectar datos?",
+                "palabras_clave": {
+                  "palabras": ["medio", "método", "recolectar los datos"],
+                  "estrategia": "partial",
+                  "umbral_minimo": 0.4
+                },
+                "referencia": "Semana 13, p.21."
+              },
+      
+              {
+                "numero": 36,
+                "tipo": "multiple_choice",
+                "pregunta": "En la perspectiva cualitativa se aconseja como técnica:",
+                "opciones": {
+                  "A": "Encuesta estructurada",
+                  "B": "Lista de cotejo",
+                  "C": "Entrevista a profundidad",
+                  "D": "Test objetivo"
+                },
+                "respuesta_correcta": "C",
+                "referencia": "Semana 13, p.20."
+              },
+      
+              {
+                "numero": 37,
+                "tipo": "open_ended",
+                "pregunta": "Completa: Las técnicas deben estar acorde con los ________ de investigación.",
+                "palabras_clave": {
+                  "palabras": ["objetivos"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.22."
+              },
+      
+              {
+                "numero": 38,
+                "tipo": "true_false",
+                "pregunta": "Los instrumentos incluyen fichas, formatos, cuestionarios, guías de entrevistas y escalas de actitudes.",
+                "respuesta_correcta": "Verdadero",
+                "referencia": "Semana 13, p.25."
+              },
+      
+              {
+                "numero": 39,
+                "tipo": "open_ended",
+                "pregunta": "Según Arias (2012), ¿qué ejemplos se mencionan como técnicas de recolección de datos?",
+                "palabras_clave": {
+                  "palabras": ["observación", "encuesta", "análisis documental", "análisis de contenido"],
+                  "estrategia": "partial",
+                  "umbral_minimo": 0.5
+                },
+                "referencia": "Semana 13, p.25."
+              },
+      
+              {
+                "numero": 40,
+                "tipo": "multiple_choice",
+                "pregunta": "¿Qué tipo de diseño es característico de la perspectiva cualitativa?",
+                "opciones": {
+                  "A": "Rígido",
+                  "B": "Cuantificable",
+                  "C": "Flexible y recursivo",
+                  "D": "Controlado y predictivo"
+                },
+                "respuesta_correcta": "C",
+                "referencia": "Semana 13, p.19."
+              },
+      
+              {
+                "numero": 41,
+                "tipo": "open_ended",
+                "pregunta": "¿Qué debe tener claro el investigador respecto a la utilización de instrumentos para la recolección?",
+                "palabras_clave": {
+                  "palabras": ["uno o varios instrumentos"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.17."
+              },
+      
+              {
+                "numero": 42,
+                "tipo": "open_ended",
+                "pregunta": "Completa: Las técnicas están conformadas por un conjunto de reglas y ________.",
+                "palabras_clave": {
+                  "palabras": ["procedimientos"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.22."
+              },
+      
+              {
+                "numero": 43,
+                "tipo": "multiple_choice",
+                "pregunta": "En la recolección de información, ¿qué se debe determinar sobre las fuentes?",
+                "opciones": {
+                  "A": "El tamaño exacto de la muestra",
+                  "B": "En dónde se localizan tales fuentes",
+                  "C": "El número de variables",
+                  "D": "La hipótesis a comprobar"
+                },
+                "respuesta_correcta": "B",
+                "referencia": "Semana 13, p.21."
+              },
+      
+              {
+                "numero": 44,
+                "tipo": "true_false",
+                "pregunta": "El investigador debe decidir si aplicará un plan de intervención para modificar el evento de estudio.",
+                "respuesta_correcta": "Verdadero",
+                "referencia": "Semana 13, p.17."
+              },
+      
+              {
+                "numero": 45,
+                "tipo": "open_ended",
+                "pregunta": "¿Qué pregunta debe hacerse el investigador sobre el contexto de aplicación de las técnicas e instrumentos?",
+                "palabras_clave": {
+                  "palabras": ["contexto natural", "ambientes cerrados"],
+                  "estrategia": "partial",
+                  "umbral_minimo": 0.4
+                },
+                "referencia": "Semana 13, p.17."
+              },
+      
+              {
+                "numero": 46,
+                "tipo": "open_ended",
+                "pregunta": "Completa: La perspectiva cuantitativa recomienda como instrumento el cuestionario, entrevistas estructuradas, test y ________.",
+                "palabras_clave": {
+                  "palabras": ["lista de cotejo"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.20."
+              },
+      
+              {
+                "numero": 47,
+                "tipo": "open_ended",
+                "pregunta": "¿Qué predomina en la perspectiva cuantitativa según el texto?",
+                "palabras_clave": {
+                  "palabras": ["datos cuantitativos"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.20."
+              },
+      
+              {
+                "numero": 48,
+                "tipo": "multiple_choice",
+                "pregunta": "Según la clasificación de técnicas e instrumentos presentada, ¿qué autor propone la clasificación mostrada en el Gráfico 4?",
+                "opciones": {
+                  "A": "Sáez",
+                  "B": "Lerma H.",
+                  "C": "Ruiz Bolívar",
+                  "D": "Padua"
+                },
+                "respuesta_correcta": "B",
+                "referencia": "Semana 13, p.24."
+              },
+      
+              {
+                "numero": 49,
+                "tipo": "open_ended",
+                "pregunta": "Completa: Las técnicas e instrumentos de investigación deben estar vinculados con la ________ de la investigación.",
+                "palabras_clave": {
+                  "palabras": ["perspectiva"],
+                  "estrategia": "all"
+                },
+                "referencia": "Semana 13, p.22."
+              },
+      
+              {
+                "numero": 50,
+                "tipo": "open_ended",
+                "pregunta": "¿Qué resume el Gráfico 1 respecto a la relación entre técnicas e instrumentos?",
+                "palabras_clave": {
+                  "palabras": ["definiciones", "contribución", "vinculación"],
+                  "estrategia": "partial",
+                  "umbral_minimo": 0.5
+                },
+                "referencia": "Semana 13, p.22."
+              }
+      
+            ]
+          }
+      ]
+    }
+}
+
+  
