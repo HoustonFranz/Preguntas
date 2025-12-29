@@ -1,0 +1,310 @@
+{
+    "cuestionario": {
+      "titulo": "Evaluación Integral de Auditoría Administrativa",
+      "autor": "Sistema Académico Universitario",
+      "descripcion": "Consolidado total de preguntas del Segundo Examen Parcial y la Práctica Calificada.",
+      "secciones": [
+        {
+          "nombre": "Examen Parcial y Casos Prácticos",
+          "preguntas": [
+            {
+              "numero": 1,
+              "tipo": "multiple_choice",
+              "pregunta": "Una empresa de auditoría revisa papeles de trabajo de Agro Verde S.A.C. y nota que no se han actualizado en los últimos tres años. ¿A qué tipo de archivo corresponde?",
+              "opciones": {
+                "a": "Archivo de planificación",
+                "b": "Archivo corriente",
+                "c": "Archivo resumen",
+                "d": "Archivo permanente"
+              },
+              "respuesta_correcta": "d"
+              
+            },
+            {
+              "numero": 2,
+              "tipo": "true_false",
+              "pregunta": "En los hallazgos de auditoría no es relevante obtener los comentarios del auditado.",
+              "respuesta_correcta": "Falsa"
+              
+            },
+            {
+              "numero": 3,
+              "tipo": "true_false",
+              "pregunta": "Los informes de auditoría pueden variar de acuerdo a situaciones particulares en la revisión.",
+              "respuesta_correcta": "Verdadera"
+              
+            },
+            {
+              "numero": 4,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuáles son las etapas de la auditoría administrativa?",
+              "palabras_clave": {
+                "palabras": ["Planeación", "Ejecución", "Informe", "Seguimiento"],
+                "estrategia": "partial",
+                "umbral_minimo": 1
+              }
+              
+            },
+            {
+              "numero": 5,
+              "tipo": "open_ended",
+              "pregunta": "Defina el objetivo principal del informe de auditoría para el Área de Recursos Humanos.",
+              "palabras_clave": {
+                "palabras": ["revisar procesos", "administrativos y laborales", "cumplimiento", "políticas internas"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              }
+              
+            },
+            {
+              "numero": 6,
+              "tipo": "open_ended",
+              "pregunta": "¿Quién es el directo responsable de la redacción del plan de auditoría en Transporte Global S.A.?",
+              "palabras_clave": {
+                "palabras": ["auditor líder"],
+                "estrategia": "all"
+              }
+              
+            },
+            {
+              "numero": 7,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Según norma ISO 19011, con qué principio de auditoría se relaciona el enfoque en asuntos significativos para lograr objetivos?",
+              "opciones": {
+                "a": "Independencia",
+                "b": "Enfoque basado en la evidencia",
+                "c": "Presentación imparcial",
+                "d": "Integridad",
+                "e": "Enfoque basado en riesgos"
+              },
+              "respuesta_correcta": "e"
+             
+            },
+            {
+              "numero": 8,
+              "tipo": "multiple_choice",
+              "pregunta": "Es el nivel de riesgo que una organización está dispuesta a aceptar sin implementar controles adicionales.",
+              "opciones": {
+                "a": "Evaluación de riesgos",
+                "b": "Gobierno y cultura",
+                "c": "Apetito al riesgo",
+                "d": "Gravedad del riesgo",
+                "e": "Riesgo y desempeño"
+              },
+              "respuesta_correcta": "c"
+             
+            },
+            {
+              "numero": 9,
+              "tipo": "multiple_choice",
+              "pregunta": "Textiles del Centro SA tiene alta rotación y un nuevo sistema sin capacitación. ¿Qué riesgo debe preocupar más al auditor?",
+              "opciones": {
+                "a": "Riesgo inherente",
+                "b": "Riesgo de control",
+                "c": "Riesgo de detección",
+                "d": "Riesgo residual",
+                "e": "Evaluación de riesgos"
+              },
+              "respuesta_correcta": "b"
+             
+            },
+            {
+              "numero": 10,
+              "tipo": "multiple_choice",
+              "pregunta": "Según la norma 19011, ¿cómo se denominan las auditorías llevadas a cabo por los stakeholders?",
+              "opciones": {
+                "a": "Auditorías de tercera parte",
+                "b": "Auditorías mixtas",
+                "c": "Auditorías de segunda parte",
+                "d": "Auditorías de gestión",
+                "e": "Auditorías de primera parte"
+              },
+              "respuesta_correcta": "c"
+             
+            },
+            {
+              "numero": 11,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué componente del control interno representan la capacitación ética y el comité de cultura?",
+              "opciones": {
+                "a": "Información y comunicación",
+                "b": "Evaluación de riesgos",
+                "c": "Ambiente de control",
+                "d": "Actividades de control",
+                "e": "N/A"
+              },
+              "respuesta_correcta": "c"
+              
+            },
+            {
+              "numero": 12,
+              "tipo": "true_false",
+              "pregunta": "Si la organización no estima riesgos, el auditor interno podría realizar esa labor.",
+              "respuesta_correcta": "Verdadera"
+              
+            },
+            {
+              "numero": 13,
+              "tipo": "multiple_choice",
+              "pregunta": "Una empresa bancaria tiene falta de encriptación y controles de acceso deficientes. ¿A qué componente COSO corresponde?",
+              "opciones": {
+                "a": "Ambiente de Control",
+                "b": "Apetito de Riesgos",
+                "c": "Actividades de Control",
+                "d": "Información y Comunicación",
+                "e": "Actividades de Supervisión"
+              },
+              "respuesta_correcta": "c"
+              
+            },
+            {
+              "numero": 14,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué técnica implica examinar registros, diagramas de flujos y políticas internas?",
+              "palabras_clave": {
+                "palabras": ["Revisión documental"],
+                "estrategia": "all"
+              }
+              
+            },
+            {
+              "numero": 15,
+              "tipo": "multiple_choice",
+              "pregunta": "El uso de un sistema de comunicación interna para informar cambios en políticas corresponde a:",
+              "opciones": {
+                "a": "Ambiente de Control",
+                "b": "Apetito de Riesgos",
+                "c": "Actividades de Control",
+                "d": "Información y Comunicación",
+                "e": "Actividades de Supervisión"
+              },
+              "respuesta_correcta": "d"
+            
+            },
+            {
+              "numero": 16,
+              "tipo": "multiple_choice",
+              "pregunta": "Si los informes son poco claros y tardíos, ¿qué principio de las NOGAI se debe reforzar?",
+              "opciones": {
+                "a": "Optimizar duración de trabajo",
+                "b": "Establecer relaciones personales",
+                "c": "Comunicar conclusiones y monitorear planes",
+                "d": "Proteger la reputación del área",
+                "e": "N/A"
+              },
+              "respuesta_correcta": "c"
+             
+            },
+            {
+              "numero": 17,
+              "tipo": "multiple_choice",
+              "pregunta": "Si un gerente ofrece un incentivo para omitir un hallazgo, ¿cuál es la acción correcta según la Ética de las Normas Globales?",
+              "opciones": {
+                "a": "Aceptar si no es material",
+                "b": "Informar al superior y rechazar el incentivo",
+                "c": "Negociar información adicional",
+                "d": "Omitir para evitar conflictos",
+                "e": "N/A"
+              },
+              "respuesta_correcta": "b"
+             
+            },
+            {
+              "numero": 18,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es el propósito principal de la auditoría interna según el primer dominio del NOGAI?",
+              "opciones": {
+                "a": "Detectar fraudes",
+                "b": "Agregar valor y mejorar operaciones mediante enfoque sistemático",
+                "c": "Verificar cumplimiento únicamente",
+                "d": "Realizar revisiones financieras",
+                "e": "N/A"
+              },
+              "respuesta_correcta": "b"
+            
+            },
+            {
+              "numero": 19,
+              "tipo": "open_ended",
+              "pregunta": "Explique la diferencia entre apetito al riesgo y tolerancia de riesgo.",
+              "palabras_clave": {
+                "palabras": ["cantidad y tipo", "aceptar", "variación aceptable", "objetivo específico"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              }
+              
+            },
+            {
+              "numero": 20,
+              "tipo": "open_ended",
+              "pregunta": "¿Cómo se denomina al proceso de informar deficiencias y fomentar transparencia a los stakeholders?",
+              "palabras_clave": {
+                "palabras": ["Comunicación de Resultados", "Fase de Informe"],
+                "estrategia": "partial",
+                "umbral_minimo": 1
+              }
+             
+            },
+            {
+              "numero": 21,
+              "tipo": "multiple_choice",
+              "pregunta": "En Mazamari se sugiere rediseñar el flujo documental por duplicidad de controles. ¿Qué tipo de auditoría es?",
+              "opciones": {
+                "a": "Integral",
+                "b": "Funcional",
+                "c": "Operacional",
+                "d": "Analítica"
+              },
+              "respuesta_correcta": "c"
+              
+            },
+            {
+              "numero": 22,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué técnica se aplica al lacrar archivos ante sospecha de manipulación de expedientes físicos?",
+              "palabras_clave": {
+                "palabras": ["Revisión documental"],
+                "estrategia": "all"
+              }
+            },
+            {
+              "numero": 23,
+              "tipo": "true_false",
+              "pregunta": "Es correcto no elaborar papeles de trabajo si la evidencia queda en el informe final.",
+              "respuesta_correcta": "Falsa"
+             
+            },
+            {
+              "numero": 24,
+              "tipo": "true_false",
+              "pregunta": "La auditoría es una fase del proceso de control ya que evalúa independientemente lo planificado.",
+              "respuesta_correcta": "Verdadera"
+             
+            },
+            {
+              "numero": 25,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuál es la parte más relevante del informe final que requiere mayor cuidado del auditor?",
+              "palabras_clave": {
+                "palabras": ["conclusiones", "recomendaciones"],
+                "estrategia": "partial",
+                "umbral_minimo": 1
+              }
+              
+            },
+            {
+              "numero": 26,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué es la auditoría administrativa?",
+              "palabras_clave": {
+                "palabras": ["examen integral", "específico", "estructura organizacional"],
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              }
+               
+            }
+          ]
+        }
+      ]
+    }
+  }

@@ -1,0 +1,513 @@
+{
+    "cuestionario": {
+      "titulo": "Evaluación Integral de Auditoría Administrativa y Control Interno",
+      "descripcion": "Cuestionario de 50 preguntas diseñado para evaluar el razonamiento casuístico y el dominio conceptual en auditoría.",
+      "secciones": [
+        {
+          "nombre": "Bloque Único",
+          "preguntas": [
+            {
+              "numero": 1,
+              "tipo": "open_ended",
+              "pregunta": "Una empresa presenta errores recurrentes en su facturación que no son detectados por el sistema ni por el personal encargado. Según la teoría de riesgos, ¿cómo se denomina a la probabilidad de que el sistema de control interno no pueda prevenir, detectar o corregir estos errores?",
+              "palabras_clave": {
+                "palabras": ["Riesgo de Control"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.131: 'Riesgo de que el sistema de control interno del establecimiento no pueda prevenir, detectar y/o corregir errores.'"
+            },
+            {
+              "numero": 2,
+              "tipo": "multiple_choice",
+              "pregunta": "Durante la etapa de planeación, el auditor decide investigar la literatura técnica, legal e información del campo de trabajo para determinar la situación administrativa actual. ¿A qué procedimiento de la planeación corresponde esta acción?",
+              "opciones": {
+                "A": "Diagnóstico preliminar",
+                "B": "Investigación preliminar",
+                "C": "Propósito estratégico",
+                "D": "Asignación de responsabilidad"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 10, p.100-101: 'Reconocimiento o investigación preliminar para determinar la situación administrativa... implica la necesidad de revisar la literatura técnica y legal'."
+            },
+            {
+              "numero": 3,
+              "tipo": "true_false",
+              "pregunta": "En el marco de la estructura del informe, si un auditor decide modificar el esquema general propuesto para adaptarlo a las particularidades de su revisión, esto es considerado incorrecto ya que el informe debe ser rígido.",
+              "respuesta_correcta": false,
+              "referencia": "Semana 10, p.350: 'No todas las auditorias se adaptan a un informe rígido, por lo cual el esquema propuesto es válido en la medida que se le vea como una guía general, susceptible de sufrir las modificaciones...'"
+            },
+            {
+              "numero": 4,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor observa que en el departamento de compras, los empleados tienen acceso a las cuentas bancarias de la empresa y ellos mismos autorizan sus propios pagos. ¿A qué factor de riesgo de fraude corresponde esta situación?",
+              "palabras_clave": {
+                "palabras": ["Inadecuada segregación de funciones"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.142: 'Existen diversos factores de riesgo que pueden propiciar el fraude... Inadecuada segregación de funciones.'"
+            },
+            {
+              "numero": 5,
+              "tipo": "open_ended",
+              "pregunta": "En el proceso de implementación de recomendaciones, la organización decide realizar un ensayo en solo una sección de la empresa para medir efectos antes de una aplicación global. ¿Cómo se denomina este método?",
+              "palabras_clave": {
+                "palabras": ["Método del proyecto piloto"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.30: 'Consiste en realizar un ensayo en sólo una parte de la organización, con la finalidad de medir sus efectos... antes de implementarlos en forma global.'"
+            },
+            {
+              "numero": 6,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué característica del informe de auditoría se refiere a que este debe evitar tecnicismos innecesarios y ser fácil de entender para cualquier lector interesado?",
+              "opciones": {
+                "A": "Preciso",
+                "B": "Conciso",
+                "C": "Sencillo",
+                "D": "Oportuno"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Semana 10, p.277, 281: 'Características... Sencillo'."
+            },
+            {
+              "numero": 7,
+              "tipo": "true_false",
+              "pregunta": "La auditoría administrativa se define como el examen completo y constructivo de la estructura organizativa y sus métodos de control, según la definición de William P. Leonard.",
+              "respuesta_correcta": true,
+              "referencia": "Semana 10, p.168: 'Es el examen completo y constructivo de la estructura organizativa de una empresa... (William P. Leonard)'"
+            },
+            {
+              "numero": 8,
+              "tipo": "open_ended",
+              "pregunta": "Al evaluar el Control Interno, el auditor encuentra que los controles están estandarizados y se reporta periódicamente su efectividad a la Junta Directiva. Según las escalas de madurez, ¿qué nivel de madurez presenta la empresa?",
+              "palabras_clave": {
+                "palabras": ["Monitoreado"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.151: 'Nivel 4 Monitoreado: Los controles están estandarizados y periódicamente se evalúa la efectividad de su diseño e implementación...'"
+            },
+            {
+              "numero": 9,
+              "tipo": "open_ended",
+              "pregunta": "Una entidad pública contrata al hermano de un alto funcionario para un puesto técnico sin pasar por concurso público. ¿A qué tipo de riesgo específico corresponde esta acción?",
+              "palabras_clave": {
+                "palabras": ["Nepotismo"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.132: '1. Nepotismo: Promover designar impulsar o participar en la promoción o designación de su cónyuge... parentesco en línea recta o colateral...'"
+            },
+            {
+              "numero": 10,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es el componente de COSO que se define como el medio por el cual la información fluye en sentido ascendente, descendente y a todos los niveles de la entidad?",
+              "opciones": {
+                "A": "Ambiente de Control",
+                "B": "Actividades de Supervisión",
+                "C": "Evaluación de Riesgos",
+                "D": "Información y Comunicación"
+              },
+              "respuesta_correcta": "D",
+              "referencia": "Semana 10, p.120: 'Información y Comunicación: Medio por el cual la información se difunde a través de toda la organización, que fluye en sentido ascendente, descendente...'"
+            },
+            {
+              "numero": 11,
+              "tipo": "open_ended",
+              "pregunta": "Si un auditor está analizando la 'Misión, Visión y Estrategias' de una organización, ¿en qué etapa del proceso administrativo se está enfocando dentro de los factores a revisar?",
+              "palabras_clave": {
+                "palabras": ["Planeación"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.96: 'Proceso Administrativo Etapa Planeación: Visión, Misión, Objetivos, Metas, Estrategias/tácticas...'"
+            },
+            {
+              "numero": 12,
+              "tipo": "true_false",
+              "pregunta": "El riesgo inherente es aquel que se encuentra presente en la entidad después de considerar las actividades de control establecidas por la gerencia.",
+              "respuesta_correcta": false,
+              "referencia": "Semana 10, p.128-129: 'Riesgo Inherente... son los riesgos que se encuentran presentes en la entidad antes de considerar las actividades de control establecidas por la gerencia'."
+            },
+            {
+              "numero": 13,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor recopila información que es adecuada y convincente, de tal manera que cualquier persona llegaría a la misma conclusión. ¿Qué característica de la información se está cumpliendo?",
+              "palabras_clave": {
+                "palabras": ["Suficiente"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.68: 'Suficiente: Cuando la información está basada en hechos, es adecuada y convincente de tal manera que todas la personas puedan llegar a la misma conclusión'."
+            },
+            {
+              "numero": 14,
+              "tipo": "multiple_choice",
+              "pregunta": "En la estructura de un informe de auditoría, ¿dónde se deben incluir las 'limitaciones al trabajo impuestas por el personal auditado'?",
+              "opciones": {
+                "A": "Cuerpo",
+                "B": "Principio",
+                "C": "Final",
+                "D": "Recomendaciones"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 10, p.284, 293: 'Estructura básica sugerida Principio... 4. Limitaciones al trabajo, impuestas por el personal auditado o las circunstancias.'"
+            },
+            {
+              "numero": 15,
+              "tipo": "open_ended",
+              "pregunta": "El auditor registra los procedimientos, técnicas utilizadas, resultados y conclusiones que sustentan su opinión en documentos específicos. ¿Cómo se denominan estos documentos?",
+              "palabras_clave": {
+                "palabras": ["Cédulas de auditoría"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.65: 'Las cedulas de auditoria son los documentos en los que se registran los procedimientos y técnicas utilizadas... así como los resultados y conclusiones'."
+            },
+            {
+              "numero": 16,
+              "tipo": "open_ended",
+              "pregunta": "Una empresa decide implementar las recomendaciones de auditoría operando simultáneamente las condiciones normales y las nuevas por un periodo determinado. ¿Qué método de implementación está utilizando?",
+              "palabras_clave": {
+                "palabras": ["Método en paralelo"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.31: 'Método en paralelo. Representa la operación simultánea por un periodo determinado, tanto de las condiciones normales de trabajo, como las que se van a implementar'."
+            },
+            {
+              "numero": 17,
+              "tipo": "true_false",
+              "pregunta": "La comunicación efectiva en la auditoría es esencial únicamente para que los auditores internos entiendan sus propios hallazgos.",
+              "respuesta_correcta": false,
+              "referencia": "Semana 10, p.359: 'La comunicación efectiva en la auditoría es esencial para garantizar que los resultados y recomendaciones sean comprendidos y aceptados por las partes interesadas.'"
+            },
+            {
+              "numero": 18,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué técnica de levantamiento de información consiste en la presencia física del auditor para observar cómo se administran los riesgos inherentes?",
+              "opciones": {
+                "A": "Entrevistas",
+                "B": "Cuestionarios",
+                "C": "Observaciones de campo",
+                "D": "Revisión documental"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Semana 10, p.59: 'Observaciones de campo: Es la presencia física del auditor para observar como se realizan ciertos hechos u operaciones y como se administran los riesgos'."
+            },
+            {
+              "numero": 19,
+              "tipo": "open_ended",
+              "pregunta": "Dentro de la planeación, se deben determinar los factores fundamentales para el estudio de la organización. ¿Cuáles son las dos vertientes mencionadas para este análisis?",
+              "palabras_clave": {
+                "palabras": ["proceso administrativo", "elementos específicos"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.95: 'Determinar los factores que se consideran fundamentales... en función de dos vertientes: el proceso administrativo y los elementos específicos que forman parte de su funcionamiento'."
+            },
+            {
+              "numero": 20,
+              "tipo": "true_false",
+              "pregunta": "El archivo corriente de auditoría es aquel que contiene documentación que no varía con el tiempo y sirve de base para futuras auditorías.",
+              "respuesta_correcta": false,
+              "referencia": "Semana 10, p.86-87: 'Archivo permanente/maestro: Contiene documentación que no varía con el tiempo... Archivo corriente: Custodia la información de la auditoria en curso'."
+            },
+            {
+              "numero": 21,
+              "tipo": "open_ended",
+              "pregunta": "Al finalizar una entrevista, ¿qué documento debe elaborar el auditor para que el entrevistado ratifique o rectifique lo tratado?",
+              "palabras_clave": {
+                "palabras": ["resumen escrito"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.55-56: 'Al concluir la entrevista se tiene que elaborar un resumen escrito... y debe ser presentado al entrevistado para que ratifique o rectifique su contenido'."
+            },
+            {
+              "numero": 22,
+              "tipo": "multiple_choice",
+              "pregunta": "¿A qué órgano de gobierno corporativo le corresponde la responsabilidad de elegir a la Junta Directiva?",
+              "opciones": {
+                "A": "Dirección General",
+                "B": "Comité de Auditoría",
+                "C": "Asamblea de Accionistas",
+                "D": "Alta Gerencia"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Semana 10, p.158-160: 'La Junta Directiva... es el grupo de personas elegido por la asamblea o junta de socios'."
+            },
+            {
+              "numero": 23,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor detecta que los estados financieros han sido manipulados intencionalmente para mostrar mayores ganancias. ¿Cómo se define técnicamente este acto de engaño intencionado?",
+              "palabras_clave": {
+                "palabras": ["Fraude"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.137: 'Fraude es engañar o aprovecharse del error de una persona de manera intencionada para hacerse ilícitamente de alguna cosa o alcanzar un lucro indebido'."
+            },
+            {
+              "numero": 24,
+              "tipo": "true_false",
+              "pregunta": "Según el modelo de riesgos, el Riesgo de Detección (RD) es la parte que el auditor puede controlar.",
+              "respuesta_correcta": true,
+              "referencia": "Semana 10, p.145: 'En este modelo la parte que puede controlar el auditor es el Riesgo de Detección (RD).'"
+            },
+            {
+              "numero": 25,
+              "tipo": "open_ended",
+              "pregunta": "Si un hallazgo de auditoría no constituye una deficiencia, pero ayuda a fortalecer procesos y su adopción es voluntaria para la empresa, ¿cómo se clasifica?",
+              "palabras_clave": {
+                "palabras": ["Oportunidades de mejora"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.155: 'Oportunidades de mejora: Corresponde a aquellos hallazgos que, no siendo una deficiencia, están relacionados con actividades de ajuste que buscan fortalecer los procesos...'"
+            },
+            {
+              "numero": 26,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué elemento del proceso administrativo tiene como propósito estratégico el 'diseñar e instrumentar la infraestructura para el funcionamiento de la organización'?",
+              "palabras_clave": {
+                "palabras": ["Organización"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.96: 'Proceso Administrativo Etapa Organización... Propósito Estratégico: Diseñar e instrumentar la infraestructura para el funcionamiento de la organización'."
+            },
+            {
+              "numero": 27,
+              "tipo": "multiple_choice",
+              "pregunta": "En la preparación del programa de implementación, ¿qué paso implica determinar la secuencia de las actividades y su duración total?",
+              "opciones": {
+                "A": "Integración de recursos",
+                "B": "Ejecución del programa",
+                "C": "Preparación del programa",
+                "D": "Método instantáneo"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Semana 10, p.26: 'Preparación del programa: Determinar las actividades que deben efectuarse y la secuencia de su realización; Establecer el tiempo de duración...'"
+            },
+            {
+              "numero": 28,
+              "tipo": "true_false",
+              "pregunta": "El control interno proporciona seguridad absoluta respecto del logro de los objetivos institucionales.",
+              "respuesta_correcta": false,
+              "referencia": "Semana 10, p.117, 123: '...diseñado para proporcionar seguridad razonable respecto del logro de objetivos'."
+            },
+            {
+              "numero": 29,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor debe mantener un trato estrictamente de trabajo y presentar una imagen profesional. ¿A qué aspecto de la preparación del programa de auditoría corresponde esto?",
+              "palabras_clave": {
+                "palabras": ["Actitud"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.109, 112: 'Actitud... Presentar una imagen profesional y mantener un trato personal estrictamente de trabajo'."
+            },
+            {
+              "numero": 30,
+              "tipo": "open_ended",
+              "pregunta": "¿Cómo se define el proceso de evaluar si los componentes y principios de control están presentes y funcionando en la entidad según COSO?",
+              "palabras_clave": {
+                "palabras": ["Actividades de Supervisión"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.121: 'Actividades de Supervisión: Evaluar si los componentes y principios están presentes y funcionando en la entidad'."
+            },
+            {
+              "numero": 31,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál de las siguientes es una fuente de información interna para el auditor?",
+              "opciones": {
+                "A": "Entes reguladores",
+                "B": "Competidores actuales",
+                "C": "Órganos de gobierno",
+                "D": "Riesgos de la industria"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Semana 10, p.98: 'Fuentes de información Internas: Órganos de gobierno, Órganos de control interno, Actas...'"
+            },
+            {
+              "numero": 32,
+              "tipo": "true_false",
+              "pregunta": "Las deficiencias de control se presentan cuando un control opera exactamente de acuerdo a como fue diseñado.",
+              "respuesta_correcta": false,
+              "referencia": "Semana 10, p.156: 'Las deficiencias, se presentan cuando el control... no está adecuadamente diseñado, no fue implementado o no opera de acuerdo como fue diseñado'."
+            },
+            {
+              "numero": 33,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuál es el objetivo principal del diagnóstico preliminar en la etapa de planeación?",
+              "palabras_clave": {
+                "palabras": ["acercamiento a la realidad", "cultura organizacional"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.113: 'Diagnóstico preliminar... existe un acercamiento a la realidad y a la cultura organizacional'."
+            },
+            {
+              "numero": 34,
+              "tipo": "open_ended",
+              "pregunta": "En la etapa de ejecución, se aplican indicadores y se manejan papeles de trabajo para sustentar pruebas. ¿Cómo se denomina genéricamente a este conjunto de actividades?",
+              "palabras_clave": {
+                "palabras": ["Levantamiento de información"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.41-43: 'Etapas... Ejecución. Levantamiento de información: Actividades que lleva a cabo el auditor... para sustentar la aplicación de las pruebas'."
+            },
+            {
+              "numero": 35,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué término se utiliza para describir la desviación de recursos financieros de manera ilícita en una entidad pública?",
+              "opciones": {
+                "A": "Soborno",
+                "B": "Tráfico de información",
+                "C": "Fraude económico",
+                "D": "Favoritismo político"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Semana 10, p.135: '5. Fraude económico: Desviación de recursos financieros'."
+            },
+            {
+              "numero": 36,
+              "tipo": "true_false",
+              "pregunta": "La auditoría administrativa es considerada un medio de cambio porque los resultados permiten elaborar sugerencias para corregir errores.",
+              "respuesta_correcta": true,
+              "referencia": "Semana 10, p.172: 'También se le dice medio de cambio ya que con los resultados obtenidos el auditor elabora un dictamen con sugerencias... para corregir algún error'."
+            },
+            {
+              "numero": 37,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor nota que la gerencia no ha establecido un código de conducta ni sanciones. ¿Qué componente de COSO se ve principalmente debilitado?",
+              "palabras_clave": {
+                "palabras": ["Ambiente de Control"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.117-118, 142: 'Ambiente de Control... base para llevar a cabo el SCI... Ausencia de un código de conducta (sanción).'"
+            },
+            {
+              "numero": 38,
+              "tipo": "open_ended",
+              "pregunta": "En la metodología de auditoría, ¿qué etapa tiene como fin garantizar que las acciones se conduzcan de forma programada y sistemática?",
+              "palabras_clave": {
+                "palabras": ["Planeación"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.90-91: 'Metodología de la auditoría administrativa... Planeación... garantizar que las tareas sean ejecutadas sin dificultad'."
+            },
+            {
+              "numero": 39,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué tipo de informe de auditoría se caracteriza por tener '10 diapositivas o menos'?",
+              "opciones": {
+                "A": "Informe extenso",
+                "B": "Resumen",
+                "C": "Cédula",
+                "D": "Papel de trabajo"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 10, p.347: 'RESUMEN... 10 DIAPOSITIVAS O MENOS'."
+            },
+            {
+              "numero": 40,
+              "tipo": "true_false",
+              "pregunta": "Las técnicas de levantamiento de información deben aplicarse al personal adecuado y notificarse oportunamente.",
+              "respuesta_correcta": true,
+              "referencia": "Semana 10, p.51-52: 'Para asegurar la información... realizarlo al personal adecuado. Notificar oportunamente a las personas que se entrevistarán'."
+            },
+            {
+              "numero": 41,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor encuentra que una empresa utiliza sistemas de información obsoletos que facilitan el robo de datos. ¿A qué categoría de riesgo de fraude (Procesos, Personal, Sistemas, Administración) pertenece?",
+              "palabras_clave": {
+                "palabras": ["Sistemas"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.143: 'Riesgos de fraude... Sistemas: Falta/debilidad de controles automáticos...'"
+            },
+            {
+              "numero": 42,
+              "tipo": "open_ended",
+              "pregunta": "¿Qué característica de los papeles de trabajo asegura que su contenido no sea divulgado a personas ajenas a la auditoría?",
+              "palabras_clave": {
+                "palabras": ["Condición confidencial"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.78: 'Los papeles de trabajo... su condición confidencial se mantiene durante el curso de la auditoría y después de realizada esta'."
+            },
+            {
+              "numero": 43,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Qué técnica permite obtener información clara y concisa mediante series de preguntas escritas y secuenciadas?",
+              "opciones": {
+                "A": "Entrevistas",
+                "B": "Cuestionarios",
+                "C": "Observaciones",
+                "D": "Cédulas"
+              },
+              "respuesta_correcta": "B",
+              "referencia": "Semana 10, p.60: 'Cuestionarios: Son instrumentos y están constituidos por series de preguntas escritas, predefinidas, secuenciadas'."
+            },
+            {
+              "numero": 44,
+              "tipo": "true_false",
+              "pregunta": "El control interno es un proceso efectuado únicamente por el auditor interno de la empresa.",
+              "respuesta_correcta": false,
+              "referencia": "Semana 10, p.117: '...como un proceso efectuado por la junta directiva, la gerencia y otro personal designado'."
+            },
+            {
+              "numero": 45,
+              "tipo": "open_ended",
+              "pregunta": "Cuando una información sirve específicamente para los propósitos de la auditoría, ¿se dice que es?",
+              "palabras_clave": {
+                "palabras": ["Útil"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.71: 'Útil: Porque sirve para los propósitos de la auditoría'."
+            },
+            {
+              "numero": 46,
+              "tipo": "open_ended",
+              "pregunta": "En la estructura sugerida del informe, ¿bajo qué sección se deben colocar los 'comentarios y puntos de vista de los auditados'?",
+              "palabras_clave": {
+                "palabras": ["Cuerpo"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.298, 302: '2. Cuerpo... 3. Comentarios y puntos de vista de los auditados'."
+            },
+            {
+              "numero": 47,
+              "tipo": "multiple_choice",
+              "pregunta": "Si un auditor evalúa el 'Liderazgo, Comunicación y Motivación', ¿en qué etapa del proceso administrativo está trabajando?",
+              "opciones": {
+                "A": "Planeación",
+                "B": "Organización",
+                "C": "Dirección",
+                "D": "Control"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Semana 10, p.96: 'Proceso Administrativo Etapa Dirección: Liderazgo, Comunicación, Motivación...'"
+            },
+            {
+              "numero": 48,
+              "tipo": "true_false",
+              "pregunta": "La gestión de riesgos requiere de tres fases específicas: identificación, evaluación y control.",
+              "respuesta_correcta": true,
+              "referencia": "Semana 10, p.126: '...requiere de tres fases específicas: identificación, evaluación y control de los riesgos'."
+            },
+            {
+              "numero": 49,
+              "tipo": "open_ended",
+              "pregunta": "¿Cómo se denominan las acciones correctivas dirigidas a las autoridades competentes tras un proceso de fiscalización?",
+              "palabras_clave": {
+                "palabras": ["Medidas de remediación"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.25: 'Medidas de remediación y su implementación: Son acciones correctivas y preventivas... dirigidas a las autoridades competentes'."
+            },
+            {
+              "numero": 50,
+              "tipo": "open_ended",
+              "pregunta": "¿Cuál es el propósito estratégico de la etapa de 'Control' dentro del proceso administrativo?",
+              "palabras_clave": {
+                "palabras": ["medición del progreso", "desempeño"],
+                "estrategia": "all"
+              },
+              "referencia": "Semana 10, p.97: 'Proceso Administrativo Etapa Control... Propósito Estratégico: Medición del progreso de las acciones en función del desempeño'."
+            }
+          ]
+        }
+      ]
+    }
+  }

@@ -1,0 +1,596 @@
+{
+    "cuestionario": {
+      "titulo": "Cuestionario de Rigor Conceptual: Auditoría Administrativa",
+      "autor": "Docente Universitario, IQ 157",
+      "descripcion": "Cuestionario diseñado para evaluar la comprensión profunda de conceptos fundamentales sobre auditoría administrativa según el material de estudio.",
+      "secciones": [
+        {
+          "nombre": "I. Fundamentos de Auditoría Administrativa",
+          "rango_preguntas": "1-17",
+          "preguntas": [
+            {
+              "numero": 1,
+              "tipo": "open_ended",
+              "pregunta": "Una empresa de manufactura ha detectado que sus procesos de producción no alcanzan los estándares establecidos y desea verificar la eficiencia de su estructura organizativa y métodos de control. ¿Qué tipo de examen debe realizar según la definición de William P. Leonard?",
+              "palabras_clave": {
+                "palabras": ["auditoría", "administrativa"],
+                "sinonimos": {
+                  "auditoría": ["auditoria"],
+                  "administrativa": ["administrativa"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.2"
+            },
+            {
+              "numero": 2,
+              "tipo": "open_ended",
+              "pregunta": "En una organización se identificó que los recursos humanos no están siendo utilizados óptimamente y se requiere precisar el nivel de desempeño para lograr ventaja competitiva. Según E. Franklin (2007), ¿qué proceso debe implementarse?",
+              "palabras_clave": {
+                "palabras": ["auditoría", "administrativa"],
+                "sinonimos": {
+                  "auditoría": ["auditoria"],
+                  "administrativa": ["administrativa"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.2"
+            },
+            {
+              "numero": 3,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es el objetivo de la auditoría administrativa que se relaciona con realizar labores de prevención, supervisión, adecuación y corrección para impulsar la adhesión a los lineamientos normativos?",
+              "opciones": {
+                "A": "Optimización de recursos",
+                "B": "Evaluación del desempeño",
+                "C": "Identificación de deficiencias o irregularidades",
+                "D": "Mejora continua",
+                "E": "Control administrativo"
+              },
+              "respuesta_correcta": "D",
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.3"
+            },
+            {
+              "numero": 4,
+              "tipo": "open_ended",
+              "pregunta": "Una empresa de retail necesita evaluar la idoneidad de sus cargos gerenciales y el desempeño de los directivos en sus funciones administrativas. ¿Qué tipo de auditoría administrativa debe aplicar?",
+              "palabras_clave": {
+                "palabras": ["auditoría", "funcional"],
+                "sinonimos": {
+                  "auditoría": ["auditoria"],
+                  "funcional": ["funcional"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.4"
+            },
+            {
+              "numero": 5,
+              "tipo": "true_false",
+              "pregunta": "El auditor interno tiene como ventaja contar con una visión imparcial de la organización y disponer de un equipo de trabajo especializado.",
+              "respuesta_correcta": "Falso",
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.8-9"
+            },
+            {
+              "numero": 6,
+              "tipo": "open_ended",
+              "pregunta": "En una auditoría se presenta resistencia al cambio por parte de los integrantes de la organización y conocimiento relativo de la cultura organizacional. ¿Qué tipo de auditor enfrenta estas desventajas?",
+              "palabras_clave": {
+                "palabras": ["auditor", "externo"],
+                "sinonimos": {
+                  "auditor": ["auditor"],
+                  "externo": ["externo"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.9"
+            },
+            {
+              "numero": 7,
+              "tipo": "open_ended",
+              "pregunta": "Una firma consultora desea combinar la visión objetiva de profesionales externos con el conocimiento profundo del personal interno de la organización auditada. ¿Qué tipo de auditor debe conformar?",
+              "palabras_clave": {
+                "palabras": ["auditor", "mixto"],
+                "sinonimos": {
+                  "auditor": ["auditor"],
+                  "mixto": ["mixto"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.10"
+            },
+            {
+              "numero": 8,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál de las siguientes NO es una responsabilidad del auditor según el documento?",
+              "opciones": {
+                "A": "Planificar y desarrollar objetiva y eficientemente las tareas asignadas",
+                "B": "Preparar los documentos de trabajo",
+                "C": "Recopilar y analizar las evidencias",
+                "D": "Aprobar el presupuesto de auditoría",
+                "E": "Verificar si se ejecutaron las acciones correctivas"
+              },
+              "respuesta_correcta": "D",
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.11"
+            },
+            {
+              "numero": 9,
+              "tipo": "open_ended",
+              "pregunta": "El líder de un equipo de auditoría debe establecer y mantener la comunicación, emitir el informe de auditoría y participar en la selección de auditores. ¿Qué rol desempeña esta persona?",
+              "palabras_clave": {
+                "palabras": ["auditor", "líder"],
+                "sinonimos": {
+                  "auditor": ["auditor"],
+                  "líder": ["lider"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.11"
+            },
+            {
+              "numero": 10,
+              "tipo": "true_false",
+              "pregunta": "La auditoría analítica se enfoca en el desempeño y la idoneidad de los cargos gerenciales de la empresa.",
+              "respuesta_correcta": "Falso",
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.4"
+            },
+            {
+              "numero": 11,
+              "tipo": "open_ended",
+              "pregunta": "Una organización requiere descubrir y analizar todo su funcionamiento administrativo, incluyendo estructura organizacional, niveles jerárquicos y operaciones. ¿Qué aspecto de la auditoría administrativa se está considerando?",
+              "palabras_clave": {
+                "palabras": ["alcance"],
+                "sinonimos": {
+                  "alcance": ["alcance"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.4"
+            },
+            {
+              "numero": 12,
+              "tipo": "multiple_choice",
+              "pregunta": "Según el documento, ¿cuál es una ventaja del auditor interno?",
+              "opciones": {
+                "A": "Visión imparcial de la organización",
+                "B": "Rapidez de acceso a los niveles de decisión",
+                "C": "Conocimiento profundo de la organización",
+                "D": "Equipo de trabajo especializado",
+                "E": "Independencia total"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.8"
+            },
+            {
+              "numero": 13,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor presenta rigidez excesiva al formular sus observaciones y tiene conocimiento relativo de la cultura organizacional. Identifique dos desventajas específicas mencionadas en el documento que corresponden a este tipo de auditor.",
+              "palabras_clave": {
+                "palabras": ["rigidez", "excesiva", "conocimiento", "relativo", "cultura"],
+                "sinonimos": {
+                  "rigidez": ["rigidez"],
+                  "excesiva": ["excesiva"],
+                  "conocimiento": ["conocimiento"],
+                  "relativo": ["relativo"],
+                  "cultura": ["cultura organizacional"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.6
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.9"
+            },
+            {
+              "numero": 14,
+              "tipo": "true_false",
+              "pregunta": "El auditor mixto integra dos visiones distintas pero complementarias, favoreciendo la objetividad al combinar el conocimiento profundo de la operación con la experiencia externa.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.10"
+            },
+            {
+              "numero": 15,
+              "tipo": "open_ended",
+              "pregunta": "Una empresa necesita evaluar cómo se gestionan y utilizan sus recursos para mejorar su eficiencia. ¿Qué objetivo específico de la auditoría administrativa se está buscando?",
+              "palabras_clave": {
+                "palabras": ["optimización", "recursos"],
+                "sinonimos": {
+                  "optimización": ["optimizacion"],
+                  "recursos": ["de recursos"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.3"
+            },
+            {
+              "numero": 16,
+              "tipo": "multiple_choice",
+              "pregunta": "¿En cuál de los siguientes campos de aplicación se puede realizar una auditoría administrativa?",
+              "opciones": {
+                "A": "Solo en empresas privadas",
+                "B": "Solo en entidades públicas",
+                "C": "Privadas, Públicas y Sociales",
+                "D": "Únicamente en organizaciones con fines de lucro",
+                "E": "Solo en grandes corporaciones"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.5"
+            },
+            {
+              "numero": 17,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor necesita preparar documentos de trabajo, recopilar y analizar evidencias, documentar hallazgos y participar en la elaboración del informe. Mencione tres responsabilidades específicas de los auditores según el documento.",
+              "palabras_clave": {
+                "palabras": ["preparar", "documentos", "recopilar", "analizar", "evidencias", "participar", "informe"],
+                "sinonimos": {
+                  "preparar": ["preparar"],
+                  "documentos": ["documentos de trabajo"],
+                  "recopilar": ["recopilar"],
+                  "analizar": ["analizar"],
+                  "evidencias": ["evidencias"],
+                  "participar": ["participar"],
+                  "informe": ["informe"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Sesión: Introducción a la Auditoría Administrativa, p.11"
+            }
+          ]
+        },
+        {
+          "nombre": "II. Control Interno y Gestión de Riesgos",
+          "rango_preguntas": "18-33",
+          "preguntas": [
+            {
+              "numero": 18,
+              "tipo": "open_ended",
+              "pregunta": "Una empresa bancaria mantiene información confidencial de clientes en servidores sin encriptación, las contraseñas no se cambian regularmente, y los empleados pueden acceder a archivos de proyectos en los que no están trabajando. ¿A qué componente COSO de control interno corresponde esta deficiencia?",
+              "palabras_clave": {
+                "palabras": ["actividades", "control"],
+                "sinonimos": {
+                  "actividades": ["actividades"],
+                  "control": ["de control"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.3"
+            },
+            {
+              "numero": 19,
+              "tipo": "multiple_choice",
+              "pregunta": "Según el COSO, ¿cuál de las siguientes NO es una categoría de objetivos del control interno?",
+              "opciones": {
+                "A": "Eficacia y eficiencia de las operaciones",
+                "B": "Confiabilidad de la información financiera",
+                "C": "Cumplimiento con leyes y regulaciones",
+                "D": "Maximización de utilidades",
+                "E": "Todas son categorías del COSO"
+              },
+              "respuesta_correcta": "D",
+              "referencia": "Sesión: Auditoría y Control Interno, p.2"
+            },
+            {
+              "numero": 20,
+              "tipo": "open_ended",
+              "pregunta": "En una entidad pública se descubre que el director de compras contrató a su hermano como proveedor principal sin seguir procesos competitivos. ¿Qué tipo de riesgo específico en entidades públicas representa este caso?",
+              "palabras_clave": {
+                "palabras": ["nepotismo"],
+                "sinonimos": {
+                  "nepotismo": ["nepotismo"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.6"
+            },
+            {
+              "numero": 21,
+              "tipo": "open_ended",
+              "pregunta": "Una organización presenta falta de políticas y procedimientos, documentación confusa, ausencia de código de conducta y falta de supervisión a las operaciones. ¿Qué situación se propicia con estos factores de riesgo?",
+              "palabras_clave": {
+                "palabras": ["fraude"],
+                "sinonimos": {
+                  "fraude": ["fraude"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.7"
+            },
+            {
+              "numero": 22,
+              "tipo": "true_false",
+              "pregunta": "El riesgo inherente es aquel riesgo de que el sistema de control interno del establecimiento no pueda prevenir, detectar y/o corregir errores.",
+              "respuesta_correcta": "Falso",
+              "referencia": "Sesión: Auditoría y Control Interno, p.5"
+            },
+            {
+              "numero": 23,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor evalúa un control interno y determina que está adecuadamente diseñado e implementado, con evidencia de que está funcionando de acuerdo con su diseño. ¿Qué nivel de madurez según la escala corresponde a este control?",
+              "palabras_clave": {
+                "palabras": ["satisfactorio"],
+                "sinonimos": {
+                  "satisfactorio": ["satisfactorio", "nivel satisfactorio"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.9"
+            },
+            {
+              "numero": 24,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es el componente COSO que proporciona la base para llevar a cabo el Sistema de Control Interno en toda la empresa y sin el cual el establecimiento de los demás componentes resulta ineficaz?",
+              "opciones": {
+                "A": "Evaluación de Riesgos",
+                "B": "Actividades de Control",
+                "C": "Ambiente de Control",
+                "D": "Información y Comunicación",
+                "E": "Actividades de Supervisión"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Sesión: Auditoría y Control Interno, p.3"
+            },
+            {
+              "numero": 25,
+              "tipo": "open_ended",
+              "pregunta": "En una auditoría se identifica que un funcionario público solicitó beneficios indebidos por sus funciones a cambio de favorecer en el desempeño de sus responsabilidades. ¿Qué tipo de riesgo en entidades públicas representa?",
+              "palabras_clave": {
+                "palabras": ["soborno"],
+                "sinonimos": {
+                  "soborno": ["soborno"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.6"
+            },
+            {
+              "numero": 26,
+              "tipo": "open_ended",
+              "pregunta": "Un elemento de control no está diseñado o no ha sido implementado en una organización. Según las escalas de madurez, ¿qué nivel de grado corresponde a este control?",
+              "palabras_clave": {
+                "palabras": ["no", "confiable"],
+                "sinonimos": {
+                  "no": ["no"],
+                  "confiable": ["confiable"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.9"
+            },
+            {
+              "numero": 27,
+              "tipo": "true_false",
+              "pregunta": "Las deficiencias de control se presentan cuando el control no está adecuadamente diseñado, no fue implementado o no opera de acuerdo como fue diseñado.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "Sesión: Auditoría y Control Interno, p.10"
+            },
+            {
+              "numero": 28,
+              "tipo": "open_ended",
+              "pregunta": "Los controles están estandarizados, se evalúa periódicamente la efectividad de su diseño e implementación, y dichas evaluaciones son reportadas a la Junta Directiva. ¿Qué nivel de madurez según la escala corresponde?",
+              "palabras_clave": {
+                "palabras": ["monitoreado"],
+                "sinonimos": {
+                  "monitoreado": ["monitoreado"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.9"
+            },
+            {
+              "numero": 29,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál es el componente COSO que evalúa si los componentes y principios están presentes y funcionando en la entidad?",
+              "opciones": {
+                "A": "Ambiente de Control",
+                "B": "Evaluación de Riesgos",
+                "C": "Actividades de Control",
+                "D": "Información y Comunicación",
+                "E": "Actividades de Supervisión"
+              },
+              "respuesta_correcta": "E",
+              "referencia": "Sesión: Auditoría y Control Interno, p.3"
+            },
+            {
+              "numero": 30,
+              "tipo": "open_ended",
+              "pregunta": "Un empleado público usa información o contactos obtenidos por la función desempeñada con fines privados. Identifique el tipo de riesgo específico en entidades públicas que representa.",
+              "palabras_clave": {
+                "palabras": ["tráfico", "información"],
+                "sinonimos": {
+                  "tráfico": ["trafico"],
+                  "información": ["de informacion"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.6"
+            },
+            {
+              "numero": 31,
+              "tipo": "true_false",
+              "pregunta": "El riesgo de detección es aquel que el auditor puede controlar mediante el diseño de procedimientos necesarios para reducir el riesgo de auditoría.",
+              "respuesta_correcta": "Verdadero",
+              "referencia": "Sesión: Auditoría y Control Interno, p.8"
+            },
+            {
+              "numero": 32,
+              "tipo": "open_ended",
+              "pregunta": "Una organización presenta salarios bajos versus nivel de responsabilidad, exceso de confianza del empleado, falta de personal backup en posiciones clave, y directivos que controlan más de una función clave. Mencione tres factores de riesgo de fraude relacionados con el personal según el documento.",
+              "palabras_clave": {
+                "palabras": ["salarios", "bajos", "exceso", "confianza", "falta", "personal", "backup", "directivos", "controlan"],
+                "sinonimos": {
+                  "salarios": ["salarios"],
+                  "bajos": ["bajos"],
+                  "exceso": ["exceso"],
+                  "confianza": ["confianza"],
+                  "falta": ["falta"],
+                  "personal": ["personal"],
+                  "backup": ["backup"],
+                  "directivos": ["directivos"],
+                  "controlan": ["controlan"]
+                },
+                "estrategia": "partial",
+                "umbral_minimo": 0.5
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.7"
+            },
+            {
+              "numero": 33,
+              "tipo": "open_ended",
+              "pregunta": "La gestión de riesgos requiere la evaluación del nivel de vulnerabilidad de las organizaciones frente a amenazas. ¿Cuáles son las tres fases específicas que requiere la gestión de riesgos?",
+              "palabras_clave": {
+                "palabras": ["identificación", "evaluación", "control"],
+                "sinonimos": {
+                  "identificación": ["identificacion"],
+                  "evaluación": ["evaluacion"],
+                  "control": ["control"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Auditoría y Control Interno, p.4"
+            }
+          ]
+        },
+        {
+          "nombre": "III. Metodología y Planeación de la Auditoría",
+          "rango_preguntas": "34-50",
+          "preguntas": [
+            {
+              "numero": 34,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor debe establecer las acciones que se deben desarrollar para instrumentar la auditoría administrativa en forma secuencial y ordenada. ¿Cuál es el propósito de esta etapa de la auditoría?",
+              "palabras_clave": {
+                "palabras": ["planeación"],
+                "sinonimos": {
+                  "planeación": ["planeacion", "la planeacion"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Metodología de la auditoría administrativa, p.5"
+            },
+            {
+              "numero": 35,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuáles son las cuatro etapas de la auditoría administrativa según el documento?",
+              "opciones": {
+                "A": "Diagnóstico, Análisis, Reporte, Corrección",
+                "B": "Inicio, Desarrollo, Conclusión, Seguimiento",
+                "C": "Planeación, Ejecución, Informe, Seguimiento",
+                "D": "Preparación, Implementación, Evaluación, Cierre",
+                "E": "Diseño, Aplicación, Medición, Mejora"
+              },
+              "respuesta_correcta": "C",
+              "referencia": "Sesión: Metodología de la auditoría administrativa, p.3"
+            },
+            {
+              "numero": 36,
+              "tipo": "open_ended",
+              "pregunta": "Durante la etapa de planeación, el auditor debe determinar aspectos fundamentales mediante el análisis de la visión, misión, objetivos, estrategias, políticas y procesos. ¿Qué etapa del proceso administrativo se está evaluando?",
+              "palabras_clave": {
+                "palabras": ["planeación"],
+                "sinonimos": {
+                  "planeación": ["planeacion"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Metodología de la auditoría administrativa, p.6"
+            },
+            {
+              "numero": 37,
+              "tipo": "true_false",
+              "pregunta": "En la etapa de dirección del proceso administrativo, el propósito estratégico es diseñar e instrumentar la infraestructura para el funcionamiento de la organización.",
+              "respuesta_correcta": "Falso",
+              "referencia": "Sesión: Metodología de la auditoría administrativa, p.7-8"
+            },
+            {
+              "numero": 38,
+              "tipo": "open_ended",
+              "pregunta": "Implica examinar registros y documentos existentes para entender los procesos y procedimientos establecidos, incluyendo políticas internas, diagramas de flujos y otros documentos relevantes. ¿Qué técnica de levantamiento de información corresponde a este enunciado?",
+              "palabras_clave": {
+                "palabras": ["revisión", "documental"],
+                "sinonimos": {
+                  "revisión": ["revision"],
+                  "documental": ["documental"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Ejecución de la auditoría administrativa, p.5"
+            },
+            {
+              "numero": 39,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor debe reunirse con varias personas y cuestionarlas para obtener información completa y precisa, formulando preguntas concretas y notificando oportunamente. ¿Qué técnica de levantamiento de información debe utilizar?",
+              "palabras_clave": {
+                "palabras": ["entrevista"],
+                "sinonimos": {
+                  "entrevista": ["entrevistas", "entrevista"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Ejecución de la auditoría administrativa, p.3-4"
+            },
+            {
+              "numero": 40,
+              "tipo": "multiple_choice",
+              "pregunta": "¿Cuál de las siguientes NO es una característica que debe cumplir la información recopilada en una auditoría?",
+              "opciones": {
+                "A": "Suficiente",
+                "B": "Competente y confiable",
+                "C": "Relevante",
+                "D": "Económica",
+                "E": "Útil"
+              },
+              "respuesta_correcta": "D",
+              "referencia": "Sesión: Ejecución de la auditoría administrativa, p.6"
+            },
+            {
+              "numero": 41,
+              "tipo": "open_ended",
+              "pregunta": "La información está basada en hechos, es adecuada y convincente de tal manera que todas las personas puedan llegar a la misma conclusión que el auditor. ¿Qué característica de la información recopilada representa?",
+              "palabras_clave": {
+                "palabras": ["suficiente"],
+                "sinonimos": {
+                  "suficiente": ["suficiente"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Ejecución de la auditoría administrativa, p.6"
+            },
+            {
+              "numero": 42,
+              "tipo": "true_false",
+              "pregunta": "Los papeles de trabajo deben ser completos, claros, simples, entendibles, detallados y suficientes, pero no es necesario que incluyan un índice para su identificación.",
+              "respuesta_correcta": "Falso",
+              "referencia": "Sesión: Ejecución de la auditoría administrativa, p.8"
+            },
+            {
+              "numero": 43,
+              "tipo": "open_ended",
+              "pregunta": "Un auditor observa cómo se atiende a un cliente, cómo se le entrega la mercadería, cómo se le cobra, y cómo se comporta el personal cuando no está su jefe. ¿Qué técnica de levantamiento de información está aplicando?",
+              "palabras_clave": {
+                "palabras": ["observación", "campo"],
+                "sinonimos": {
+                  "observación": ["observacion", "observaciones"],
+                  "campo": ["de campo"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Ejecución de la auditoría administrativa, p.4"
+            },
+            {
+              "numero": 44,
+              "tipo": "open_ended",
+              "pregunta": "Son documentos en los que se registran los procedimientos y técnicas utilizadas durante la ejecución de la auditoría, así como los resultados y conclusiones en que sustenta la opinión del auditor. ¿Qué documentos se describen?",
+              "palabras_clave": {
+                "palabras": ["cédulas", "auditoría"],
+                "sinonimos": {
+                  "cédulas": ["cedulas"],
+                  "auditoría": ["de auditoria"]
+                },
+                "estrategia": "all"
+              },
+              "referencia": "Sesión: Ejecución de la auditoría administrativa, p.5"
+            }
+        ]
+    }
+  ]
+}
+}
