@@ -24,14 +24,14 @@
               "numero": 2,
               "tipo": "true_false",
               "pregunta": "En los hallazgos de auditoría no es relevante obtener los comentarios del auditado.",
-              "respuesta_correcta": "Falsa"
+              "respuesta_correcta": " falso"
               
             },
             {
               "numero": 3,
               "tipo": "true_false",
               "pregunta": "Los informes de auditoría pueden variar de acuerdo a situaciones particulares en la revisión.",
-              "respuesta_correcta": "Verdadera"
+              "respuesta_correcta": "verdadero"
               
             },
             {
@@ -140,7 +140,7 @@
               "numero": 12,
               "tipo": "true_false",
               "pregunta": "Si la organización no estima riesgos, el auditor interno podría realizar esa labor.",
-              "respuesta_correcta": "Verdadera"
+              "respuesta_correcta": "verdadero"
               
             },
             {
@@ -255,7 +255,7 @@
                 "c": "Operacional",
                 "d": "Analítica"
               },
-              "respuesta_correcta": "c"
+              "respuesta_correcta": "d"
               
             },
             {
@@ -271,14 +271,14 @@
               "numero": 23,
               "tipo": "true_false",
               "pregunta": "Es correcto no elaborar papeles de trabajo si la evidencia queda en el informe final.",
-              "respuesta_correcta": "Falsa"
+              "respuesta_correcta": "Falso"
              
             },
             {
               "numero": 24,
               "tipo": "true_false",
               "pregunta": "La auditoría es una fase del proceso de control ya que evalúa independientemente lo planificado.",
-              "respuesta_correcta": "Verdadera"
+              "respuesta_correcta": "verdadero"
              
             },
             {

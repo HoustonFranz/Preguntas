@@ -1,0 +1,799 @@
+{
+  "cuestionario": {
+    "titulo": "Cuestionario de Rigor Conceptual: Validez de Contenido por Juicio de Expertos — Integración Cuantitativa y Cualitativa en la Construcción de Instrumentos de Medición",
+    "autor": "Docente Universitario, IQ 157",
+    "descripcion": "Banco de preguntas optimizado para la memorización literal de conceptos y preparación de controles de lectura sin tolerancia a sinónimos.",
+    "secciones": [
+      {
+        "nombre": "I. Preguntas Abiertas de Desarrollo Complejo",
+        "rango_preguntas": "1-25",
+        "preguntas": [
+          {
+            "numero": 1,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿qué busca determinar la validez de contenido respecto a los ítems propuestos para un instrumento?",
+            "palabras_clave": {
+              "palabras": ["representan", "dimensiones", "constructo", "medir"],
+              "sinonimos": {
+                "representan": ["representan"],
+                "dimensiones": ["dimensiones"],
+                "constructo": ["constructo"],
+                "medir": ["medir"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Validez de Contenido por Juicio de Expertos, p. 8"
+          },
+          {
+            "numero": 2,
+            "tipo": "open_ended",
+            "pregunta": "Describa qué permite identificar el procedimiento de someter los ítems de un instrumento en desarrollo a la evaluación de un panel de especialistas, según el artículo.",
+            "palabras_clave": {
+              "palabras": ["vacíos conceptuales", "ambigüedades semánticas", "construcciones gramaticales inadecuadas", "sesgos potenciales", "elementos irrelevantes", "insuficientes"],
+              "sinonimos": {
+                "vacíos conceptuales": ["vacíos conceptuales", "vacios conceptuales"],
+                "ambigüedades semánticas": ["ambigüedades semánticas", "ambiguedades semanticas"],
+                "construcciones gramaticales inadecuadas": ["construcciones gramaticales inadecuadas"],
+                "sesgos potenciales": ["sesgos potenciales"],
+                "elementos irrelevantes": ["elementos irrelevantes"],
+                "insuficientes": ["insuficientes"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Validez de Contenido por Juicio de Expertos, p. 4"
+          },
+          {
+            "numero": 3,
+            "tipo": "open_ended",
+            "pregunta": "Explique en qué consiste la medición desde la perspectiva cuantitativa, según lo definido en el artículo.",
+            "palabras_clave": {
+              "palabras": ["asignación", "valores", "representar", "propiedades", "objetos", "eventos"],
+              "sinonimos": {
+                "asignación": ["asignación", "asignacion"],
+                "valores": ["valores"],
+                "representar": ["representar"],
+                "propiedades": ["propiedades"],
+                "objetos": ["objetos"],
+                "eventos": ["eventos"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Introducción, p. 3"
+          },
+          {
+            "numero": 4,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿cuáles son los cuatro criterios que sugiere el consenso para evaluar las propiedades de los ítems en el juicio de expertos?",
+            "palabras_clave": {
+              "palabras": ["suficiencia", "claridad", "coherencia", "relevancia"],
+              "sinonimos": {
+                "suficiencia": ["suficiencia"],
+                "claridad": ["claridad"],
+                "coherencia": ["coherencia"],
+                "relevancia": ["relevancia"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.75
+            },
+            "referencia": "Sesión: Validez de Contenido por Juicio de Expertos, p. 7"
+          },
+          {
+            "numero": 5,
+            "tipo": "open_ended",
+            "pregunta": "¿Qué permite obtener el análisis cuantitativo del Coeficiente de Validez de Contenido de Hernández-Nieto (2002), según se describe en el artículo? Mencione los dos indicadores.",
+            "palabras_clave": {
+              "palabras": ["Coeficiente de Validez de Contenido de cada Ítem", "Coeficiente de Validez de Contenido Total"],
+              "sinonimos": {
+                "Coeficiente de Validez de Contenido de cada Ítem": ["Coeficiente de Validez de Contenido de cada Ítem", "CVCic", "CVC de cada ítem"],
+                "Coeficiente de Validez de Contenido Total": ["Coeficiente de Validez de Contenido Total", "CVCt", "CVC total"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Coeficiente de Validez de Contenido, p. 12-13"
+          },
+          {
+            "numero": 6,
+            "tipo": "open_ended",
+            "pregunta": "Describa en qué consiste la validez racional como forma de conocer la validez de contenido, según el artículo.",
+            "palabras_clave": {
+              "palabras": ["revisión", "literatura", "constructo", "elementos", "instrumento"],
+              "sinonimos": {
+                "revisión": ["revisión", "revision"],
+                "literatura": ["literatura"],
+                "constructo": ["constructo"],
+                "elementos": ["elementos"],
+                "instrumento": ["instrumento"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Validez de Contenido, p. 6"
+          },
+          {
+            "numero": 7,
+            "tipo": "open_ended",
+            "pregunta": "¿Qué es el pilotaje y ajustes según el artículo, y a qué muestra se administra el instrumento en esta fase?",
+            "palabras_clave": {
+              "palabras": ["versión preliminar", "muestra pequeña", "10 o 15 personas", "comprensión", "aceptabilidad", "aplicabilidad"],
+              "sinonimos": {
+                "versión preliminar": ["versión preliminar", "version preliminar"],
+                "muestra pequeña": ["muestra pequeña", "muestra pequena"],
+                "10 o 15 personas": ["10 o 15 personas", "diez o quince personas"],
+                "comprensión": ["comprensión", "comprension"],
+                "aceptabilidad": ["aceptabilidad"],
+                "aplicabilidad": ["aplicabilidad"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Pilotaje y Ajustes, p. 7"
+          },
+          {
+            "numero": 8,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿en qué se fundamenta el método de entrevistas cognitivas y cuál es el modelo en el que se centra principalmente?",
+            "palabras_clave": {
+              "palabras": ["teoría cognitiva", "modelo de Tourangeau", "1984", "procesos cognitivos", "interpretar", "recordar", "tomar decisiones", "responder"],
+              "sinonimos": {
+                "teoría cognitiva": ["teoría cognitiva", "teoria cognitiva"],
+                "modelo de Tourangeau": ["modelo de Tourangeau"],
+                "1984": ["1984"],
+                "procesos cognitivos": ["procesos cognitivos"],
+                "interpretar": ["interpretar"],
+                "recordar": ["recordar"],
+                "tomar decisiones": ["tomar decisiones"],
+                "responder": ["responder"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Pilotaje y Ajustes, p. 7"
+          },
+          {
+            "numero": 9,
+            "tipo": "open_ended",
+            "pregunta": "Explique qué criterios emplea el análisis factorial confirmatorio según el artículo, mencionando al menos tres de los índices de ajuste y sus valores de referencia.",
+            "palabras_clave": {
+              "palabras": ["Chi cuadrado dividido por grados de libertad", "Comparative Fit Index", "Tucker-Lewis Index", "Root Mean Square Error of Aproximation", "0,90", "0,08"],
+              "sinonimos": {
+                "Chi cuadrado dividido por grados de libertad": ["Chi cuadrado dividido por grados de libertad", "χ2/gl"],
+                "Comparative Fit Index": ["Comparative Fit Index", "CFI"],
+                "Tucker-Lewis Index": ["Tucker-Lewis Index", "TLI"],
+                "Root Mean Square Error of Aproximation": ["Root Mean Square Error of Aproximation", "RMSEA"],
+                "0,90": ["0,90", "0.90"],
+                "0,08": ["0,08", "0.08"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Análisis Psicométricos, p. 8"
+          },
+          {
+            "numero": 10,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿cuáles son los tres pasos del método del Índice de Validez de Contenido propuesto por Lawshe (1975)?",
+            "palabras_clave": {
+              "palabras": ["esencial", "útil pero prescindible", "innecesario", "Razón de Validez de Contenido", "Índice de Validez de Contenido", "promedio"],
+              "sinonimos": {
+                "esencial": ["esencial"],
+                "útil pero prescindible": ["útil pero prescindible", "util pero prescindible"],
+                "innecesario": ["innecesario"],
+                "Razón de Validez de Contenido": ["Razón de Validez de Contenido", "Razon de Validez de Contenido"],
+                "Índice de Validez de Contenido": ["Índice de Validez de Contenido", "Indice de Validez de Contenido", "IVC"],
+                "promedio": ["promedio"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Métodos estadísticos — Tabla 3, p. 11"
+          },
+          {
+            "numero": 11,
+            "tipo": "open_ended",
+            "pregunta": "¿Cómo define el artículo el Coeficiente de Validez de Contenido de cada Ítem (CVCic) según Hernández-Nieto (2011)?",
+            "palabras_clave": {
+              "palabras": ["proporción relativa", "valor máximo de la escala", "promedio de los puntajes entre jueces", "ítem", "concordancia aleatoria"],
+              "sinonimos": {
+                "proporción relativa": ["proporción relativa", "proporcion relativa"],
+                "valor máximo de la escala": ["valor máximo de la escala", "valor maximo de la escala"],
+                "promedio de los puntajes entre jueces": ["promedio de los puntajes entre jueces"],
+                "ítem": ["ítem", "item"],
+                "concordancia aleatoria": ["concordancia aleatoria"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.6
+            },
+            "referencia": "Sesión: Coeficiente de Validez de Contenido, p. 13"
+          },
+          {
+            "numero": 12,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿qué se recomienda incluir en el reporte de resultados del artículo científico sobre la validez de contenido por juicio de expertos?",
+            "palabras_clave": {
+              "palabras": ["definición de perfiles", "número de personas", "análisis cuantitativo", "ítems modificados", "ítems eliminados", "CVCic", "CVCt", "nueva dimensión"],
+              "sinonimos": {
+                "definición de perfiles": ["definición de perfiles", "definicion de perfiles"],
+                "número de personas": ["número de personas", "numero de personas"],
+                "análisis cuantitativo": ["análisis cuantitativo", "analisis cuantitativo"],
+                "ítems modificados": ["ítems modificados", "items modificados"],
+                "ítems eliminados": ["ítems eliminados", "items eliminados"],
+                "CVCic": ["CVCic", "CVC de cada ítem"],
+                "CVCt": ["CVCt", "CVC total"],
+                "nueva dimensión": ["nueva dimensión", "nueva dimension"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Integración Cuantitativa y Cualitativa, p. 14"
+          },
+          {
+            "numero": 13,
+            "tipo": "open_ended",
+            "pregunta": "Describa qué es la validez de respuesta y en qué contexto se recomienda utilizarla según el artículo.",
+            "palabras_clave": {
+              "palabras": ["entrevistas cualitativas", "población de interés", "elementos a considerar", "instrumento de medición", "suficiente literatura"],
+              "sinonimos": {
+                "entrevistas cualitativas": ["entrevistas cualitativas"],
+                "población de interés": ["población de interés", "poblacion de interes"],
+                "elementos a considerar": ["elementos a considerar"],
+                "instrumento de medición": ["instrumento de medición", "instrumento de medicion"],
+                "suficiente literatura": ["suficiente literatura"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Validez de Contenido, p. 6"
+          },
+          {
+            "numero": 14,
+            "tipo": "open_ended",
+            "pregunta": "Explique qué es un ítem según el artículo, incluyendo su función en la medición de constructos multidimensionales.",
+            "palabras_clave": {
+              "palabras": ["unidades", "instrumento", "recolectar información", "aspectos específicos", "constructo", "suma de puntuaciones", "medida"],
+              "sinonimos": {
+                "unidades": ["unidades"],
+                "instrumento": ["instrumento"],
+                "recolectar información": ["recolectar información", "recolectar informacion"],
+                "aspectos específicos": ["aspectos específicos", "aspectos especificos"],
+                "constructo": ["constructo"],
+                "suma de puntuaciones": ["suma de puntuaciones"],
+                "medida": ["medida"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Validez de Contenido, p. 6"
+          },
+          {
+            "numero": 15,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿cuál es la fortaleza del Coeficiente de Validez de Contenido de Hernández-Nieto (2002) frente a otros métodos estadísticos?",
+            "palabras_clave": {
+              "palabras": ["posibilidad", "situaciones", "amplio panel de expertos", "tres y cinco expertos", "adaptable", "mayor número de integrantes"],
+              "sinonimos": {
+                "posibilidad": ["posibilidad"],
+                "situaciones": ["situaciones"],
+                "amplio panel de expertos": ["amplio panel de expertos"],
+                "tres y cinco expertos": ["tres y cinco expertos"],
+                "adaptable": ["adaptable"],
+                "mayor número de integrantes": ["mayor número de integrantes", "mayor numero de integrantes"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Coeficiente de Validez de Contenido, p. 12"
+          },
+          {
+            "numero": 16,
+            "tipo": "open_ended",
+            "pregunta": "De acuerdo con el artículo, ¿cuáles son los criterios bajo los cuales se eliminan ítems durante el análisis factorial exploratorio?",
+            "palabras_clave": {
+              "palabras": ["discriminar entre diferentes grupos", "consistencia interna", "0,30", "cargas similares en dos o más factores", "cargas inferiores a 0,30", "factores con menos de tres ítems"],
+              "sinonimos": {
+                "discriminar entre diferentes grupos": ["discriminar entre diferentes grupos"],
+                "consistencia interna": ["consistencia interna"],
+                "0,30": ["0,30", "0.30"],
+                "cargas similares en dos o más factores": ["cargas similares en dos o más factores", "cargas similares en dos o mas factores"],
+                "cargas inferiores a 0,30": ["cargas inferiores a 0,30", "cargas inferiores a 0.30"],
+                "factores con menos de tres ítems": ["factores con menos de tres ítems", "factores con menos de tres items"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Análisis Psicométricos, p. 7"
+          },
+          {
+            "numero": 17,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿qué caracteriza a los estímulos como tipo de ítem en el desarrollo de instrumentos de medición?",
+            "palabras_clave": {
+              "palabras": ["elementos visuales", "pruebas perceptuales", "neuropsicológicas", "activar funciones específicas", "evaluar"],
+              "sinonimos": {
+                "elementos visuales": ["elementos visuales"],
+                "pruebas perceptuales": ["pruebas perceptuales"],
+                "neuropsicológicas": ["neuropsicológicas", "neuropsicologicas"],
+                "activar funciones específicas": ["activar funciones específicas", "activar funciones especificas"],
+                "evaluar": ["evaluar"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Desarrollo del Instrumento, p. 6"
+          },
+          {
+            "numero": 18,
+            "tipo": "open_ended",
+            "pregunta": "¿Cómo describe el artículo el proceso de construcción y validación de un instrumento de medición en términos generales?",
+            "palabras_clave": {
+              "palabras": ["proceso complejo", "iterativo", "diversas fases", "revisión", "validación empírica", "mediciones precisas", "población de interés"],
+              "sinonimos": {
+                "proceso complejo": ["proceso complejo"],
+                "iterativo": ["iterativo"],
+                "diversas fases": ["diversas fases"],
+                "revisión": ["revisión", "revision"],
+                "validación empírica": ["validación empírica", "validacion empirica"],
+                "mediciones precisas": ["mediciones precisas"],
+                "población de interés": ["población de interés", "poblacion de interes"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Introducción, p. 3"
+          },
+          {
+            "numero": 19,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿qué debe incluir la versión final del instrumento de medición según el paso 2.7?",
+            "palabras_clave": {
+              "palabras": ["instrucciones claras", "guía de aplicación", "consentimiento de confidencialidad", "equipo de investigación"],
+              "sinonimos": {
+                "instrucciones claras": ["instrucciones claras"],
+                "guía de aplicación": ["guía de aplicación", "guia de aplicacion"],
+                "consentimiento de confidencialidad": ["consentimiento de confidencialidad"],
+                "equipo de investigación": ["equipo de investigación", "equipo de investigacion"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.75
+            },
+            "referencia": "Sesión: Versión Final del Instrumento, p. 8"
+          },
+          {
+            "numero": 20,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿qué es el criterio de suficiencia como criterio de evaluación de ítems en el juicio de expertos?",
+            "palabras_clave": {
+              "palabras": ["cantidad necesaria", "ítems", "dimensión", "completa evaluación"],
+              "sinonimos": {
+                "cantidad necesaria": ["cantidad necesaria"],
+                "ítems": ["ítems", "items"],
+                "dimensión": ["dimensión", "dimension"],
+                "completa evaluación": ["completa evaluación", "completa evaluacion"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.75
+            },
+            "referencia": "Sesión: Juicio de Expertos — Tabla 1, p. 9"
+          },
+          {
+            "numero": 21,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿qué implica la integración cuantitativa y cualitativa del juicio de expertos respecto a los ítems con puntuación inferior a 0,80?",
+            "palabras_clave": {
+              "palabras": ["ajustarse", "eliminarse", "observaciones", "jueces", "nueva dimensión"],
+              "sinonimos": {
+                "ajustarse": ["ajustarse"],
+                "eliminarse": ["eliminarse"],
+                "observaciones": ["observaciones"],
+                "jueces": ["jueces"],
+                "nueva dimensión": ["nueva dimensión", "nueva dimension"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Integración Cuantitativa y Cualitativa, p. 14"
+          },
+          {
+            "numero": 22,
+            "tipo": "open_ended",
+            "pregunta": "Describa qué es el post-positivismo y cómo concibe la realidad, según el artículo.",
+            "palabras_clave": {
+              "palabras": ["realidad no puede ser aprehendida en su totalidad", "conoce de forma imperfecta", "interacción", "objeto de estudio", "sujeto cognoscente"],
+              "sinonimos": {
+                "realidad no puede ser aprehendida en su totalidad": ["realidad no puede ser aprehendida en su totalidad"],
+                "conoce de forma imperfecta": ["conoce de forma imperfecta"],
+                "interacción": ["interacción", "interaccion"],
+                "objeto de estudio": ["objeto de estudio"],
+                "sujeto cognoscente": ["sujeto cognoscente"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Introducción, p. 3"
+          },
+          {
+            "numero": 23,
+            "tipo": "open_ended",
+            "pregunta": "¿Qué establece el artículo respecto a los criterios de Comrey y Lee (1992) para el tamaño de muestra en análisis psicométricos?",
+            "palabras_clave": {
+              "palabras": ["50, muy pobre", "100, pobre", "200, adecuado", "300, buena", "500, muy buena", "1000 o más, excelente"],
+              "sinonimos": {
+                "50, muy pobre": ["50, muy pobre"],
+                "100, pobre": ["100, pobre"],
+                "200, adecuado": ["200, adecuado"],
+                "300, buena": ["300, buena"],
+                "500, muy buena": ["500, muy buena"],
+                "1000 o más, excelente": ["1000 o más, excelente", "1000 o mas, excelente"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Análisis Psicométricos, p. 7"
+          },
+          {
+            "numero": 24,
+            "tipo": "open_ended",
+            "pregunta": "Según el artículo, ¿cuáles son los tres pasos descritos en el método de Escalamiento Multidimensional y Análisis de Clúster de Sireci y Geisinger (1992)?",
+            "palabras_clave": {
+              "palabras": ["sesgo de las personas expertas", "similitud de los ítems", "asocien", "similares", "clúster", "escalamiento multidimensional"],
+              "sinonimos": {
+                "sesgo de las personas expertas": ["sesgo de las personas expertas"],
+                "similitud de los ítems": ["similitud de los ítems", "similitud de los items"],
+                "asocien": ["asocien"],
+                "similares": ["similares"],
+                "clúster": ["clúster", "cluster"],
+                "escalamiento multidimensional": ["escalamiento multidimensional"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.5
+            },
+            "referencia": "Sesión: Métodos estadísticos — Tabla 3, p. 12"
+          },
+          {
+            "numero": 25,
+            "tipo": "open_ended",
+            "pregunta": "¿Cuáles son los tres índices que calcula el método del Índice de Validez Factorial de Rubio et al. (2003) según el artículo?",
+            "palabras_clave": {
+              "palabras": ["Fiabilidad de Acuerdo Interjueces", "Índice de Validez de Contenido", "Índice de Validez Factorial"],
+              "sinonimos": {
+                "Fiabilidad de Acuerdo Interjueces": ["Fiabilidad de Acuerdo Interjueces", "IRA"],
+                "Índice de Validez de Contenido": ["Índice de Validez de Contenido", "Indice de Validez de Contenido", "IVC"],
+                "Índice de Validez Factorial": ["Índice de Validez Factorial", "Indice de Validez Factorial", "FVI"]
+              },
+              "estrategia": "partial",
+              "umbral_minimo": 0.75
+            },
+            "referencia": "Sesión: Métodos estadísticos — Tabla 3, p. 12"
+          }
+        ]
+      },
+      {
+        "nombre": "II. Preguntas Abiertas de Completado Específico",
+        "rango_preguntas": "26-35",
+        "preguntas": [
+          {
+            "numero": 26,
+            "tipo": "open_ended",
+            "pregunta": "La validez de contenido busca determinar si los ítems propuestos para un instrumento recogen todas las partes que pudieran conformar el _____ que se pretende medir.",
+            "palabras_clave": {
+              "palabras": ["constructo psicológico"],
+              "sinonimos": {
+                "constructo psicológico": ["constructo psicológico", "constructo psicologico"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Validez de Contenido, p. 6"
+          },
+          {
+            "numero": 27,
+            "tipo": "open_ended",
+            "pregunta": "Hernández-Nieto (2002) recomienda mantener en el instrumento aquellos ítems con un CVC superior a _____.",
+            "palabras_clave": {
+              "palabras": ["0,80"],
+              "sinonimos": {
+                "0,80": ["0,80", "0.80"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Coeficiente de Validez de Contenido, p. 12"
+          },
+          {
+            "numero": 28,
+            "tipo": "open_ended",
+            "pregunta": "Perroca (2011) sugiere, como criterio basado en la temporalidad, un mínimo de _____ años de experiencia para conformar el grupo que evaluará el instrumento.",
+            "palabras_clave": {
+              "palabras": ["cinco"],
+              "sinonimos": {
+                "cinco": ["cinco", "5"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Validez de Contenido por Juicio de Expertos, p. 6"
+          },
+          {
+            "numero": 29,
+            "tipo": "open_ended",
+            "pregunta": "Las puntuaciones asignadas por los jueces a cada ítem pueden ir de _____ puntos (mínimo) a _____ puntos (máximo), según la escala de valoración de la rúbrica descrita en el artículo.",
+            "palabras_clave": {
+              "palabras": ["4", "16"],
+              "sinonimos": {
+                "4": ["4", "cuatro"],
+                "16": ["16", "dieciséis", "dieciseis"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Juicio de Expertos — Tabla 2, p. 10"
+          },
+          {
+            "numero": 30,
+            "tipo": "open_ended",
+            "pregunta": "En el análisis psicométrico, la eliminación de ítems en el análisis de consistencia interna se realiza para aquellos con valores menores a _____.",
+            "palabras_clave": {
+              "palabras": ["0,30"],
+              "sinonimos": {
+                "0,30": ["0,30", "0.30"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Análisis Psicométricos, p. 7"
+          },
+          {
+            "numero": 31,
+            "tipo": "open_ended",
+            "pregunta": "En el método de Rango Interpercentil Ajustado a la Simetría de Fitch et al. (2001), los ítems que se mantienen son aquellos que tienen una mediana superior a _____.",
+            "palabras_clave": {
+              "palabras": ["siete"],
+              "sinonimos": {
+                "siete": ["siete", "7"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Métodos estadísticos — Tabla 3, p. 12"
+          },
+          {
+            "numero": 32,
+            "tipo": "open_ended",
+            "pregunta": "Según Nunnally (1967), se recomienda al menos _____ participantes por cada ítem del instrumento para los análisis psicométricos.",
+            "palabras_clave": {
+              "palabras": ["10"],
+              "sinonimos": {
+                "10": ["10", "diez"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Análisis Psicométricos, p. 7"
+          },
+          {
+            "numero": 33,
+            "tipo": "open_ended",
+            "pregunta": "El método de entrevistas cognitivas fue desarrollado en la década de _____ por psicólogos y metodólogos, según el artículo.",
+            "palabras_clave": {
+              "palabras": ["1980"],
+              "sinonimos": {
+                "1980": ["1980", "los ochenta"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Pilotaje y Ajustes, p. 7"
+          },
+          {
+            "numero": 34,
+            "tipo": "open_ended",
+            "pregunta": "En la búsqueda realizada en PubMed, se identificaron _____ trabajos de investigación que reportan algún procedimiento de validación de instrumentos de medición en psicología en México entre 2014 y 2024.",
+            "palabras_clave": {
+              "palabras": ["143"],
+              "sinonimos": {
+                "143": ["143", "ciento cuarenta y tres"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Introducción, p. 4"
+          },
+          {
+            "numero": 35,
+            "tipo": "open_ended",
+            "pregunta": "La coherencia, como criterio de evaluación por juicio de expertos, implica que el ítem refleja coherencia conceptual respecto a la _____ a la cual se asocia dentro del constructo.",
+            "palabras_clave": {
+              "palabras": ["dimensión"],
+              "sinonimos": {
+                "dimensión": ["dimensión", "dimension"]
+              },
+              "estrategia": "all"
+            },
+            "referencia": "Sesión: Juicio de Expertos — Tabla 1, p. 9"
+          }
+        ]
+      },
+      {
+        "nombre": "III. Preguntas de Opción Múltiple de Alta Similitud",
+        "rango_preguntas": "36-45",
+        "preguntas": [
+          {
+            "numero": 36,
+            "tipo": "multiple_choice",
+            "pregunta": "Según el artículo, ¿cuál de las siguientes interpretaciones corresponde a una puntuación de CVCic igual o superior a 0,90?",
+            "opciones": {
+              "A": "Validez y concordancia buena",
+              "B": "Validez y concordancia aceptable",
+              "C": "Validez y concordancia excelente",
+              "D": "Validez y concordancia deficiente",
+              "E": "Validez y concordancia inaceptable"
+            },
+            "respuesta_correcta": "C",
+            "referencia": "Sesión: Integración Cuantitativa y Cualitativa — Tabla 4, p. 14"
+          },
+          {
+            "numero": 37,
+            "tipo": "multiple_choice",
+            "pregunta": "¿Qué método estadístico permite evaluar la similitud de los ítems a partir del escalamiento multidimensional y el análisis de clúster para solucionar el sesgo de los expertos cuando conocen las especificaciones del contenido?",
+            "opciones": {
+              "A": "Kappa de Fleiss (1971)",
+              "B": "V de Aiken (1980)",
+              "C": "Índice de congruencia de Hambleton (1984)",
+              "D": "Escalamiento multidimensional y análisis de clúster de Sireci y Geisinger (1992)",
+              "E": "Rango Interpercentil Ajustado a la Simetría de Fitch et al. (2001)"
+            },
+            "respuesta_correcta": "D",
+            "referencia": "Sesión: Métodos estadísticos — Tabla 3, p. 12"
+          },
+          {
+            "numero": 38,
+            "tipo": "multiple_choice",
+            "pregunta": "Según el artículo, ¿cuál es el valor de referencia del Root Mean Square Error of Aproximation (RMSEA) a partir del cual el ajuste del modelo es rechazado?",
+            "opciones": {
+              "A": "RMSEA > 0,05",
+              "B": "RMSEA > 0,08",
+              "C": "RMSEA > 0,09",
+              "D": "RMSEA > 0,1",
+              "E": "RMSEA > 0,07"
+            },
+            "respuesta_correcta": "D",
+            "referencia": "Sesión: Análisis Psicométricos, p. 8"
+          },
+          {
+            "numero": 39,
+            "tipo": "multiple_choice",
+            "pregunta": "De acuerdo con el artículo, ¿cuál de las siguientes afirmaciones describe correctamente la relevancia como criterio de evaluación por juicio de expertos?",
+            "opciones": {
+              "A": "El ítem contiene la cantidad necesaria de indicadores para representar completamente su dimensión.",
+              "B": "El ítem se comprende fácilmente, su estructura y contenido son adecuados para la población objetivo.",
+              "C": "El ítem refleja coherencia conceptual respecto a la dimensión a la cual se asocia dentro del constructo.",
+              "D": "El ítem aporta información relevante sobre un aspecto necesario de la dimensión y debe mantenerse en la versión final.",
+              "E": "El ítem evalúa la correspondencia lógica entre el enunciado y la escala de respuesta utilizada."
+            },
+            "respuesta_correcta": "D",
+            "referencia": "Sesión: Juicio de Expertos — Tabla 1, p. 9"
+          },
+          {
+            "numero": 40,
+            "tipo": "multiple_choice",
+            "pregunta": "Según el artículo, ¿cuántos estudios de los 143 identificados en PubMed refirieron haber realizado el proceso de validación por juicio de expertos?",
+            "opciones": {
+              "A": "Cinco estudios",
+              "B": "Cuatro estudios",
+              "C": "Tres estudios",
+              "D": "Dos estudios",
+              "E": "Ningún estudio"
+            },
+            "respuesta_correcta": "C",
+            "referencia": "Sesión: Introducción, p. 4"
+          },
+          {
+            "numero": 41,
+            "tipo": "multiple_choice",
+            "pregunta": "Según el artículo, ¿qué criterio de ajuste en el análisis factorial confirmatorio se considera aceptable cuando el valor es menor a 3?",
+            "opciones": {
+              "A": "Comparative Fit Index (CFI)",
+              "B": "Tucker-Lewis Index (TLI)",
+              "C": "Root Mean Square Error of Aproximation (RMSEA)",
+              "D": "Chi cuadrado dividido por grados de libertad (χ2/gl)",
+              "E": "Índice de Validez Factorial (FVI)"
+            },
+            "respuesta_correcta": "D",
+            "referencia": "Sesión: Análisis Psicométricos, p. 8"
+          },
+          {
+            "numero": 42,
+            "tipo": "multiple_choice",
+            "pregunta": "¿Cuál de los siguientes métodos estadísticos para el análisis cuantitativo del juicio de expertos compara la tasa de concordancia observada con la tasa de concordancia esperada por el azar, y cuyos valores van de 0 a 1?",
+            "opciones": {
+              "A": "Kappa de Fleiss (1971)",
+              "B": "V de Aiken (1980)",
+              "C": "Índice de congruencia ítem-objetivo de Rovinelli y Hambleton (1977)",
+              "D": "Kappa de Cohen (1960)",
+              "E": "Coeficiente de Validez de Contenido de Hernández-Nieto (2002)"
+            },
+            "respuesta_correcta": "D",
+            "referencia": "Sesión: Métodos estadísticos — Tabla 3, p. 11"
+          },
+          {
+            "numero": 43,
+            "tipo": "multiple_choice",
+            "pregunta": "Según el artículo, la revisión de la literatura para identificar instrumentos existentes puede seguir los lineamientos de la declaración:",
+            "opciones": {
+              "A": "CIOMS (2017)",
+              "B": "APA (2018)",
+              "C": "PRISMA (Page et al., 2021)",
+              "D": "CONAHCyT (2023)",
+              "E": "ITC (2017)"
+            },
+            "respuesta_correcta": "C",
+            "referencia": "Sesión: Revisión de Instrumentos Existentes, p. 5"
+          },
+          {
+            "numero": 44,
+            "tipo": "multiple_choice",
+            "pregunta": "En el pilotaje y ajustes, el criterio de saturación teórica implica suspender la aplicación del instrumento cuando:",
+            "opciones": {
+              "A": "Se han aplicado al menos 15 entrevistas cognitivas a la muestra inicial.",
+              "B": "Los participantes muestran fatiga o falta de motivación para responder.",
+              "C": "Las respuestas no aportan nueva información.",
+              "D": "El tiempo promedio de resolución supera los 45 minutos.",
+              "E": "Todos los ítems del instrumento han sido evaluados cualitativamente."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "Sesión: Pilotaje y Ajustes, p. 7"
+          },
+          {
+            "numero": 45,
+            "tipo": "multiple_choice",
+            "pregunta": "Según el artículo, ¿cuál de las siguientes describe correctamente el primer paso del proceso de construcción de instrumentos de medición?",
+            "opciones": {
+              "A": "Realizar una revisión de la literatura para identificar instrumentos validados disponibles.",
+              "B": "Elaborar los ítems en sus tres modalidades: estímulos, preguntas y enunciados.",
+              "C": "Identificar la característica que se desea medir y definir con claridad el nombre del constructo de interés.",
+              "D": "Someter los ítems al juicio de un panel de expertos para determinar su validez de contenido.",
+              "E": "Administrar el instrumento a una muestra pequeña para evaluar su comprensión y aceptabilidad."
+            },
+            "respuesta_correcta": "C",
+            "referencia": "Sesión: Definición del Constructo, p. 5"
+          }
+        ]
+      },
+      {
+        "nombre": "IV. Evaluación de Enunciados Verdadero o Falso",
+        "rango_preguntas": "46-50",
+        "preguntas": [
+          {
+            "numero": 46,
+            "tipo": "true_false",
+            "pregunta": "El Coeficiente de Validez de Contenido de Hernández-Nieto (2002) solo puede aplicarse con un número exacto de cinco jueces expertos y no admite adaptaciones para paneles con mayor número de integrantes.",
+            "respuesta_correcta": "Falso",
+            "referencia": "Sesión: Coeficiente de Validez de Contenido, p. 12"
+          },
+          {
+            "numero": 47,
+            "tipo": "true_false",
+            "pregunta": "Según el artículo, la integración cualitativa del juicio de expertos recoge observaciones y sugerencias detalladas de los expertos para ampliar, eliminar o modificar los ítems.",
+            "respuesta_correcta": "Verdadero",
+            "referencia": "Sesión: Introducción, p. 4"
+          },
+          {
+            "numero": 48,
+            "tipo": "true_false",
+            "pregunta": "De acuerdo con el artículo, la validez racional siempre proporciona información insuficiente para prescindir de la validez de respuesta, por lo que ambos métodos deben utilizarse de forma obligatoria.",
+            "respuesta_correcta": "Falso",
+            "referencia": "Sesión: Validez de Contenido, p. 6"
+          },
+          {
+            "numero": 49,
+            "tipo": "true_false",
+            "pregunta": "Según el artículo, el positivismo sostiene que la realidad se rige por leyes aprehensibles para el ser humano, y espera que quien investiga sea objetivo respecto al objeto que estudia.",
+            "respuesta_correcta": "Verdadero",
+            "referencia": "Sesión: Introducción, p. 3"
+          },
+          {
+            "numero": 50,
+            "tipo": "true_false",
+            "pregunta": "El artículo establece que una puntuación de CVCic entre 0,71 y 0,80 corresponde a validez y concordancia buena entre los jueces del panel de expertos.",
+            "respuesta_correcta": "Falso",
+            "referencia": "Sesión: Integración Cuantitativa y Cualitativa — Tabla 4, p. 14"
+          }
+        ]
+      }
+    ]
+  }
+}

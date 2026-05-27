@@ -58,7 +58,7 @@
  * Para usar cualquier otra carpeta:
  *   const CONFIG_CARPETA_ACTIVA = 'NombreDeTuCarpeta';
  */
- const CONFIG_CARPETA_ACTIVA = 'Auditoria-Sustitutorio'; // 👈 CAMBIAR AQUÍ
+ const CONFIG_CARPETA_ACTIVA = 'Lectura-2026'; // 👈 CAMBIAR AQUÍ
 
 
  // ╔══════════════════════════════════════════════════════════════╗
@@ -90,7 +90,7 @@
   * La variable {numero} se extrae automáticamente del nombre de la carpeta.
   * Ejemplo: "Lectura-5" → número = 5 → buscará "index5.json"
   */
- const CONFIG_PATRON_INDEX = 'index-susti.json';
+ const CONFIG_PATRON_INDEX = 'index2026.json';
  
  
  // ╔══════════════════════════════════════════════════════════════╗
